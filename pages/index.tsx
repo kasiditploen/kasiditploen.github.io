@@ -173,7 +173,7 @@ export default function Home({
             <div className="content">
               <h2>Information Technology</h2>
               <p>
-                <h3>Mar Tech</h3>>
+                <h3>Mar Tech</h3>
                 Walk hand-in-hand with businesses. Blended the core technology with real-world experience. Graduates are key to the success Digital Transformation.
               </p>
               <ul className="actions">

@@ -14,7 +14,7 @@ export default function Home({ courseData }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Navbar title={'Computer Science'} />
+      <Navbar title={'Computer Science'} transparent={true} />
 
       <section id="one" className="wrapper style1">
         <div className="inner">
