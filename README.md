@@ -1,6 +1,6 @@
 # VMS Main Website
 Built with Next.js
-Git repo is moved from AUVMS to Chayapol personal for benefit of deploying on Vercel.
+Space-Dust's VMS Website 2022.
 
 # Structure
 - cm/ : content manager [no need, use headless-CMS WordPress with GraphQL]
