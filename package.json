@@ -1,0 +1,25 @@
+{
+  "name": "vms-main",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "mongoose": "^5.11.14",
+    "neat-csv": "^6.0.1",
+    "next": "10.0.3",
+    "nodemailer": "^6.6.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-modal": "^3.12.1",
+    "react-responsive-carousel": "^3.2.18"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.33",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.3"
+  }
+}

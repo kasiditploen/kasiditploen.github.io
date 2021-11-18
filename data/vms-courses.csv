@@ -1,0 +1,540 @@
+﻿code,name,nameTH,category,categoryTH,type,typeTH,credits,description,descriptionTH,prerequisite,remake,remarkTH
+BG 1001,English I,อังกฤษ 1,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (2-3-6),"Lower intermediate academic English, with activities to foster reading, writing, listening and speaking
+skills in English through communicative activities in a meaningful academic context.","ภาษาอังกฤษวิชาการระดับต้น โดยมีกิจกรรมต่างๆ เช่น กิจกรรมการสื􀃉อสารในบริบทเชิงวิชาการ เพื􀃉อพัฒนา
+ทักษะการอ่าน เขียน ฟัง และพูด",,,
+BG 1002,English II,อังกฤษ 2,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (2-3-6),"Intermediate academic English, reinforcing fluency and grammar with task-driven oral and writing
+exercises, developing vocabulary and sentence writing skills with combined reading comprehension
+exercises and writing practice.","ภาษาอังกฤษวิชาการระดับกลางทีเ􀃉 น้นพัฒนาความคล่องแคล่วในการใช้ภาษาและไวยากรณ์ด้วยแบบฝึกหัดทีใ􀃉 ช้
+ชิ􀃊นงานเป็นฐานเพื􀃉อเสริมสร้างทักษะด้านการพูดและการเขียน การพัฒนาฐานคำศัพท์และทักษะเพื􀃉อการแต่ง
+ประโยค โดยใช้แบบฝึกหัดการอ่านเพือ􀃉 ความเข้าใจและการเขียนควบคู่กัน",BG 1001,,
+BG 2000,English III,อังกฤษ 3,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (2-3-6),"Advanced English for academic and career purposes, emphasizing organization of ideas and clarity of
+expression and understanding","ภาษาอังกฤษระดับสูงเชิงวิชาการและเชิงวิชาชีพ เน้นการเรียบเรียงความคิดและความชัดเจนในการแสดง
+ความคิดและความเข้าใจ",BG 1002,,
+BG 2001,English IV,อังกฤษ 4,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (2-3-6),"Advanced English for academic and career purposes, emphasizing critical and analytical skills, and
+formulating logical and coherent opinions.","ภาษาอังกฤษระดับสูงเชิงวิชาการและเชิงวิชาชีพ เน้นทักษะการวิจารณ์และวิเคราะห์ รวมถึงการประมวล
+ความคิดทีส􀃉 อดคล้อง และมีเหตุผล",BG 2000,,
+GE 1403,Communication in Thai,ภาษาไทยเพื􀃉อการสื􀃉อสาร,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (3-0-6),"Communication skills to enhance understanding by effective listening, reading, writing and public
+speaking; information search for academic writing.","ทักษะการสื􀃉อสารเพื􀃉อเสริมสร้างความเข้าใจด้วยการฟัง การอ่าน การเขียน และการพูดในที􀃉ชุมชน ที􀃉มี
+ประสิทธิภาพ การค้นคว้าข้อมูลเพือ􀃉 งานเขียนเชิงวิชาการ",,Thai students only),วิชาบังคับสำหรับนักศึกษาไทย
+GE 1405,Thai Language and Culture,ภาษาและวัฒนธรรมไทย,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (3-0-6),"Thai language for basic communication, basic knowledge in listening, speaking, reading, and writing.
+Thai cultural and traditional patterns, ways of life, festivals and local culture in different parts of Thailand.","ภาษาไทยสำหรับการสื􀃉อสารเบื􀃊องต้น ความรู้เบื􀃊องต้นในการฟัง การพูด การอ่านและการเขียน วัฒนธรรมและ
+ประเพณีไทย วิถีชีวิตไทย เทศกาลและวัฒนธรรมพืน􀃊 บ้านในภูมิภาคต่างๆ ของประเทศไทย",,Non-Thai students only),วิชาบังคับสำหรับนักศึกษาต่างชาติ
+GE 1406,Burmese Language,ภาษาพม่า,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (3-0-6),"Basic Burmese language skills in listening, speaking, reading, and writing. Burmese language uses in
+daily life.",ภาษาพม่าเบือ􀃊 งต้นในการฟัง พูด อ่าน เขียน และการใช้ภาษาพม่าในชีวิตประจำวัน,,,
+GE 1407,Russian Language,ภาษารัสเซีย,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (3-0-6),"Basic Russian language in alphabet, vocabulary, and grammar for communication; basic skills in
+listening, speaking, reading and writing.","ภาษารัสเซียเบื􀃊องต้น ในเรื􀃉องพยัญชนะ คำศัพท์ และไวยากรณ์ เพื􀃉อการสื􀃉อสาร ทักษะเบื􀃊องต้นในการฟัง พูด
+อ่าน และเขียน",,,
+GE 3401,Public Speaking in Thai,การพูดภาษาไทยในที􀃉ชุมชน,General Education Courses,หมวดวิชาศึกษาทัวไป,Language Courses,กลุ่มวิชาภาษา,3 (3-0-6),"Basic knowledge and skills in communication in Thai, principles and techniques of effective speaking,
+practical experience, and development of speakers' personality","ความรู้และทักษะพืน􀃊 ฐานในการใช้ภาษาไทย หลักการและกลวิธีการพูดทีม􀃉 ีประสิทธิภาพ การฝึกฝนการพูดให้มี
+ประสิทธิภาพ และการพัฒนาบุคลิกภาพ",,,
+BG 1400,Business Law I,กฎหมายธุรกิจ 1,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"Basic knowledge of business laws, the relation between laws and business, major legal systems,
+fundamental civil laws and criminal laws, Thai court systems, civil laws on persons, properties, juristic
+acts, contracts, obligations, selected specific contracts which businesspeople should be aware of, and
+electronic commerce","ความรู้เบือ􀃊 งต้นเกีย􀃉 วกับกฎหมายธุรกิจ ความสัมพันธ์ระหว่างกฎหมายกับธุรกิจ ระบบกฎหมายหลัก พืน􀃊 ฐานทาง
+กฎหมายแพ่งและกฎหมายอาญา ระบบศาลไทย กฎหมายแพ่งเกี􀃉ยวกับบุคคล ทรัพย์สิน นิติกรรม-สัญญาหนี􀃊
+เอกเทศสัญญาทีน􀃉 ักธุรกิจควรทราบ และระบบการค้าแบบอิเล็คทรอนิค (E-Commerce)",,,
+GE 1101,Thai Civilization,อารยธรรมไทย,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"Foundation and evolution of the Thai race from prehistoric, and historical periods in the Sukhothai,
+Ayudhaya, Thonburi, and Rattanakosin periods. Thai culture and society during the present period under
+King Rama IX. The implementation of the Self-sufficiency Economy and other royal projects.","ความเป็นมาและวิวัฒนาการของชนชาติไทยจากยุคก่อนประวัติศาสตร์ถึงยุคสุโขทัย อยุธยา ธนบุรี และ
+รัตนโกสินทร์ วัฒนธรรมและสังคมไทยในยุคปัจจุบันในสมัยรัชกาลที 􀃉 9 และการนำทฤษฎีเศรษฐกิจพอเพียงและ
+โครงการในพระราชดำริอื􀃉นๆ มาใช้",,,
+GE 1102,Introduction to Philosophy,ปรัชญาเบื􀃊องต้น,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"History of Western, Greek, modern, and contemporary philosophy, focusing on metaphysics,
+epistemology, life value and application.","ประวัติศาสตร์ปรัชญาตะวันตก ปรัชญากรีก ปรัชญาสมัยใหม่ ปรัชญาร่วมสมัย โดยเน้นอภิปรัชญา ญาณวิทยา
+คุณค่าชีวิต และการประยุกต์ใช้",,,
+GE 2101,World Civilization,อารยธรรมโลก,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"Development of human society, rise and fall of civilizations, achievements and heritages of Western and Eastern civilizations since ancient times in order to understand their roots; globalization impacts on modern societies; cross-cultural society.",วิวัฒนาการของสังคมมนุษย์ การเกิดและการล่มสลายของอารยธรรม ความสำเร็จและมรดกของอารยธรรม ตะวันตกและอารยธรรมตะวันออกตัง􀃊 แต่ยุคโบราณ เพือ􀃉 เข้าใจและประยุกต์ทีม􀃉 าและผลกระทบของโลกาภิวัตน์ต่อ สังคมในยุคปัจจุบันและสังคมแห่งความต่างวัฒนธรรม,,,
+GE 2103,Art of Reasoning,ศิลปะการใช้เหตุผล,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"Fundamental analysis of logical elements and rational applications for daily life emphasizing on deductive
+and inductive methods of validity and fallacy.","การวิเคราะห์พื􀃊นฐานองค์ประกอบทางตรรกวิทยา รวมทัง􀃊 การประยุกต์ใช้ความมีเหตุผลในชีวิตประจำวัน โดย
+เน้นทีว􀃉 ิธีการอ้างเหตุผลอย่างถูกต้องทัง􀃊 แบบนิรนัยและแบบอุปนัย รวมทัง􀃊 การอ้างอิงเหตุผลแบบผิดหลักการ",,,
+GE 2104,Thai Buddhism,พระพุทธศาสนาไทย,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"General concepts of Buddhism, history of Buddhism in Thailand and influences of Buddhism towards
+Thai Buddhists’ way of life","แนวคิดทัว􀃉 ไปของพระพุทธศาสนา ประวัติความเป็นมาของพระพุทธศาสนาในประเทศไทย และอิทธิพลของ
+พระพุทธศาสนาต่อวิถีชีวิตของพุทธศาสนิกชนชาวไทย",,,
+GE 2105,Introduction to World Religion,ศาสนาโลกเบื􀃊องต้น,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"World religions, both Western and Eastern: Judaism, Christianity, Islam, Hinduism, Sikhism, and
+Buddhism, theories of religions, ethical theories, understanding of cultural varieties and religious ways of
+life.","ศาสนาโลกทัง􀃊 ตะวันตกและตะวันออก อาทิ ศาสนายิว ศาสนาคริสต์ ศาสนาอิสลาม ศาสนาฮินดู ศาสนาซิกซ์
+และพระพุทธศาสนา ทฤษฏีศาสนศาสตร์และทฤษฏีจริยศาสตร์ ความเข้าใจในความหลากหลายทางวัฒนธรรม
+และการใช้ชีวิตตามหลักธรรมของศาสนา",,,
+GE 2106,Logical Thinking and Application,การคิดเชิงตรรกะและการประยุกต์ใช้,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"Analytical study of complicate logic through symbolization, justification of argumentative validity via
+contingency of statements, and consistency of premises in Logical Formulae","การศึกษาเชิงวิเคราะห์ของตรรกวิทยาแบบซับซ้อนโดยอาศัยการแปลงให้เป็นสัญลักษณ์ การกำหนดความ
+สมเหตุสมผลของข้อโต้แย้งโดยอาศัยข้อเท็จจริงของข้อความและความคงทีข􀃉 องข้ออ้างอิงตามหลักตรรกวิทยา",,,
+GE 2107,Applied Philosophy in Social Sciences and Humanities,ปรัชญาประยุกต์ในสังคมศาสตร์และมนุษยศาสตร์,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"Applied philosophy, value of life and real-life applications in social sciences and humanities; including
+political philosophy, social philosophy, philosophy of language, philosophy of education, philosophy of
+religion, philosophy of mind, feminist philosophy, and moral philosophy","ปรัชญาประยุกต์ คุณค่าชีวิต และการประยุกต์ใช้ในชีวิตจริง ปรัชญาการเมือง ปรัชญาสังคม ปรัชญาภาษา
+ปรัชญาการศึกษา ปรัชญาศาสนา ปรัชญาจิต ปรัชญาภาวะสตรี และปรัชญาจริยศาสตร์",,,
+MGT 2404,Managerial Psychology,จิตวิทยาการจัดการ,General Education Courses,หมวดวิชาศึกษาทัวไป,Humanities Courses,กลุ่มวิชามนุษยศาสตร์,3 (3-0-6),"Concepts and scope of social psychology, basic psychological factors and how they relate to business
+organization, language symbol, perception, memory, emotion, social attitudes, persuasion, social and
+cultural environment, role and status, personality, leadership, group behaviour, morale and application
+of these factors in the human relation of business, especially in creation of morale, motivation of workers,
+and solutions of business and social problems.","แนวคิดและขอบเขตของจิตวิทยาชุมชน ปัจจัยของจิตวิทยาขัน􀃊 พื􀃊นฐานและการนำไปเชื􀃉อมโยงกับองค์กรธุรกิจ
+ได้แก่ การสำรวจด้านสัญลักษณ์ทางภาษาสือ􀃉 ความเข้าใจ ความจำ อารมณ์ ทัศนคติชุมชน การโน้มน้าวชักชวน
+สภาพแวดล้อมของชุมชนและวัฒนธรรม บทบาทและสถานะภาพ บุคลิกลักษณะ ความเป็นผู้นำ พฤติกรรมของ
+กลุ่ม ศีลธรรมจรรยาและการนำปัจจัยดังกล่าวมาประยุกต์กับการสร้างมนุษย์สัมพันธ์ทางธุรกิจ โดยเฉพาะอย่าง
+ยิง􀃉 ในการสร้างศีลธรรมจรรยาและการสร้างแรงจูงใจให้กับพนักงาน รวมถึงแก้ปัญหาทัง􀃊 ทาง",,,
+GE 1207,Fundamental Psychology,จิตวิทยาเบื􀃊องต้น,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Theories of psychology; sensations, perception, memorizing and forgetting processes; language and
+thought; motivation, stress and its effect on human behaviours; responding to difficult life situation","ทฤษฎีทางจิตวิทยาต่างๆ ความรู้สึกต่อการสัมผัส การรับรู้ กระบวนการจำ และกระบวนการลืม ภาษาและ
+ความคิด แรงจูงใจ ความเครียดและผลกระทบที􀃉มีต่อพฤติกรรมมนุษย์ การตอบสนองต่อสถานการณ์ยุ่งยากใน
+ชีวิต",,,
+GE 1203,"Society, Politics and Economics",สังคม การเมืองและเศรษฐกิจ,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Culture and relationship between culture and individual, factors in social and cultural changes, social
+changes, contemporary social problems and social control, political and economic functions, the causes
+and consequences of World War I, II and the Cold War, political and economic changes, globalization
+and related problems.","วัฒนธรรมและความสัมพันธ์ระหว่างวัฒนธรรมและปัจเจกบุคคล ปัจจัยของการเปลี􀃉ยนแปลงทางสังคมและ
+วัฒนธรรม การเปลี􀃉ยนแปลงทางสังคม ปัญหาสังคมในยุคปัจจุบันและการควบคุมทางสังคม องค์ประกอบทางการเมืองและเศรษฐกิจ เหตุและผลสืบเนื􀃉องจากการเกิดสงครามโลกครัง􀃊 ที􀃉 1 และ 2 และสงครามเย็น การ
+เปลีย􀃉 นแปลงทางการเมืองและเศรษฐกิจ โลกาภิวัตน์ และปัญหาทีเ􀃉 กีย􀃉 วข้อง",,,
+GE 1205,ASEAN Ways,วิถีอาเซียน,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Understanding ASEAN, valuing concepts of identity and diversity, connecting global and local issues,
+relationship among ASEAN member states, importance of working with other nations to overcome
+challenges, economic and resource policies, and practices to promote the well-being of nations and
+individuals.","ความรู้เกี􀃉ยวกับอาเซียน การเห็นคุณค่าของอัตลักษณ์และความหลากหลาย การเชื􀃉อมโยงโลกและท้องถิ􀃉น
+ความสัมพันธ์ระหว่างประเทศสมาชิกอาเซียน ความสำคัญของการทำงานร่วมกับชาติอื􀃉นเพื􀃉อเอาชนะสิง􀃉 ท้าทาย
+นโยบายทางเศรษฐกิจและทรัพยากร และแนวปฏิบัติทีส􀃉 ่งเสริมความเป็นอยู่ทีด􀃉 ีของชาติและบุคคล",,,
+GE 1206,Philosophy of Sufficiency Economy,ปรัชญาเศรษฐกิจพอเพียง,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Philosophy of the Sufficiency Economy concept and its pillars, ways of life in urban society in accordance
+with the philosophy, Sufficiency Economy process-driven society and daily life, applying Sufficiency
+Economy Philosophy to everyday life, Sufficiency Economy for sustainable development, Royal projects
+in accordance with the philosophy","ความคิดรวบยอดและเสาหลักของปรัชญาเศรษฐกิจพอเพียง วิถีชีวิตในสังคมเมืองตามแนวทางปรัชญาเศรษฐกิจ
+พอเพียง กระบวนการขับเคลื􀃉อนเศรษฐกิจพอเพียงในชุมชนและในชีวิตประจำวัน การประยุกต์ใช้ปรัชญา
+เศรษฐกิจพอเพียงในชีวิตประจำวัน เศรษฐกิจพอเพียงเพื􀃉อการพัฒนาอย่างยัง􀃉 ยืน โครงการในพระราชดำริตาม
+แนวทางปรัชญาเศรษฐกิจพอเพียง",,,
+GE 2202,Ethics,จริยธรรม,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Teachings of major world religions, the role of conscience, self-development in the moral arena, building
+self-esteem, self-knowledge, and good habits, distinguishing the right from the wrong, doing the right
+and refraining from the wrong, attaining a more fulfilling life.","คำสอนของศาสนาหลักในโลก บทบาทของความรู้สึกผิดชอบชัว􀃉 ดี การพัฒนาตนเองในขอบเขตแห่งศีลธรรม การ
+สร้างความภาคภูมิใจในตนเอง การรู้จักตนเองและการสร้างนิสัยที􀃉ดี การจำแนกความถูกและความผิด กระทำ
+ตามความถูกต้องและละเว้นจากการกระทำทีผ􀃉 ิด การเข้าถึงการเติมเต็มชีวิตทีส􀃉 มบูรณ์ขึน",,,
+GE 2203,Art of Living,ศิลปะแห่งการใช้ชีวิต,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Self-exploration, understanding ways to improve self-esteem, analysing real-life problems, conflict and
+stress, breaking bad habits, power of positive thinking, designing plans to live a happy life.","การค้นหาตัวตน ความเข้าใจวิธีการพัฒนาความรู้สึกเคารพและมัน􀃉 ใจในตัวเอง การวิเคราะห์ปัญหาในชีวิตจริง
+ความขัดแย้ง และความเครียด การขจัดนิสัยไม่ดีในตัวเอง พลังของการคิดบวก การออกแบบแผนการใช้ชีวิต
+อย่างมีความสุข",,,
+GE 2205,Communication and Multicultural society,ทักษะการสื􀃉อสารและสังคมพหุวัฒนธรรม,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Communication skills, effective interaction with other people, human relationships in a multicultural
+society, interpersonal intelligence, skills in learning and living with others","ทักษะการสื􀃉อสาร ปฏิสัมพันธ์ที􀃉มีประสิทธิภาพกับบุคคลอื􀃉น มนุษยสัมพันธ์ในสังคมที􀃉มีความหลากหลายด้าน
+วัฒนธรรม ปัญญาด้านมนุษยสัมพันธ์ ทักษะในการเรียนและการใช้ชีวิตร่วมกับผู้อื􀃉น",,,
+GE 2206,Personality Development,การพัฒนาบุคลิกภาพ,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"mprovement of one’s self-confidence and self-esteem, think positively towards themselves, how to make
+friends, international table manners, dressing up oneself to match one’s personality, keeping healthy,
+applying makeup, public speaking, interpersonal relationship skills","การพัฒนาความมัน􀃉 ใจในตนเองและการรู้คุณค่าในตนเอง ทัศนคติเชิงบวกทีม􀃉 ีต่อตนเอง การสร้างความสัมพันธ์
+ระหว่างเพื􀃉อน มารยาทในการรับประทานอาหารแบบสากล การแต่งกายให้เหมาะสมกับบุคลิกภาพของตนเอง
+การดูแลรักษาสุขภาพของตัวเอง การแต่งหน้า การพูดในทีช􀃉 ุมชน ทักษะความสัมพันธ์ระหว่างบุคคล",,,
+GE 2207,"Sport, Health and Wellness Development",กีฬา สุขภาพ และการพัฒนาคุณภาพชีวิต,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Knowledge and understanding of sports, exercise, health promotion and fitness, principle of sport
+spectating, selection of sport activities, self-care for good health and wellness development","ความรู้ ความเข้าใจเกี􀃉ยวกับการเล่นกีฬา การออกกำลังกาย การส่งเสริมสุขภาพ และการเสริมสร้างสมรรถภาพ
+ทางกาย หลักการดูกีฬา การเลือกกิจกรรมกีฬา การดูแลตนเองเพือ􀃉 สุขภาพทีด􀃉 ี และการพัฒนาสุขภาวะ",,,
+GE 2208,Thai Politics and Government,การเมืองการปกครองไทย,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Thai politics from monarchy to democracy, political reforms, development of democracy, involvement of
+civil and private sectors, election, political ethics","การเมืองไทยจากระบอบสมบูรณาญาสิทธิราชย์จนถึงระบอบประชาธิปไตย การปฏิรูปการเมืองไทย การพัฒนา
+ระบอบประชาธิปไตย การมีส่วนร่วมของภาคประชาชนและภาคเอกชน การเลือกตัง􀃊 จริยธรรมทางการเมือง",,,
+MGT 1101,Introduction to Business,ธุรกิจเบื􀃊องต้น,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"General introduction to business, philosophy, objectives and responsibility of business enterprises,
+business vocabulary, business and its environment emphasizing fundamental principles of organization,
+legal forms of business ownership, business activities concerning personnel, accounting, marketing,
+production and finance.","พื􀃊นฐานทัว􀃉 ไปทางธุรกิจ ปรัชญา จุดมุ่งหมาย และหน้าที􀃉ความรับผิดชอบขององค์กรธุรกิจ คำนิยามต่างๆ ทาง
+ธุรกิจ ธุรกิจและสภาพแวดล้อมทางธุรกิจ หลักการพื􀃊นฐานในการจัดการองค์กร รูปแบบทางกฎหมายของการ
+เป็นเจ้าของธุรกิจ กิจกรรมทางธุรกิจทีเ􀃉 กีย􀃉 วข้องกับบุคลากร การบัญชี การตลาด การผลิตและการเงิน",,,
+ECO 2200,Introduction to Economics,เศรษฐศาสตร์เบื􀃊องต้น,General Education Courses,หมวดวิชาศึกษาทัวไป,Social Science Courses,กลุ่มวิชาสังคมศาสตร์,3 (3-0-6),"Economic concepts and theories in making decisions at individual, market, and aggregate levels focusing
+on consumer decision, pricing mechanism, demand and supply analysis, market equilibrium, theory of
+the firm, perfectly and imperfectly competitive market structures, national income accounts,
+unemployment, inflation, and fiscal and monetary policies.","แนวคิดและทฤษฎีเศรษฐศาสตร์เพื􀃉อนำไปตัดสินใจในระดับปัจเจกชนระดับตลาด และระดับมวลรวม โดยเน้น
+ด้านการตัดสินใจของผู้บริโภค กลไกราคา การวิเคราะห์อุปสงค์และอุปทาน ดุลยภาพของตลาด โครงสร้างของ
+ตลาดแข่งขันสมบูรณ์และไม่สมบูรณ์ บัญชีรายได้ประชาชาติ การว่างงาน ภาวะเงินเฟ้อ นโยบายการคลัง และ
+นโยบายการเงิน",,,
+GE 1301,Environmental Science,วิทยาศาสตร์สิ􀃉งแวดล้อม,General Education Courses,หมวดวิชาศึกษาทัวไป,Science and Mathematics Courses,กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์,3 (3-0-6),"General science, scientific approaches, understanding the interrelationships of the nature, identification
+and analysis of environmental problems, application and alternative solutions for preventing and solving
+environmental problems","วิทยาศาสตร์ทัว􀃉 ไป กระบวนการคิดทางวิทยาศาตร์ ความเข้าใจความสัมพันธ์ของธรรมชาติ การแยกแยะและ
+วิเคราะห์ปัญหาสิ􀃉งแวดล้อม การประยุกต์ใช้และวิธีการแก้ปัญหาที􀃉หลากหลายเพื􀃉อป้องกันและแก้ปัญหา
+สิ􀃉งแวดล้อม",,,
+GE 2301,Lifestyles in Dynamic World,วิถีชีวิตในโลกที􀃉เปลี􀃉ยนแปลง,General Education Courses,หมวดวิชาศึกษาทัวไป,Science and Mathematics Courses,กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์,3 (3-0-6),"Relationship between lifestyle choices and impacts of these choices on individual’s health and the global
+environment, scientific approaches to nutrition, supplements, sleep, rest, exercise, and sexuality.
+Evaluation of individual healthy and eco- friendly lifestyles.","ความสัมพันธ์ระหว่างผลกระทบของวิถีการเลือกใช้ชีวิตประจำวันต่อสุขภาพมนุษย์ และสภาพแวดล้อมของโลก
+แนวทางวิทยาศาสตร์ต่อประเด็นด้านโภชนาการ อาหารเสริม การนอนหลับ การพักผ่อน การออกกำลังกายและ
+เพศสัมพันธ์ การประเมินค่าในวิถีการใช้ชีวิตทีด􀃉 ีต่อสุขภาพและเป็นมิตรต่อสิง􀃉 แวดล้อม",,,
+GE 2302,Climate Change and Human Life,การเปลี􀃉ยนแปลงสภาพภูมิอากาศโลกและชีวิตมนุษย์,General Education Courses,หมวดวิชาศึกษาทัวไป,Science and Mathematics Courses,กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์,3 (3-0-6),"Scientific foundations of global climate change, linkages between global climate change and impacts to
+human health and their way of life, application of mitigation and adaptation strategies to minimize the
+impacts of climate change on health and life.","แนวคิดทางวิทยาศาสตร์เกี􀃉ยวกับการเปลีย􀃉 นแปลงสภาพภูมิอากาศโลก การเชื􀃉อมโยงความสัมพันธ์ระหว่างการ
+เปลีย􀃉 นแปลงสภาพภูมิอากาศโลกกับผลกระทบทีอ􀃉 าจเกิดขึ􀃊นต่อภาวะสุขภาพและวิถีชีวิตมนุษย์ การประยุกต์ใช้
+กลยุทธ์ด้านการบรรเทาความรุนแรงของปัญหาและกลยุทธ์ด้านการปรับตัวต่อสภาพปัญหาเพือ􀃉 ลดผลกระทบจาก
+การเปลีย􀃉 นแปลงสภาพภูมิอากาศโลกทีม􀃉 ีต่อภาวะสุขภาพ",,,
+GE 2303,Building Brilliant Brain,การเสริมสร้างอัจฉริยภาพสมอง,General Education Courses,หมวดวิชาศึกษาทัวไป,Science and Mathematics Courses,กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์,3 (3-0-6),"Scientific knowledge about daily living factors promoting brilliant brain function, applying neuroscience
+research findings to brain healthy nutrition, fitness, attention adjustment and memory to improve
+individual’s brain performance, creativity and success in everyday learning.","ความรู้ทางวิทยาศาสตร์เกี􀃉ยวกับปัจจัยในชีวิตประจำวันที􀃉ส่งเสริมการทำงานของสมองมนุษย์ การประยุกต์ใช้
+ผลการวิจัยด้านประสาทวิทยา โภชนาการเพื􀃉อสุขภาพสมอง การบริหารสมอง การปรับความสนใจและความจำ
+เพือ􀃉 ส่งเสริมศักยภาพของสมอง ความคิดสร้างสรรค์ และความสำเร็จในการเรียนรู้ในชีวิตประจำวัน",,,
+MA 1200,Mathematics for Business,คณิตศาสตร์ธุรกิจ,General Education Courses,หมวดวิชาศึกษาทัวไป,Science and Mathematics Courses,กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์,3 (3-0-6),"Relation and Various functions: linear, polynomial, exponential, logarithmic, rational and their applications
+in business and economics, linear programming, mathematics of finance and differential calculus: limits,
+derivatives, and optimization.","ความสัมพันธ์และฟังก์ชัน􀃉 ต่างๆ ซึ􀃉งประกอบด้วย ฟังก์ชัน􀃉 เชิงเส้น ฟังก์ชัน􀃉 พหุนาม ฟังก์ชัน􀃉 เอกซ์โพเนนเชียล
+ฟังก์ชันลอการึทึม ฟังก์ชัน􀃉 ตรรกยะ และการประยุกต์ทางเศรษฐกิจ โปรแกรมเชิงเส้นเบื􀃊องต้น คณิตศาสตร์
+การเงิน และแคลคูลัสซึง􀃉 ประกอบด้วย ลิมิต อนุพันธ์ ของฟังก์ชัน",,,
+ACT 1601,Fundamentals of Financial Accounting,การบัญชีการเงินเบือ􀃊 งต้น,General Education Courses,หมวดวิชาศึกษาทัวไป,Science and Mathematics Courses,กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์,3 (3-0-6),"Basic accounting theory and procedures for service and merchandising firms by using double-entry
+system, completing accounting process: journalizing, posting to the ledgers, preparation of trial balance,
+adjusting entries, worksheet and closing entries, as well as preparation and presentation of basic financial
+statements.","ทฤษฎีพืน􀃊 ฐานและหลักการวิธีการบัญชีสำหรับกิจการซือ􀃊 ขายสินค้าและกิจการให้บริการ ตามหลักบัญชีคู่ การทำ
+บัญชีอย่างครบถ้วนตามวงจรการบัญชี การบันทึกรายการในสมุดรายวัน การผ่านรายการไปยังบัญชีแยก
+ประเภท จัดทำงบทดลอง การปรับปรุง จัดทำกระดาษทำการ การปิดบัญชี และการจัดทำและนำเสนองบการเงิน
+พืน􀃊 ฐาน",,"For Arts Students, For Science & Technology Students","สำหรับนักศึกษาคณะศิลปศาสตร์,นักศึกษาคณะวิทยาศาสตร์และเทคโนโลยี"
+CSX 1001,Basic Mathematics and Statistics,คณิตศาสตร์และสถิติพื􀃊นฐาน,General Education Courses,หมวดวิชาศึกษาทัวไป,Science and Mathematics Courses,กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์,3 (3-0-6),"Basic foundation in mathematics and statistics such as real numbers and sets, algebra, linear equations
+and inequalities, analytic geometry, functions, trigonometry, conic sections, matrix algebra, sequences
+and series, data and statistics, and methods for summarizing and describing sets of data.","ความรู้พืน􀃊 ฐานด้านคณิตศาสตร์และสถิติ ได้แก่ ระบบจำนวนจริงและเซต พีชคณิต สมการเชิงเส้นและอสมการ
+เรขาคณิตวิเคราะห์ ฟังก์ชัน􀃉 ตรีโกณมิติ ภาคตัดกรวย เมทริกซ์ อันดับและอนุกรม ข้อมูลและสถิติ วิธีการสรุป
+ข้อมูลและการอธิบายลักษณะข้อมูล",,,
+CSX 2002,Calculus,แคลคูลัส,Specialized Courses,หมวดวิชาเฉพาะด้าน,Core Courses,วิชาแกน,3 (3-1-7),"Rate of change, limits, finding limits and continuity, derivatives of function, chain rule, techniques of
+differentiation and its application, L’Hopital’s rule. Integration, integration techniques and application of
+integrals.","อัตราการเปลีย􀃉 นแปลง การหาค่าลิมิตและความต่อเนื􀃉อง อนุพันธ์ของฟังก์ชัน กฏลูกโซ่ เทคนิคการอนุพันธ์และ
+การประยุกต์ของอนุพันธ์ กฏโลปิตาล การอินทิเกรต เทคนิคการอินทิเกรตและการประยุกต์",CSX 1001,,
+CSX 2003,Principles of Statistics,หลักการสถิติ,Specialized Courses,หมวดวิชาเฉพาะด้าน,Core Courses,วิชาแกน,3 (3-1-7),"Basic probability theory, random variables, sampling distributions, statistical inference for one population
+and two populations, Analysis of Variance, and analysis of categorical data.","พืน􀃊 ฐานทฤษฎีความน่าจะเป็น ตัวแปรสุ่ม การแจกแจงของค่าตัวอย่าง สถิติเชิงอนุมานสำหรับประชากร 1 กลุ่ม
+และประชากร 2 กลุ่ม การวิเคราะห์ความแปรปรวน และการวิเคราะห์ข้อมูลเชิงกลุ่ม",CSX 1001,,
+CSX 2004,UI/UX Design and Prototyping,การออกแบบและสร้างต้นแบบส่วนติดต่อและประสบการณ์ผู้ใช้งาน,Specialized Courses,หมวดวิชาเฉพาะด้าน,Core Courses,วิชาแกน,3 (3-0-6),"Overview of interactive systems, user capabilities, interface technology, design thinking process, user
+stories and scenarios, wireframes and storyboards, prototyping, interaction design, usability design and
+testing.","ภาพรวมของปฏิสัมพันธ์ระหว่างมนุษย์กับคอมพิวเตอร์ ความสามารถของผู้ใช้ เทคโนโลยีหน้าจอ ขัน􀃊 ตอน
+กระบวนการคิดสำหรับการออกแบบ เนื􀃊อความและโครงเรื􀃉องของผู้ใช้ การวาดโครงร่างโปรแกรม และกำหนด
+เนื􀃊อหา การสร้างแบบจำลอง แบบจำลองเสมือนจริง การออกแบบปฏิสัมพันธ์ การออกแบบและทดสอบ
+ความสามารถในการใช้งาน",,,
+CSX 2005,Design Thinking ,แนวคิดเชิงออกแบบ,Specialized Courses,หมวดวิชาเฉพาะด้าน,Core Courses,วิชาแกน,3 (3-0-6),"Overview of design process, problem interpretation, ideation, experimentation, solution discovery, design
+thinking approach to develop products, services, or solutions for complex problems; design thinking
+methodology, techniques, and supporting tools.","ภาพรวมของกระบวนการออกแบบ การตีความปัญหา กระบวนการคิด การทดลอง การค้นคว้าหาวิธีแก้ปัญหา
+วิธีการคิดเชิงออกแบบเพื􀃉อพัฒนาผลิตภัณฑ์ บริการ หรือวิธีแก้ปัญหาที􀃉ซับซ้อน ระเบียบวิธีการ เทคนิค และ
+เครื􀃉องมือสนับสนุนการคิดเชิงออกแบบ",,,
+CSX 2006,Mathematics and Statistics for Data Science,คณิตศาสตร์และสถิติสำหรับวิทยาการข้อมูล 3,Specialized Courses,หมวดวิชาเฉพาะด้าน,Core Courses,วิชาแกน,3 (3-1-7),"Linear algebra such as vector spaces in n-space, inner product, norm and distance, orthogonal vector,
+vector product, Orthogonal functions and Fourier series, including various techniques in multivariate data
+analysis such as multiple regression analysis, discriminant analysis, logistic regression analysis, principal
+component analysis, factor analysis, and cluster analysis.","พีชคณิตเชิงเส้น ได้แก่ ปริภูมิเวคเตอร์ใน n-มิติ ผลคูณภายใน นอร์มและระยะทาง เวคเตอร์ตัง􀃊 ฉาก ผลคูณเชิง
+เวคเตอร์ ฟังก์ชันเชิงตัง􀃊 ฉากและอนุกรมฟูเรียร์ รวมทัง􀃊 เทคนิคต่างๆในการวิเคราะห์ข้อมูลหลายตัวแปรได้แก่
+การวิเคราะห์ถดถอยพหุคูณ การวิเคราะห์จำแนกกลุ่ม การวิเคราะห์ถดถอยโลจิสติก การวิเคราะห์องค์ประกอบ
+หลัก การวิเคราะห์องค์ประกอบ และการวิเคราะห์จัดกลุ่ม",CSX 2003,,
+CSX 2007,Data Science,วิทยาการข้อมูล,Specialized Courses,หมวดวิชาเฉพาะด้าน,Core Courses,วิชาแกน,3 (3-0-6),"Comprehensive problem-solving mindset, principles, techniques and tools to deal with various facets of
+data science practices including data preparation and visualization, exploration, description and prediction
+required for knowledge extraction in both science and business domains.","การประมวลองค์ความรู้ในการแก้ปัญหา หลักการ กลวิธี และ เครื􀃉องมือต่างๆ เพือ􀃉 นำมาใช้ในการจัดการประเด็น
+ปัญหาทีเ􀃉 กิดขึน􀃊 ตามแนวปฏิบัติของนักวิทยาศาสตร์ข้อมูล ทีป􀃉 ระกอบไปด้วย กระบวนการในการจัดเตรียมข้อมูล
+และการทำให้มองเห็นภาพ กระบวนการสำรวจ กระบวนการอธิบายและการคาดการณ์ ซึ􀃉งเป็นที􀃉ต้องการในการ
+สกัดองค์ความรู้ ทัง􀃊 ในด้านวิทยาศาสตร์ และธุรกิจ",CSX 2006,,
+CSX 2008,Mathematics Foundation for Computer Science,คณิตศาสตร์พื􀃊นฐานสำหรับวิทยาการคอมพิวเตอร์,Specialized Courses,หมวดวิชาเฉพาะด้าน,Core Courses,วิชาแกน,3 (3-0-6),"Discrete mathematics as the basis of computer science, set theory, relation and function, recursive
+functions, logic and logical proving, mathematical reasoning, graph theory, tree, algebraic structure,
+probability, model of computation and automata.","คณิตศาสตร์แบบไม่ต่อเนื􀃉องทีเ􀃉 ป็นพื􀃊นฐานสำหรับวิทยาการคอมพิวเตอร์ ทฤษฎีเซต ความสัมพันธ์และฟังก์ชัน􀃉
+ฟังก์ชัน􀃉 รีเคอร์ซีฟ ตรรกและการพิสูจน์ทางตรรกแบบต่างๆ การใช้เหตุผลทางคณิตศาสตร์ ทฤษฏีกราฟ
+โครงสร้างต้นไม้ โครงสร้างทางพีชคณิต ความน่าจะเป็น แบบจำลองการคำนวณ และ ออโตมาต้า",,,
+CSX 2001,Introduction to Information Technology,เทคโนโลยีสารสนเทศเบื􀃊องต้น,Major Courses,วิชาเอก,Organization Issues and Information Systems Group,กลุ่มประเด็นองค์การและระบบสารสนเทศ,3 (3-0-6),"Components of IT systems, its' usage and applications, computer hardware and software and its'
+operations, communication systems and computer networks basic, applications of current technology,
+emerging IT-related technologies.","ส่วนประกอบ การใช้งาน และแอปพลิเคชัน􀃉 ของระบบสารสนเทศ ฮาร์ดแวร์ ซอฟต์แวร์ และการทำงานของ
+คอมพิวเตอร์ ระบบสื􀃉อสารและเครือข่ายคอมพิวเตอร์เบื􀃊องต้น แอฟพลิเคชัน􀃉 ต่างๆ ของเทคโนโลยีในปัจจุบัน
+เทคโนโลยีสารสนเทศทีเ􀃉 กิดขึน􀃊 ใหม่",,,
+CSX 3010,Senior Project I,โครงงานพิเศษ 1,Major Courses,วิชาเอก,Applications Technology Group,กลุ่มเทคโนโลยีเพื􀃉องานประยุกต์,3 (3-0-6),"Specific project which requires students to design and develop a concrete program or system, analyze
+the problem, define the solution and design the system by applying the various computer science
+concepts. The advisor whom the students select will guide them throughout the project development.
+The students must give presentation which includes oral examination.","นักศึกษาแต่ละกลุ่มต้องทำโครงงานเฉพาะเรื􀃉องโดยออกแบบระบบและพัฒนาให้เป็นรูปธรรม ปัญหาทีเ􀃉 ลือกทำ
+จะต้องเป็นปัญหาที􀃉ต้องมีการวิเคราะห์ การออกแบบ การหาคำตอบ โดยใช้พื􀃊นฐานความรู้ทางคอมพิวเตอร์
+อาจารย์ที􀃉ปรึกษาที􀃉นักศึกษาเลือกจะเป็นผู้ให้ให้คำปรึกษาตัง􀃊 แต่ต้นจนสิ􀃊นสุดโครงงาน และมีการสอบปากเปล่า
+เกีย􀃉 วกับโครงงานด้วย",Third-year student status with at least 72 credits completed,,
+CSX 3011,Senior Project II,โครงงานพิเศษ 2,Major Courses,วิชาเอก,Organization Issues and Information Systems Group,กลุ่มประเด็นองค์การและระบบสารสนเทศ,3 (3-0-6),"System development project from the industry, students have to work with the companies under the
+supervision of their advisor throughout the project. The students must give presentation which includes
+oral examination.","โครงการพัฒนาระบบจากภาคอุตสาหกรรม นักศึกษาต้องทำงานร่วมกับบริษัทภายใต้การควบคุมดูแลของ
+อาจารย์ทีป􀃉 รึกษาตลอดโครงการ นักศึกษาต้องทำการนำเสนอผลงานรวมไปถึงการสอบปากเปล่า",fourth-year student status with at least 100 credits completed,,
+CSX 3001,Fundamentals of Computer Programming,พื􀃊นฐานการเขียนโปรแกรมคอมพิวเตอร์,Major Courses,วิชาเอก,Technology and Software Methods Group,กลุ่มเทคโนโลยีและวิธีการทางซอฟต์แวร์,3 (3-0-6),"History of computer, components of a computer system, coding and numbering systems, algorithm and
+development process of algorithms and expression of algorithms in terms of flowchart and pseudo code,
+implementation of algorithms using one of the high level languages that are used widely in the industry
+with emphasis on the nature and structure of the language, techniques of programming for both numerical
+and non-numerical processing, structure of the programming languages and how to develop structured
+programming","ประวัติของคอมพิวเตอร์ องค์ประกอบของระบบคอมพิวเตอร์ การเข้ารหัส และระบบจำนวนต่างๆ การพัฒนา
+ขัน􀃊 ตอนวิธีทีใ􀃉 ช้ในการแก้ปัญหา โดยเขียนเป็นผังงาน พร้อมทัง􀃊 ทำให้เกิดผลโดยการเขียนด้วยโปรแกรมระดับสูง
+ซึ􀃉งกำลังใช้อย่างแพร่หลายในปัจจุบัน โดยเน้นที􀃉ธรรมชาติและโครงสร้างของภาษา เทคนิคของการเขียน
+โปรแกรมทัง􀃊 สำหรับการประมวลผลเชิงเลขและไม่เชิงเลข โครงสร้างของภาษาโปรแกรมต่างๆ และวิธีการพัฒนา
+โปรแกรมแบบโครงสร้าง",,,
+CSX 3002,Object-Oriented Concepts and Programming,แนวคิดและการเขียนโปรแกรมเชิงวัตถุ,Major Courses,วิชาเอก,Organization Issues and Information Systems Group,กลุ่มประเด็นองค์การและระบบสารสนเทศ,3 (3-0-6),"Different software development methods emphasizing on object oriented methods, fundamental concepts
+of object oriented programming, inheritance, polymorphism, encapsulation, object oriented programming
+tools, class libraries, application development using object oriented concept, analysis and design of
+object-oriented data architecture.","วิธีต่างๆในการพัฒนาซอฟต์แวร์ โดยเน้นการใช้วิธีการพัฒนาเชิงวัตถุ พืน􀃊 ฐานของการเขียนโปรแกรมเชิงวัตถุ
+การสืบทอด (inheritance) สภาวะหลายรูปแบบ (polymorphism) การห่อหุ้ม (encapsulation) เครื􀃉องมือการ
+เขียนโปรแกรมเชิงวัตถุ ห้องสมุดคลาส (class libraries) การพัฒนาซอฟต์แวร์ด้วยแนวคิดเชิงวัตถุ การวิเคราะห์
+และออกแบบสถาปัตยกรรมข้อมูลเชิงวัตถุ",CSX 3001,,
+CSX 3003,Data Structure and Algorithms,โครงสร้างข้อมูลและขัน􀃊 ตอนวิธี 3,Major Courses,วิชาเอก,Organization Issues and Information Systems Group,กลุ่มประเด็นองค์การและระบบสารสนเทศ,3 (3-0-6),"Analysis of complexity of algorithms, various data structures including array, string, stack, queue,
+dequeue, tree, graph, set and heap, applications and analysis of algorithms developed employing the
+data structures mentioned above including time and memory requirement analysis of various searching
+and sorting algorithms.","การวิเคราะห์ความซับซ้อนของขัน􀃊 ตอนการแก้ปัญหา โครงสร้างข้อมูลแบบต่างๆ เช่น ข้อมูลแบบแถวลำดับ
+ข้อมูลอักขระ ข้อมูลแบบทับซ้อน ข้อมูลแบบแถวคอย ข้อมูลแบบออกแถวคอย ข้อมูลรูปแบบต้นไม้ กราฟ เซต
+และฮีพ การประยุกต์และการวิเคราะห์ขัน􀃊 ตอนการแก้ปัญหาที􀃉สร้างจากโครงสร้างข้างต้นรวมทัง􀃊 การวิเคราะห์
+จำนวนเวลาและหน่วยความจำทีต􀃉 ้องการในการสืบค้น และการเรียงลำดับ",CSX 3002,,
+CSX 3004,Programming Languages,ภาษาโปรแกรม,Major Courses,วิชาเอก,Organization Issues and Information Systems Group,กลุ่มประเด็นองค์การและระบบสารสนเทศ,3 (3-0-6),"Computer programming languages on comparative basis with special consideration on syntax, semantics,
+and implementation, emphasizing on suitability of programming languages for various data manipulations
+and situations: exception handling, subroutines, visibility rules, concurrency and memory management","การเปรียบเทียบโปรแกรมภาษาคอมพิวเตอร์โดยพิจารณาเกี􀃉ยวกับวากยสัมพันธ์ ความหมาย และการใช้งาน
+โดยเน้นคุณสมบัติของภาษาที􀃉อำนวยความสะดวกในด้านชนิดของข้อมูล การกระทำ ผังการควบคุม การ
+ดำเนินการเกีย􀃉 วกับข้อยกเว้น โปรแกรมย่อย กฎการเห็น การทำพร้อมกัน และการจัดการหน่วยความจำ",CSX 3002,,
+CSX 3009,Algorithm Design,การออกแบบขัน􀃊 ตอนวิธี,Major Courses,วิชาเอก,Organization Issues and Information Systems Group,กลุ่มประเด็นองค์การและระบบสารสนเทศ,3 (3-0-6),"Techniques for designing algorithms using divide and conquer, greedy method, dynamic programming
+and backtracking by emphasizing on analysis of efficiency, design techniques for NP problem domain.","วิธีการออกแบบขัน􀃊 ตอนวิธี ได้แก่ Divide-and-conquer วิธีกรีดี การโปรแกรมไดนามิค และแบ๊คแทร์ดกิ􀃊งโดย
+เน้นทีก􀃉 ารวิเคราะห์ประสิทธิภาพ วิธีการออกแบบอัลกอริธัมเพือ􀃉 ใช้กับปัญหาในกลุ่ม NP",CSX 2008,,
+CSX 2009,Cloud Computing,การประมวลผลแบบคลาวด์,Major Courses,วิชาเอก,Systems Infrastructure Group,กลุ่มโครงสร้างพื􀃊นฐานของระบบ,3 (3-0-6),"Cloud computing concepts and capabilities, cloud service models; IaaS, PaaS and SaaS, cloud
+containers, virtualization technologies, infrastructure migration approaches, cloud security and protection
+mechanisms, cloud resource management and monitoring capabilities, current trends and research in
+cloud computing.","แนวคิดและความสามารถของการประมวลผลแบบคลาวด์ รูปแบบการให้บริการในระบบคลาวด์ เช่น บริการเชิง
+โครงสร้างพืน􀃊 ฐาน (IaaS) บริการเชิงแฟลตฟอร์ม (PaaS) และ บริการเชิงบริการสำเร็จรูป (Saas) การสร้างคอน
+เทนเนอร์ในระบบคลาวด์ เทคโนโลยีเสมือน แนวทางการโอนย้ายระบบโครงสร้างพืน􀃊 ฐาน การป้องกันและความ
+มัน􀃉 คงปลอดภัยของระบบคลาวด์ การบริหารจัดการทรัพยากรระบบคลาวด์และการตรวจสอบ แนวโน้มและการ
+วิจัยทีเ􀃉 ป็นปัจจุบันสำหรับระบบคลาวด์",,,
+CSX 3005,Computer Networks,เครือข่ายคอมพิวเตอร์,Major Courses,วิชาเอก,Systems Infrastructure Group,กลุ่มโครงสร้างพื􀃊นฐานของระบบ,3 (3-0-6),"Fundamentals of computer networks, network devices and services, role of protocol layers, protocol
+basics and network protocols, inter-operability issues, Open System Interconnection (OSI) reference
+model and TCP/IP, addressing and naming schemes, network types and topologies, wired and wireless
+networks, network media, Local Area Network (LAN) and Wide Area Network (WAN) technologies,
+network security basics.","หลักพื􀃊นฐานเครือข่ายคอมพิวเตอร์ อุปกรณ์เครือข่ายและบริการ บทบาทของโปรโตคอลในแต่ละชัน􀃊 ของการ
+สื􀃉อสารผ่านเครือข่าย พื􀃊นฐานของโปรโตคอลและโปรโตคอลสำหรับเครือข่าย ประเด็นด้านการทำงานร่วมกัน
+โมเดลอ้างอิง OSI และ TCP/IP การกำหนดชื􀃉อและไอพีแอดเดรส ชนิดและโทโพลียีของเครือข่าย",,,
+CSX 3006,Database Systems,ระบบฐานข้อมูล,Major Courses,วิชาเอก,Systems Infrastructure Group,กลุ่มโครงสร้างพื􀃊นฐานของระบบ,3 (3-0-6),"Database systems and database management, types of database systems emphasizing on relational
+database, functional dependency, normalization, query optimization, integrity and security of database
+systems, and concurrency control.","ระบบฐานข้อมูลและการจัดการฐานข้อมูล ประเภทของระบบฐานข้อมูล โดยเน้นที􀃉ฐานข้อมูลเชิงสัมพันธ์
+ความสัมพันธ์ระหว่างแอททริบิวต์แบบฟังก์ชัน การทำให้เป็นบรรทัดฐาน การสืบค้นข้อมูลทีไ􀃉 ด้คำตอบที􀃉ดีที􀃉สุด
+ความสมบูรณ์และความปลอดภัยของฐานข้อมูล และ การควบคุมภาวะพร้อมกัน",CSX 3002,,
+CSX 3008,Operating Systems,ระบบปฏิบัติการ,Major Courses,วิชาเอก,Systems Infrastructure Group,กลุ่มโครงสร้างพื􀃊นฐานของระบบ,3 (3-0-6),"Components and functions of operating systems, uniprogramming, multi-programming, multitasking,
+multithreading, resource management functions of operating systems, process scheduling algorithms,
+device management algorithms, virtual memory management, and classical problems related to operating
+systems such as deadlock, starvation and concurrency.","ส่วนประกอบของโปรแกรมควบคุมระบบ และการทำงานของโปรแกรมควบคุมระบบ การทำงานทีละโปรแกรม
+การทำงานพร้อมกันหลายโปรแกรม การทำงานของโปรแกรมควบคุมระบบในลักษณะของผู้จัดการทรัพยากร
+คอมพิวเตอร์ ขัน􀃊 ตอนการจัดลำดับตัวประมวลผล ขัน􀃊 ตอนการจัดการอุปกรณ์ การจัดระบบหน่วยความจำแบบ
+เสมือน ปัญหาพื􀃊นฐานในการทำงานของโปรแกรมควบคุมระบบ เช่น การติดตาย การรอทรัพยากรอย่างไม่มี
+กำหนด (starvation) และ ภาวะพร้อมกัน",,,
+CSX 3007,Computer Architecture,สถาปัตยกรรมคอมพิวเตอร์,Major Courses,วิชาเอก,Hardware and Computer Architecture Group,กลุ่มฮาร์ดแวร์และสถาปัตยกรรมคอมพิวเตอร์,3 (3-0-6),"Computer system components, combinatory circuits, sequential circuits, micro-operations using flip-flop,
+registers, adder and counter, computational operations and control of micro-operations, design of
+memory unit, design of set of instructions, design of parallel processing as well as SISD, SIMD, MISD,
+and MIMD architectures.","ส่วนประกอบของระบบคอมพิวเตอร์ วงจรคอมบิเนเตอรี 􀃉 วงจรซีเควนเชียล ไมโครโอเปอร์เรชัน􀃉 โดยใช้ ฟลิปฟลอบ
+เรจิสเตอร์ แอดเดอร์ และ เคาน์เตอร์ การสังเคราะห์การกระทำ ทางเลขคณิตและการควบคุมจากไมโครโอเปอร์
+เรชัน􀃉 โครงสร้างของหน่วยความจำและการออกแบบ หน่วยควบคุมและการออกแบบ เซตของคำสัง􀃉 และการ
+ออกแบบ การประมวลผลแบบขนาน สถาปัตยกรรมของคอมพิวเตอร์แบบ SISD, SIMD, MISD และ MIMD",,,
+CSX 4101,Information System Analysis and Design,การวิเคราะห์และออกแบบระบบสารสนเทศ,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"The information system development life cycle, methodologies in information system analysis and design,
+tools and techniques used in information system analyze and design.","วงจรชีวิตการพัฒนาระบบ ระเบียบวิธีในการวิเคราะห์และออกแบบระบบสารสนเทศ เครื􀃉องมือและเทคนิคทีใ􀃉 ช้ใน
+การวิเคราะห์และออกแบบระบบสารสนเทศ",,,
+CSX 4102,Software Engineering,วิศวกรรมซอฟต์แวร์,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"Software life cycle, analysis of requirements, structured software design, development, implementation,
+testing, and maintenance of software, reusable software, documentation and software manuals, and
+software project management.","วงจรชีวิตของซอฟต์แวร์ การวิเคราะห์ความต้องการ วิธีการออกแบบซอฟต์แวร์ แบบโครงสร้างการพัฒนา การ
+นำไปใช้ การทดสอบ และการบำรุงรักษาซอฟต์แวร์ การเขียนซอฟท์แวร์ให้ใช้ได้ใหม่ การเขียนเอกสารและคู่มือ
+การใช้ซอฟต์แวร์ การจัดการโครงการซอฟต์แวร์",,,
+CSX 4103,Requirement Engineering,วิศวกรรมความต้องการ,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"Software life cycle, analysis of requirements, structured software design, development, implementation,
+testing, and maintenance of software, reusable software, documentation and software manuals, and
+software project management","วงจรชีวิตของซอฟท์แวร์ การวิเคราะห์ความต้องการ วิธีการออกแบบซอฟท์แวร์ แบบโครงสร้างการพัฒนา การ
+นำไปใช้ การทดสอบ และการบำรุงรักษาซอฟท์แวร์ การเขียนซอฟท์แวร์ให้ใช้ได้ใหม่ การเขียนเอกสารและคู่มือ
+การใช้ซอฟท์แวร์ การจัดการโครงการซอฟท์แวร์",CSX 4101,,
+CSX 4104,Software Testing,การทดสอบซอฟต์แวร์,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"Detailed activities involved in testing a software, different approaches in testing various components of
+a software, appropriate testing methods for different problems, and utilization of testing reports effectively
+in order to improve quality of a software both during software development and after software
+implementation.","กิจกรรมเชิงลึกในการทดสอบซอฟต์แวร์ แนวทางที􀃉ใช้ทดสอบส่วนต่างๆ ของซอฟต์แวร์ วิธีการทดสอบที􀃉
+เหมาะสมกับปัญหาต่างๆ และการนำรายงานการทดสอบไปใช้เพื􀃉อปรับปรุงคุณภาพของซอฟต์แวร์ทัง􀃊 ระหว่าง
+การพัฒนาซอฟต์แวร์และหลังจากการนำซอฟต์แวร์ไปใช้",CSX 4101,,
+CSX 4105,IT Project Management,การบริหารโครงการเทคโนโลยีสารสนเทศ,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"Project planning, budgeting, prototyping, implementing, and monitoring; resource management, terms of
+reference, service level agreement, dispute resolution, ICT system development methodologies in
+practice","การวางแผนโครงการ งบประมาณ การสร้างต้นแบบ การดำเนินการ และการกำกับดูแล การบริหารทรัพยากร
+ข้อกำหนด ข้อตกลงในการให้บริการ การระงับข้อพิพาท วิธีการในการพัฒนาระบบเทคโนโลยีสารสนเทศและ
+การสือ􀃉 สารในเชิงปฏิบัติ",,,
+CSX 4106,Enterprise Architecture,สถาปัตยกรรมองค์กร,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"Enterprise Architecture basic elements, Enterprise Architecture Framework, Enterprise Architecture
+Domains, Architecture Development Method and Enterprise Continuum.","องค์ประกอบพืน􀃊 ฐานของสถาปัตยกรรมองค์กร เค้าโครงของสถาปัตยกรรมองค์กร ขอบเขตของสถาปัตยกรรม
+องค์กร วิธีการพัฒนาสถาปัตยกรรม และความต่อเนื􀃉องขององค์กร",,,
+CSX 4107,Web Application Development,การพัฒนาโปรแกรมบนเว็บ,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"Web application design and development, model view controller (VMC) framework, Hypertext Markup
+Language (HTML), dynamic HTML (DHTML), scripting language, such as VB Script, Jscript, etc.,
+knowledge and skills required to develop web application using n-tiers architecture, designing, building,
+and deploying web application.","การออกแบบและพัฒนาเว็บเพจ กรอบแบบจำลอง มุมมอง การควบคม (เอ็มวีซี), ภาษามาร์กอัปข้อความหลาย
+มิติ )HTML) และไดนามิกส์ HTML พร้อมด้วยภาษาสคริพท์ต่างๆ เช่น วีบีสคริพท์หรือเจสคริพท์ ความรู้และ
+ทักษะในการพัฒนาโปรแกรมบนเว็บโดยใช้สถาปัตยกรรม n-tiers การออกแบบ การจัดสร้าง และการติดตัง􀃊
+โปรแกรมบนเว็บ",CSX 3002,,
+CSX 4108,iOS Application Development,การพัฒนาโปรแกรมประยุกต์บนไอโอเอส,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"Development fundamentals for handheld devices, mobile user experience and usability, designing and
+implementing applications efficiently under the restrictions of limited resources, programming
+development frameworks and life cycle on iOS Platform, iOS Software Development Kits (SDK), Xcode,
+development environment (IDE) and Objective-C programming language for iPhone/iPad, and
+deployment of application on iPhone/iPad.","พืน􀃊 ฐานการพัฒนาบนอุปกรณ์มือถือ ประสบการณ์และการใช้งานของผู้ใช้มือถือ การออกแบบและการจัดสร้าง
+โปรแกรมประยุกต์อย่างมีประสิทธิภาพภายใต้กรอบและข้อจำกัดทางด้านทรัพยากร กรอบและวงจรในการ
+พัฒนาโปรแกรมบนไอโอเอส ชุดพัฒนาซอฟต์แวร์ (SDK) บนไอโอเอส Xcode สภาพแวดล้อมในการพัฒนาและ
+การเขียนโปรแกรมภาษา Objective-C สำหรับ ไอโฟน/ไอแพด และการติดตัง􀃊 โปรแกรมประยุกต์บนอุปกรณ์
+ไอโฟน/ไอแพต",CSX 3002,,
+CSX 4109,Android Application Development,การพัฒนาโปรแกรมประยุกต์บนแอนดรอยด์,Major Elective Courses,วิชาเอกเลือก,Group 1(A) Software Engineering and Development,วิชาเอกเลือกกลุ่ม 1(A) Software Engineering and Development,3 (3-0-6),"Development fundamentals for handheld devices, mobile user experience and usability, designing and
+implementing applications efficiently under the restrictions of limited resources, programming
+development frameworks and life cycle on Android Platform, and deployment of application on Android
+device","พืน􀃊 ฐานการพัฒนาบนอุปกรณ์มือถือ ประสบการณ์และการใช้งานของผู้ใช้มือถือ การออกแบบและการจัดสร้าง
+โปรแกรมประยุกต์อย่างมีประสิทธิภาพภายใต้กรอบและข้อจำกัดทางด้านทรัพยากร กรอบและวงจรในการ
+พัฒนาโปรแกรมบนแอนดรอยด์ และการติดตัง􀃊 โปรแกรมประยุกต์บนอุปกรณ์แอนดรอยด์",CSX 3002,,
+CSX 4201,Artificial Intelligence Concepts,ปัญญาประดิษฐ์,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Fundamental concepts in AI and its purpose as well as different disciplines in the field, mathematical
+theorem proving, natural language processing, image processing, robotics, expert system and various
+techniques used in knowledge representation, searching, induction and heuristic algorithms, case studies
+related to specific AI applications including expert system, language translation, voice processing, and
+others, use of popular programming languages such as Prolog and LISP to solve AI related problems.","แนวความคิดเบื􀃊องต้นและวัตถุประสงค์ของปัญญาประดิษฐ์ สาขาต่างๆของปัญญาประดิษฐ์ ปัญหาพืน􀃊 ฐานของ
+ปัญญาประดิษฐ์ การพิสูจน์ทฤษฎีทางคณิตศาสตร์ การเข้าใจภาษามนุษย์ การประมวลผลภาพ การควบคุม
+หุ่นยนต์ ระบบผู้ชำนาญการ และเทคนิคทีใ􀃉 ช้ปัญญาประดิษฐ์ การแทนความรู้ การค้นหา การอนุมาน และการใช้
+วิธีที􀃉ค้นหาหลายคำตอบและเลือกคำตอบที􀃉ดีทีสุด (Heuristic) กรณีศึกษาการประยุกต์ใช้ปัญญาประดิษฐ์กับ
+ปัญหาบางประเภท เช่น ระบบผู้ชำนาญการ การแปลภาษา การประมวลผลเสียง เป็นต้น การใช้โปรแกรมภาษา
+ทีน􀃉 ิยมใช้ในปัญญาประดิษฐ์ เช่น โปรล๊อค หรือ ลิสต์ เพือ􀃉 แก้ปัญหาทางปัญญาประดิษฐ์",CSX 3002,,
+CSX 4202,Data Mining,การทำเหมืองข้อมูล,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Fundamental concepts of data mining, widely used techniques/algorithms and tools, preprocessing,
+exploratory data analysis, classification, clustering, association analysis and region discovery.","แนวความคิดพื􀃊นฐานของการทำเหมืองข้อมูล เทคนิค/อัลกอริทึมต่างๆ ที􀃉ใช้กันอย่างแพร่หลายและเครื􀃉องมือ
+กระบวนการเตรียมการ การวิเคราะห์สืบค้นข้อมูล การจัดหมวดหมู่ การจัดกลุ่ม การวิเคราะห์ความสัมพันธ์ และ
+การค้นพบในภาคส่วน",CSX 3002,,
+CSX 4203,Machine Learning,การเรียนรู้ของเครื􀃉อง,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Construction of computer programs that will automatically improve their performance through experience,
+primary approaches to machine learning, including inductive inference of decision trees, case-based
+learning, neural network learning, statistical learning methods, and Bayesian learning.","การสร้างโปรแกรมคอมพิวเตอร์ซึง􀃉 สามารถพัฒนาสมรรถภาพหลังจากผ่านประสบการณ์ต่างๆ ความรู้เบือ􀃊 งต้นของ
+การเรียนรู้ต่างๆของเครื􀃉องรวมถึง การอนุมานเชิงอุปนัยของต้นไม้การตัดสินใจ การอนุมาณตามกรณี ข่ายงาน
+ประสาทเทียม วิธีทางสถิติ และ แบบเบย์",CSX 3002,,
+CSX 4204,Biometrics,ไบโอเมตริคส์,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Introduction to biometrics, physiological biometrics, fingerprint biometrics, face biometrics, iris biometrics,
+hand geometry, palmprint, behavioural biometrics, gait biometrics, gesture biometrics, voice biometrics,
+signature recognition, multimodal biometrics, biometric system security, biometric standards, BioAPI
+specifications.","ความรู้เบื􀃊องต้นเกี􀃉ยวกับไบโอเมตริคส์ ไบโอเมตริคส์เชิงสรีระ ลายนิ􀃊วมือ ใบหน้า ม่านตา รูปทรงมือ ลายมือ เสียง
+ไบโอเมตริคส์เชิงพฤติกรรม ท่าเดิน อิริยาบถ เสียง ลายมือชื􀃉อ การรวมไบโอเมตริคส์ การรักษาความปลอดภัย
+ของระบบไบโอเมตริคส์ มาตรฐานไบโอเมตริคส์ มาตรฐานการเชื􀃉อมต่อ BioAPI",CSX 3002,,
+CSX 4205,Big Data Analytics,การวิเคราะห์ข้อมูลขนาดใหญ่,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Foundational techniques and tools required for big data analytics, deployment of structured approach to
+big data analytics projects, visualization techniques and tools to analyze big data and create statistical
+models, usage of tools such as Hadoop, MapReduce, Spark, and Graph.","กลวิธีและเครื􀃉องมือขัน􀃊 พืน􀃊 ฐานสำหรับการวิเคราะห์ข้อมูลขนาดใหญ่ การปรับเปลีย􀃉 นกลยุทธจากโครงสร้างเดิมสู่
+โครงงานที􀃉เป็นการวิเคราะห์ข้อมูลขนาดใหญ่ กลวิธีการนำเสนอและเครื􀃉องมือในการวิเคราะห์ข้อมูลขนาดใหญ่
+ด้วยการสร้างโมเดลทางสถิติ การใช้งานเครื􀃉องมือเช่น Hadoop MapReduce Spark และกราฟ",CSX 2006,,
+CSX 4206,Data Warehousing and Business Intelligence,คลังข้อมูลและระบบธุรกิจอัจฉริยะ,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Fundamental and evolution of data warehouse concepts including data warehouse architecture,
+development methodology, data modeling, data conversion, OLAP, ETL processes, data access,
+business intelligence applications.","แนวความคิดพืน􀃊 ฐาน และวิวัฒนาการของคลังข้อมูล ซึ􀃉งประกอบด้วย สถาปัตยกรรมคลังข้อมูล ระเบียบวิธีการ
+พัฒนา กาออกแบบข้อมูล การแปลงข้อมูล ฐานข้อมูล OLAP กระบวนการในการทำ ETL การเข้าถึงข้อมูล
+โปรแกรมประยุกต์ระบบธุรกิจอัจฉริยะ",CSX 2006,,
+CSX 4207,Decision Support and Recommender Systems,ระบบสนับสนุนการตัดสินใจและการให้คำแนะนำ,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Recommender systems concepts, classical techniques for building recommender systems such as
+collaborative based, content-based, knowledge-based and hybrid recommendation approaches,
+techniques and approaches used to evaluate the quality of the recommendations, guidelines on matching
+recommendation technologies and domains, recent developments and applications of recommender
+systems.","แนวคิดของระบบการให้คำแนะนำ เทคนิคคลาสสิกในการสร้างระบบให้คำแนะนำ เช่น แบบตามการทำงาน
+ร่วมกัน แบบตามเนื􀃊อหา แบบตามความรู้ และวิธีการให้คำแนะนำแบบผสมผสาน เทคนิคและรูปแบบในการ
+ประเมินคุณภาพของคำแนะนำ ข้อแนะนำในการเลือกเทคโนโลยีการให้คำแนะนำและขอบเขต พัฒนาการและ
+โปรแกรมประยุกต์ของระบบการให้คำแนะนำในปัจจุบัน",CSX 2006,,
+CSX 4208,Deep Learning,การเรียนรู้เชิงลึก,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Introduction to deep learning concepts and techniques including perceptron, artificial neural networks,
+activation function, learning techniques, backpropagation, problem of traditional neural network;
+vanishing/exploding gradient, regularization, preprocessing, deep feedforward networks, convolutional
+networks, recurrent neural networks, and their applications.","หลักการเบื􀃊องต้นของการเรียนรู้เชิงลึกและเทคนิคต่างๆ ซึ􀃉งประกอบด้วย เพอร์เซปตรอน โคร่งข่ายประสาท
+เทียม ฟังก์ชัน􀃉 ทีใ􀃉 ช้ในการกระตุ้น เทคนิคการเรียนรู้ การปรับค่านํ􀃊าหนักตัวแปรแบบย้อนกลับ ปัญหาดัง􀃊 เดิมของ
+โคร่งข่ายประสาทเทียม เช่น การหายไป/การเกิดของเกรเดียนต์ เรกูลาไรเซชัน􀃉 การจัดการกับข้อมูลก่อนส่งเข้า
+โครงข่าย รวมถึงประเภทของโคร่งข่ายประสาทเทียมเชิงลึกแบบ",CSX 4203,,
+CSX 4209,Intelligent System Development,การพัฒนาระบบอัจฉริยะ,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Foundations of intelligent systems, intelligent agents, problem-solving by searching, stochastic searches,
+learning, genetic algorithms, and neural-networks.","พืน􀃊 ฐานของระบบอัจฉริยะ ตัวแทนอัจฉริยะ การแก้ปัญหาด้วยการสืบค้น การค้นหาแบบสโทแคสติก การเรียนรู้
+ขัน􀃊 ตอนวิธีพันธุกรรม โครงข่ายประสาทเทียม",CSX 3002,,
+CSX 4210,Natural Language Processing and Social Interactions,การประมวลผลภาษาธรรมชาติและปฏิสัมพันธ์ทางสังคม,Major Elective Courses,วิชาเอกเลือก,Group 1(B) Informatics and Data Science,วิชาเอกเลือกกลุ่ม 1(B) Informatics and Data Science,3 (3-0-6),"Human language from a computational perspective, syntactic analysis, semantic interpretation, and
+discourse processing (both symbolic and statistical approaches), information extraction, natural language
+generation, and applications of NLP in social interactions.","ภาษาของมนุษย์จากมุมมองของการคำณวน การวิเคราะห์การสร้างประโยค การแปลความหมาย การวิเคราะห์
+ภาษาระดับข้อความทัง􀃊 ในรูปแบบสัญลักษณ์และวิธีการทางสถิติ การแยกสารสนเทศ การสร้างภาษาธรรมชาติ
+และแอพพลิเคชัน􀃉 ของการประมวลผลภาษาธรรมชาติในการปฏิสัมพันธ์ทางสังคม",CSX 3002,,
+CSX 4301,Network Design,การออกแบบเครือข่าย,Major Elective Courses,วิชาเอกเลือก,Group 1(C) Network Technology and Infrastructure,วิชาเอกเลือกกลุ่ม 1(C) Network Technology and Infrastructure,3 (3-0-6),"Network topology and design methodology, hierarchical network design approach, campus and data
+center networks design, enterprise network design, software-defined networking, software-defined
+access, multiservice/multitenant technologies.","ทางการออกแบบระบบเครือข่ายแบบลำดับชัน􀃊 การออกแบบเครือข่ายระดับแคมปัสและศูนย์ข้อมูลหลัก การ
+ออกแบบเครือข่ายระดับองค์กร ระบบเครือข่ายแบบซอฟต์แวร์ดีไฟน์ การเข้าใช้งานระบบเครือข่ายแบบ
+ซอฟต์แวร์ดีไฟน์ เทคโนโลยีเครือข่ายสำหรับผู้ใช้งานหลายรายและบริการหลายรูปแบบ",CSX 3005 or by the consent of the instructor,,
+CSX 4302,Cisco Networking Workshop,ระบบเครือข่ายซิสโก้เชิงปฏิบัติการ,Major Elective Courses,วิชาเอกเลือก,Group 1(C) Network Technology and Infrastructure,วิชาเอกเลือกกลุ่ม 1(C) Network Technology and Infrastructure,3 (3-0-6),"Models of the Internet and computer networks, IP addressing, Ethernet concepts, media, and operations,
+operations of routers and switches in a small network, simple LANs implementation, basic network
+configurations for routers and switches.","รูปแบบของอินเทอร์เน็ตและเครือข่ายคอมพิวเตอร์ หมายเลขไอพี แนวคิดของเครือข่ายอีเทอร์เน็ต สายสัญญาณ
+และการปฏิบัติการ การทำงานของอุปกรณ์ค้นหาเส้นทางและอุปกรณ์สลับสัญญาณในระบบเครือข่ายขนาดเล็ก
+การจัดทำระบบเครือข่ายท้องถิ􀃉นอย่างง่าย การกำหนดค่าระบบเบื􀃊องต้นสำหรับอุปกรณ์ค้นหาเส้นทางและ
+อุปกรณ์สลับสัญญาณ",,,
+CSX 4303,Network Security,ความมัน􀃉 คงปลอดภัยของเครือข่าย,Major Elective Courses,วิชาเอกเลือก,Group 1(C) Network Technology and Infrastructure,วิชาเอกเลือกกลุ่ม 1(C) Network Technology and Infrastructure,3 (3-0-6),"Network security principles, threats and vulnerabilities, security threats mitigation and countermeasures,
+network security protocols, technologies and tools/appliances, networks intrusion detection and forensics
+technologies, cryptographic and authentication systems, capability and access control mechanisms,
+current trends and research in security policies and technologies.","หลักการของความมัน􀃉 คงปลอดภัยระบบเครือข่าย ภัยคุกคามและช่องโหว่ การจัดการภัยคุกคาม โปรโตคอล
+ความมัน􀃉 คงปลอดภัยของเครือข่าย เทคโนโลยีและเครื􀃉องมือด้านความมัน􀃉 คงปลอดภัยของเครือข่าย เทคโนโลยี
+การตรวจจับการบุกรุกระบบเครือข่ายและนิติวิทยาศาสตร์ วิทยาการเข้ารหัสและระบบการรับรองตัวบุคคล
+กลไกสำหรับการเข้าถึงและการจัดการความสามารถ แนวโน้มและการวิจัยที􀃉เป็นปัจจุบันสำหรับความมัน􀃉 คง
+ปลอดภัย นโยบาย และเทคโนโลยีด้านความมัน􀃉 คงปลอดภัย",CSX 3005 or by the consent of the instructor,,
+CSX 4304,Network Management,การจัดการเครือข่าย,Major Elective Courses,วิชาเอกเลือก,Group 1(C) Network Technology and Infrastructure,วิชาเอกเลือกกลุ่ม 1(C) Network Technology and Infrastructure,3 (3-0-6),"Network management principles and protocols, five functional areas of network management: fault
+management, configuration management, accounting management, performance management, and security management (FCAPS), security information and events management (SIEM), fault diagnosis
+and isolation, performance monitoring, service level agreement (SLA).","หลักการและโปรโตคอลสำหรับการบริหารจัดการระบบเครือข่าย การทำงานทัง􀃊 ห้าด้านได้แก่ การบริหารจัดการ
+ระบบเครือข่าย ข้อผิดพลาด การกำหนดค่าระบบ ด้านประสิทธิภาพ และความมัง􀃉 คงปลอดภัย (FCAPS) การ
+บริหารจัดการความมัน􀃉 คงปลอดภัยข้อมูลและเหตุการณ์ (SIEM) การวิเคราะห์และแยกแยะข้อผิดพลาด การ
+ตรวจสอบประสิทธิภาพ ข้อตกลงระดับการบริการ (SLA)",CSX 3005 or by the consent of the instructor,,
+CSX 4305,Heterogeneous Wireless Networks,เครือข่ายไร้สายแบบผสม,Major Elective Courses,วิชาเอกเลือก,Group 1(C) Network Technology and Infrastructure,วิชาเอกเลือกกลุ่ม 1(C) Network Technology and Infrastructure,3 (3-0-6),"Integration of heterogeneous wireless technologies, architecture of heterogeneous wireless networks
+(HWNs), radio resource and interference management, capacity and coverage enhancement, mobility
+and resource management, location management and network selection mechanisms in HWNs.","การผสมผสานเทคโนโลยีไร้สายแบบผสม สถาปัตยกรรมของระบบเครือข่ายไร้สายแบบผสม การบริหารจัดการ
+ทรัพยากรคลื􀃉นวิทยุและการรบกวน การเพิม􀃉 ความจุและการครอบคลุมของระบบ การบริหารจัดการทรัพยากร
+และการเคลื􀃉อนที 􀃉 การบริหารจัดการตำแหน่งทีอ􀃉 ยู่และวิธีการในการเลือกเครือข่ายในระบบเครือข่ายไร้สายแบบ
+ผสม",CSX 3005 or by the consent of the instructor,,
+CSX 4306,Internet of Things,อินเทอร์เน็ตของสรรพสิ􀃉ง,Major Elective Courses,วิชาเอกเลือก,Group 1(C) Network Technology and Infrastructure,วิชาเอกเลือกกลุ่ม 1(C) Network Technology and Infrastructure,3 (3-0-6),"Introduction to Internet, Internet of Things, technological trends leading toward IoT, embedded system
+and its interface, common hardware components of IoT devices, IoT devices’ software and hardware
+interaction, IoT protocols, IoT and cloud service/computing.","อินเทอร์เน็ตเบื􀃊องต้น อินเทอร์เน็ตของสรรพสิง􀃉 แนวโน้มเทคโนโลยีที􀃉นำไปสู่อินเทอร์เน็ตของสรรพสิง􀃉 ระบบฝัง
+ตัวและอินเทอร์เฟซ ส่วนประกอบฮาร์ดแวร์หลักของอุปกรณ์ของอินเทอร์เน็ตของสรรพสิ􀃉ง การปฏิสัมพันธ์
+ระหว่างซอฟต์แวร์และฮาร์ดแวร์สำหรับอุปกรณ์ของอินเทอร์เน็ตของสรรพสิ􀃉ง โพรโตคอลของอินเทอร์เน็ตของ
+สรรพสิง􀃉 อินเทอร์เน็ตของสรรพสิง􀃉 และการให้บริการ/การประมวลผลแบบคลาวด์",CSX 3005 or by the consent of the instructor,,
+CSX 4307,Business Continuity Planning and Management,การวางแผนและบริหารความต่อเนื􀃉องของธุรกิจ,Major Elective Courses,วิชาเอกเลือก,Group 1(C) Network Technology and Infrastructure,วิชาเอกเลือกกลุ่ม 1(C) Network Technology and Infrastructure,3 (3-0-6),"Emergency preparedness techniques necessary to maintain business continuity, critical processes,
+planning for business continuity, risk assessment, impact analysis, mitigation strategies, response,
+recovery and continuation activities","เทคนิคในการเตรียมความพร้อมรองรับเหตุฉุกเฉินเพื􀃉อให้ธุรกิจสามารถทำงานได้ต่อเนื􀃉อง ขัน􀃊 ตอนต่างๆที􀃉เป็น
+วิกฤต การวางแผนความต่อเนื􀃉องทางธุรกิจ การประเมินความเสีย􀃉 ง การวิเคราะผลกระทบ กลยุทธ์ในการจัดการ
+กิจกรรมต่างๆ สำหรับการตอบสนอง การฟื􀃊นตัว และความต่อเนื􀃉อง",,,
+CSX 4401,Business Systems,ระบบุรกิจ,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Business systems and their interrelationships including finance, accounting, sales, marketing, human
+resources, law and operations, inputs and outputs of information systems, potential for integration of the
+systems, and information systems security.","ระบบธุรกิจและความสัมพันธ์ของระบบต่างๆ ซึ􀃉งรวมถึงฝ่ายการเงิน การบัญชี การขาย การตลาด ทรัพยากร
+บุคคล กฏหมายและการดำเนินการ การนำเข้าข้อมูลและผลผลิตทีไ􀃉 ด้จากระบบสารสนเทศต่างๆ ศักยภาพของ
+การรวมระบบต่างๆ เข้าด้วยกัน และความมัง􀃉 คงปลอดภัยของระบบสารสนเทศ",CSX 2001,,
+CSX 4402,Sales and Distribution Management System,ระบบจัดการการขายและกระจายสินค้า,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Introduction to Sales and Distribution Management System; fundamental processes in sales and
+distribution; logistic modules covering from sales forecast, sales promotion, price list, sales order, order
+management, inventory transactions related to sales, order delivery.","ระบบจัดการการขายและการกระจายสินค้าเบือ􀃊 งต้น พืน􀃊 ฐานการขายและการกระจายสินค้า ลอจิสติกโมดูล ได้แก่
+การพยากรณ์ยอดขาย การส่งเสริมการขาย ราคาขายปลีกแนะนำ ใบสัง􀃉 ขาย การจัดการคำสัง􀃉 ซื􀃊อ รายการสินค้า
+คงคลัง การส่งสินค้า",CSX 4401,,
+CSX 4403,Manufacturing Management System,ระบบจัดการการผลิต,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Introduction to Manufacturing Management System, manufacturing processes, bill of materials (BOM),
+routing and work center, manufacturing resource planning (MRP), capacity planning, production
+scheduling, shop floor planning, work in process (WIP).","ระบบจัดการการผลิดเบื􀃊องต้น กระบวนการผลิต รายการวัตถุดิบ เส้นทางการผลิตและศูนย์ดำเนินงาน การ
+วางแผนและบริหารทรัพยากรการผลิต การวางแผนกำลังการผลิต การกำหนดตารางการผลิต การบริหารพื􀃊นที􀃉
+ผลิต งานระหว่างผลิต",CSX 4401,,
+CSX 4404,Supply Chain Management System,ระบบจัดการโซ่อุปทาน,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Introduction to Supply Chain Management System, supply chain strategies, supply chain network design
+principles, planning and managing inventories, procurement and sourcing, innovative supply chain
+business models, supply chain performance.","ความรู้เบือ􀃊 งต้นเรื􀃉องการจัดการห่วงโซ่อุปทาน กลยุทธ์ห่วงโซ่อุปทาน หลักการออกแบบเครือข่ายห่วงโซ่อุปทาน
+การวางแผนและการจัดการคลังสินค้า การจัดซือ􀃊 จัดจ้าง นวัตกรรมโมเดลธุรกิจด้านห่วงโซ่อุปทาน ประสิทธิภาพ
+ของห่วงโซ่อุปทาน",CSX 4401,,
+CSX 4405,Finance and Accounting Information Sys,ระบบสารสนเทศทางการเงินและการบัญชี,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Introduction to Finance and Accounting Information System, the application of Accounting Information
+System (AIS) in businesses and organization, understanding of how AIS is used to record accounting transactions and how it facilitates business processes and transaction processing, hands-on experiences
+using accounting software in designing and configuring an accounting information system for small-tomedium
+sized businesses.","ความรู้เบือ􀃊 งต้นระบบสารสนเทศทางการเงินและการบัญชี การประยุกต์ใช้ระบบสารสนเทศทางการบัญชีในธุรกิจ
+และองค์กร การเข้าใจในการใช้ระบบสารสนเทศทางบัญชีเพื􀃉อบันทึกรายการทางบัญชี และเพื􀃉ออานวยความ
+สะดวกกระบวนการทางธุรกิจและประมวลผลธุรกรรม การใช้ซอฟต์แวร์ทางบัญชีในการออกแบบและตัง􀃊 ค่าระบบ
+สารสนเทศทางบัญขีสาหรับธุรกิจขนาดเล็กถึงกลาง","CSX 4401, ACT 1601",,
+CSX 4406,Customer Relationship Management System,ระบบจัดการลูกค้าสัมพันธ์,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Introduction to Customer Relationship Management System, customer lifecycle management, customer
+lifetime value, processes and technologies for managing the relationships with potential and current
+customers and business partners, analytics in CRM, CRM data warehouse, CRM tools.","ความรู้เบื􀃊องต้นระบบจัดการลูกค้าสัมพันธ์ การจัดการวงจรชีวิตลูกค้า คุณค่าของลูกค้าตลอดช่วงทีอ􀃉 ยู่กับบริษัท
+กระบวนการและเทคโนโลยีสาหรับจัดการความสัมพันธ์กับลูกค้าปัจจุบันและพันธมิตรทางธุรกิจ การวิเคราะห์
+ข้อมูลด้านลูกค้าสัมพันธ์ คลังข้อมูลลูกค้าสัมพันธ์ เครื􀃉องมือต่างๆในการจัดการลูกค้าสัมพันธ์",CSX 4401,,
+CSX 4407,Enterprise Application Development,การพัฒนาโปรแกรมประยุกต์ขององค์กร,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Architecture and platform of choice for building and deploying n-tier, web-based, transactional, and
+component-based enterprise applications, high-level overview of enterprise application architecture,
+individual programming API’s and technologies that constitute at web tier and business tier, security,
+persistence, transaction.","ตัวเลือกของสถาปัตยกรรมและแพลทฟอร์มในการสร้างและติดตัง􀃊 โปรแกรมสำหรับทัว􀃉 ทัง􀃊 องค์กร แบบ n-tier
+แบบเว็บ แบบเกีย􀃉 วการดำเนินการ (transactional) และ แบบองค์ประกอบ สถาปัตยกรรมชัน􀃊 สูงของระบบสำหรับ ทัว􀃉 ทัง􀃊 องค์กร ส่วนต่อประสานของโปรแกรมประยุกต์ และเทคโนโลยีในการสร้างโครงสร้างชัน􀃊 เว็บและโครงสร้าง
+ชัน􀃊 ธุรกิจ ระบบรักษาความปลอดภัย การคงอยู่ (persistence) การดำเนินการ (transaction)",CSX 3006,,
+CSX 4408,Enterprise Database Syst,ระบบฐานข้อมูลองค์กร,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Introduction to the enterprise-level database systems, database architecture, DBMS installation and
+configuration issues, performance optimizing, monitoring and tuning, user management and database security, back-up, and recovery.","ความรู้เบือ􀃊 งต้นเกีย􀃉 วกับระบบฐานข้อมูลระดับองค์กร สถาปัตยกรรมฐานข้อมูล การติดตัง􀃊 และการกำหนดค่า การ
+เพิ􀃉มประสิทธิภาพ การกำกับดูแลและปรับแต่ง การบริหารจัดการผู้ใช้และระบบรักษาความปลอดภัยของ
+ฐานข้อมูล การสำรองข้อมูลและการคืนสภาพ",CSX 3006,,
+CSX 4409,Blockchain Technology,เทคโนโลยีบล็อคเชน,Major Elective Courses,วิชาเอกเลือก,Group 1(D) Enterprise Systems,วิชาเอกเลือกกลุ่ม 1(D) Enterprise Systems,3 (3-0-6),"Introduction to blockchain concept, how blockchain can help disrupting businesses, blockchain
+technological components, public and private blockchain, Bitcoin, coin mining, consensus protocols,
+blockchain security, cryptocurrencies, Initial Coin Offerings (ICOs), blockchain infrastructure and
+implementation, practical work on Ethereum and Hyperledger.","หลักการพื􀃊นฐานของบล็อคเชน วิธีการที􀃉องค์กรสามารถนำบล็อคเชนไปสร้างการเปลี􀃉ยนแปลงทางธุรกิจ
+องค์ประกอบทางด้านเทคนิคที􀃉เกี􀃉ยวข้องกับบล็อคเชน บล็อคเชนแบบสาธารณะ บล็อคเชนแบบเป็นส่วนตัว
+บล็อคเชนลูกผสม บิทคอยน์ การขุดบิทคอยน์ โปรโตคอลการออกเสียงแบบเอกฉันท์ ความมัน􀃉 คงปลอดภัยของ
+บล็อคเชน สกุลเงินดิจิตอลที􀃉เข้ารหัส การระดมทุนผ่านเหรียญดิจิตอล โครงสร้างพืน􀃊 ฐานและการสร้างบล็อคเชน
+การทดลองปฏิบัติจริงด้วยซอฟท์แวร์อีเธอเรียม หรือไฮเปอร์เลดเจอร์",,,
+CSX 4501,Theory of Computation,ทฤษฎีการคำนวณ,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Methods of computation, sequential computation, parallel computation, logic circuits, finite-state machine,
+deterministic and non-deterministic machine, regular and non-regular set, push-down automata, Turing
+machine, computability and non-computability, halting problem, examples of class P and class NP
+problems, theories and techniques for various computational problems which are the basis of computer
+science.","วิธีต่างๆ ของการคำนวณ การคำนวณแบบลำดับ การคำนวณแบบขนาน วงจรตรรกแบบจัดหมู่ ไฟไนท์สเตท
+แมชีน ดีเทอร์นิมิสติคและนอนดีเทอร์มินิสแมชีน เซตแบบเรกูลาร์และแบบนอนเรกูลาร์ พุชท์ดาวน์ออโตมาตา ทัว
+ริงแมชีน การคำนวณได้และการคำนวณไม่ได้ ปัญหาการหยุด (halting problem) และตัวอย่างปัญหาแบบพีและ
+เอ็นพี (Class P and Class NP Problems) ทฤษฎีและการพิสูจน์รูปแบบของการคำนวณปัญหาต่างๆ อันเป็น
+พืน􀃊 ฐานของวิทยาการคอมพิวเตอร์",CSX 2008,,
+CSX 4502,Tech Startup,เทคสตาร์ตอัพ,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Overview of tech startup, innovations, design thinking, ideation, persona, user interface design, UX/UI,
+lean startup, lean canvas, value propositions, UVP, agile manifesto, business modeling,
+entrepreneurship, marketing, pitching, growth hacking, angel investors, venture capital.","ภาพรวมของเทคสตาร์ตอัพ นวัตกรรม แนวคิดเชิงออกแบบ การสร้างสรรค์ความคิดใหม่ๆ การสร้างตัวแทนของ
+กลุ่มผู้ใช้ การออกแบบหน้าจอสำหรับผู้ใช้งาน UI/UX ลีนสตาร์ตอัพ ลีนแคนวาส คุณค่าที􀃉นำเสนอแก่ลูกค้า
+ข้อเสนอพิเศษที􀃉ไม่ซํ􀃊ากัน แถลงการณ์ของแอจไจล์ แบบจำลองธุรกิจ ความเป็นผู้ประกอบการ การตลาด การ
+นำเสนอ การทำการตลาดแบบใช้ต้นทุนตํ􀃉า นักลงทุนนางฟ้า การร่วมลงทุน",,,
+CSX 4503,Information Systems Security,ความมัน􀃉 คงปลอดภัยของระบบสารสนเทศ,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Fundamentals of computer security including hardware security, software security, database security,
+computer networks and telecommunication security, physical protection and microcomputer security and
+viruses protection, cryptographic technology, disaster recovery and contingency planning, intrusion
+detection and other applications, legal and ethical issues in computer security.","หลักพื􀃊นฐานความปลอดภัยของคอมพิวเตอร์ซึ􀃉งรวมถึงความปลอดภัยของฮาร์ดแวร์ ความปลอดภัยของ
+ซอฟต์แวร์ ความปลอดภัยของฐานข้อมูล ความปลอดภัยของเครือข่ายคอมพิวเตอร์และโทรคมนาคม การ
+ป้องกันทางกายภาพ ความปลอดภัยของไมโครคอมพิวเตอร์และการป้องกันไวรัส เทคโนโลยีการเข้ารหัสลับ
+แผนการกู้คืนจากความเสียหายและแผนฉุกเฉิน ตรวจจับการบุกรุกและโปรแกรมอื􀃉น ๆ รวมถึงกฎหมาย และ
+จริยธรรมทางด้านคอมพิวเตอร์",,,
+CSX 4504,Digital Marketing,การตลาดดิจิทัล,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Overview of digital marketing, affiliate marketing, digital marketing tools, social media marketing, search
+engine marketing, pay-per-click, search engine optimisation, branding, sentiment analysis, influencer
+marketing, website, inbound marketing, content marketing.","ภาพรวมขอการตลาดดิจิทัล การตลาดที􀃉ผู้โฆษณาสินค้าได้รีบค่าคอมมิชชัน􀃉 เครื􀃉องมือสำหรับการตลาดดิจิทัล
+การตลาดบนสังคมออนไลน์ การตลาดบนโปรแกรมค้นหา การลงโฆษณาบนหน้าผลการค้นหากับโปรแกรม
+ค้นหา การทำให้มีอันดับผลการค้นหาในโปรแกรมค้นหาดีขึ􀃊น การสร้างภาพลักษณ์ การวิเคราะห์ความรู้สึก กล
+ยุทธการตลาดทีอ􀃉 าศัยอิทธิพลทางความคิด",,,
+CSX 4505,Digital Transformation,ดิจิทัลทรานส์ฟอร์เมชัน,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Fundamental operations of businesses and industries, paradigms and management practices of digitalcentric
+businesses, digital revolution, management disciplines for successful business transformation,
+digital technologies enabling development of new operational process, customer experience and
+business model, use of digital technologies for established organizations or new ventures","อิทธิพลของการวิวัฒนาการด้านดิจิทัลทีส􀃉 ่งผลต่อการเปลีย􀃉 นแปลงการดำเนินงานขัน􀃊 พืน􀃊 ฐานของหลายองค์กรใน
+หลากหลายอุตสาหกรรม กระบวนทัศน์ด้านเทคโนโลยีและแนวทางการบริหารจัดการทีม􀃉 ีดิจิทัลทีเ􀃉 ป็นศูนย์กลาง
+ในการดำเนินธุรกิจ สาขาการจัดการที􀃉สำคัญในการเปลี􀃉ยนแปลงทางธุรกิจให้ประสบความสำเร็จ เทคโนโลยี
+ดิจิทัลในการพัฒนาสิง􀃉 ใหม่ๆทัง􀃊 ด้านกระบวนการดำเนินงาน ประสบการณ์ของลูกค้า และรูปแบบในการดำเนิน
+ธุรกิจ โอกาสในการนำเทคโนโลยีดิจิทัลมาปรับใช้กับองค์กรทีม􀃉 ีกำลังดำเนินธุรกิจอยู่หรือกับธุรกิจรายใหม่",,,
+CSX 4506,Image Processing,การประมวลผลภาพ,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Introduction to digital image processing including such topics as digital image representation,
+compression techniques, coding techniques, analysis of images represented in different formats, as well
+as optical character recognition techniques based on image processing to recognize Thai and English
+alphabetic.","การประมวลภาพดิจิตอลเบื􀃊องต้นรวมถึงหัวข้อต่างๆ เช่น การแสดงภาพดิจิตอล เทคนิคการบีบอัด เทคนิคการ
+ข้ารหัส การวิเคราะห์ภาพที􀃉แสดงในรูปแบบที􀃉แตกต่างกัน รวมถึงเทคนิคการรู้จำตัวอักษรบนพื􀃊นฐานของการ
+ประมวลภาพดิจิตอลเพือ􀃉 ทีจ􀃉 ะจำแนกตัวอักษรภาษาไทยและภาษาอังกฤษ",CSX 3003,,
+CSX 4507,Information Retrieval and Search Engines,การสืบค้นสารสนเทศและโปรแกรมค้นหา,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Principles of retrieval systems, dictionaries, indexing, various strategies and models for information
+retrieval, scoring and ranking, evaluation of information retrieval, web search.","หลักการของระบบสืบค้นสารสนเทศ พจนานุกรม การทำดัชนี กลยุทธ์และรูปแบบการสืบค้นสารสนเทศต่างๆ
+การให้คะแนนและการจัดลำดับ การประเมินการสืบค้นสารสนเทศ โปรแกรมค้นหา",,,
+CSX 4508,Quantitative Research for Digital Business,การวิจัยเชิงบปริมาณสำหรับธุรกิจดิจิทัล,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Conducting quantitative research in business research including of defining research problems,
+questionnaire design, sampling methods, data gathering techniques, data analysis and reporting.","การทำวิจัยเชิงปริมาณในวิจัยธุรกิจ ได้แก่ การกำหนดปัญหาวิจัย การออกแบบสอบถาม วิธีการสุ่มตัวอย่าง
+เทคนิคการรวบรวมข้อมูล การวิเคราะห์ข้อมูล และการรายงานผล",CSX 2003,,
+CSX 4600 – 4699,Selected Topics,หัวข้อพิเศษ,Major Elective Courses,วิชาเอกเลือก,Group 2,วิชาเอกเลือกกลุ่ม 2,3 (3-0-6),"Special topics that are appropriate for detailed study and research. The topic selected depends on the
+students’ needs and the instructors’ requirements and is in accordance with the current changes in
+computer science in that period.","หัวข้อพิเศษต่าง ๆ ทางด้านเทคโนโลยีสารสนเทศที􀃉เหมาะสำหรับการศึกษาอย่างละเอียดและการวิจัย หัวข้อ
+พิเศษทีเ􀃉 ลือกนี􀃊เป็นอาจเปลีย􀃉 นไปตามความต้องการของผู้เรียนและอาจารย์ผู้สอน โดยขึน􀃊 อยู่กับสถานการณ์การ
+เปลีย􀃉 นแปลงด้านวิทยาการคอมพิวเตอร์ในปัจจุบัน",Junior or senior students with the consent of the instructors,,
