@@ -79,7 +79,7 @@ export default function Home({
   return (
     <>
       <Head>
-        <title>VMS:</title>
+        <title>VMS</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
@@ -98,14 +98,48 @@ export default function Home({
       <Navbar transparent={true} />
 
       <section id="banner">
+        <div className="inner">
         {/* <i className="icon fa-diamond"></i> */}
-        <img src="/images/vms-logo-white.png" alt="VMS" width="140" height="140" className="icon" />
-        <h2>Vincent Mary School of Science and Technology</h2>
-        <p>Build Tech Savvy</p>
+        {/*<img src="/images/vms-logo-test.png" alt="VMS" width="140" height="140" className="icon" />*/}
+        {/*<h2>Vincent Mary</h2>
+        <h2>School of Science and Technology</h2>*/}
+        <style jsx>{`
+        .inner {
+          margin: 50px;
+        }
+        p {
+          color: white;
+        }
+      `}</style>
+      <style jsx global>{`
+        p {
+          font-size: 30px;
+        }
+        h1 {
+          font-weight: 7000;
+        }
+      `}</style>
+        <p>
+        <h4>We offer a total six study programs </h4>
+        </p>
+        <p>
+        <h4>which cover Bachelor, Master , and Doctoral degrees in both</h4>
+        </p>
+        <p>
+        <h4>Computer Science and Information Technology.</h4>
+        </p>
+        <p>
+        <h2>Join Us.</h2>
+          </p>
+          </div>
+          
+        {/*<h3>The Vincent Mary School of Science and Technology is one of the pioneers to develop information technology.</h3>
+        <h3>This tradition helps in creating graduates who are experts in the science and technology field, as well as fluent English speakers.</h3>*/}
         <ul className="actions">
-          <li><button onClick={() => setIsOpen(true)} className="button big special">WHY VMS</button></li>
-          <li><a href="#news" className="button big alternate">Gamification</a></li>
-          <li><a href="#news" className="button big alternate">MarTech</a></li>
+          <p>
+          {/*<li><h4><button onClick={() => setIsOpen(true)} className="button big alt">Why VMS?</button></h4></li>*/}
+          </p>
+          
         </ul>
       </section>
 {/* 
@@ -121,49 +155,95 @@ export default function Home({
 
       </Carousel> */}
 
-      {/* One */}
-      <section id="one" className="wrapper style1">
-        <div className="inner">
-          <article className="feature">
-            <div className="content">
-              <h2>Gamification</h2>
-              <p>
-                <h3>Business can be fun</h3>
-                Quickly evolved to capture the rapid change of technology. The key principle is the strong foundation. Trained by people in the industry. Graduates are globally competitive and ready to thrive in their chosen career path.
-                </p>
-              <ul className="actions">
-                <li>
-                  <a href="/cs" className="button alt">More</a>
-                </li>
-              </ul>
-            </div>
-            <div className="content">
-              <h2>Martech</h2>
-              <p>
-                <h3>Marketing Meets Technology</h3>
-                Quickly evolved to capture the rapid change of technology. The key principle is the strong foundation. Trained by people in the industry. Graduates are globally competitive and ready to thrive in their chosen career path.
-                </p>
-              <ul className="actions">
-                <li>
-                  <a href="/cs" className="button alt">More</a>
-                </li>
-              </ul>
-            </div>
-          </article>
 
-          <article className="feature left">
+      {/* One */}
+      <section id="one" className="wrapper style3">
+        <div className="inner">
+          
+            <div className="content">
+              
+              <style jsx>{`
+        .inner {
+          margin: 50px;
+        }
+        p {
+          color: blue;
+        }
+      `}</style>
+      <style jsx global>{`
+        p {
+          font-size: 30px;
+        }
+      `}</style>
+            </div>
+            <div className="content">
+            <style jsx>{`
+        .content {
+          margin: 50px;
+        }
+        p {
+          color: blue;
+        }
+      `}</style>
+      <style jsx global>{`
+        p {
+          font-size: 30px;
+        }
+      `}</style>
+              
+              <p>
+              <h4><button onClick={() => setIsOpen(true)} className="button big alt">Why VMS?</button></h4>
+              </p> 
+    
+          <p>
+            <h2><a href="#news">Admissions</a></h2>
+            </p>
+          <p>
+            <h2><a href="#news">Programs</a></h2>
+            </p>
+            <p>
+            <h2><a href="#news">News</a></h2>
+            </p>
+          <p>
+            <h2><a href="#news">Project</a></h2>
+            </p>
+            <p>
+            <h2><a href="#news">Spotlight</a></h2>
+            </p>
+          <p>
+            <h2><a href="#news">Laboratories</a></h2>
+            </p>
+            <p>
+            <h2><a href="#news">About us</a></h2>
+            </p>
+            </div>
+          <article className="feature right">
+          
+          
+          <style jsx>{`
+        .inner {
+          margin: 50px;
+        }
+        p {
+          color: white;
+        }
+      `}</style>
+      <style jsx global>{`
+        p {
+          font-size: 20px;
+        }
+      `}</style>
             <span className="image">
               <img src="images/3students-cover.png" alt="CS" /></span>
             <div className="content">
-              <h2>Computer Science</h2>
+              
+            <h2><a href="/cs">Computer Science</a></h2>
               <p>
-                <h3>Gamification</h3>
-                Quickly evolved to capture the rapid change of technology. The key principle is the strong foundation. Trained by people in the industry. Graduates are globally competitive and ready to thrive in their chosen career path.
+                
+                <h3>Join us in Suvarnabhumi Campus</h3>
+                This program focuses on computer system concerned with information representation, storage and data processing. Our curriculum, courses and facilities are designed to foster creativity and innovativeness as students gain the core knowledge in theories and practices.
                 </p>
               <ul className="actions">
-                <li>
-                  <a href="/cs" className="button alt">More</a>
-                </li>
               </ul>
             </div>
           </article>
@@ -171,15 +251,26 @@ export default function Home({
           <article className="feature right">
             <span className="image"><img src="images/pic02.jpg" alt="IT" /></span>
             <div className="content">
-              <h2>Information Technology</h2>
+              <h2><a href="/it">Information Technology</a></h2>
               <p>
-                <h3>Mar Tech</h3>
-                Walk hand-in-hand with businesses. Blended the core technology with real-world experience. Graduates are key to the success Digital Transformation.
+              <style jsx>{`
+        .inner {
+          margin: 50px;
+        }
+        p {
+          color: white;
+        }
+      `}</style>
+      <style jsx global>{`
+        p {
+          font-size: 20px;
+        }
+      `}</style>
+                <h3>JOIN US IN SUVARNABHUMI CAMPUS</h3>
+                Encompasses all forms of technology used to create, store, exchange, and use information in its various forms (business data, voice, conversations, still images, motion pictures, multimedia presentations and other forms including those not yet conceived of). It emphasizes applying technology in analysis, design, development, operation, linkage, control and management of information systems.
               </p>
               <ul className="actions">
-                <li>
-                  <a href="it" className="button alt">More</a>
-                </li>
+                
               </ul>
             </div>
           </article>
@@ -187,12 +278,12 @@ export default function Home({
       </section>
 
       {/* Highlights */}
-      <section id="two" className="wrapper special">
+      <section id="two" className="wrapper style3">
         <a id="news" />
         <div className="inner">
           <header className="major narrow">
             <h2>Highlights</h2>
-            <p>--</p>
+            <p></p>
           </header>
           <div className="image-grid">
             {newsData?.map(({ id, link, title, featuredImage }) => (
@@ -304,11 +395,11 @@ export default function Home({
       >
 
         <h2 ref={_subtitle => (subtitle = _subtitle)}>
-          AT VMS:
+          WHY VMS IS THE BEST OPTION?:
         </h2>
-        <article className="feature left">
+        <article className="feature right">
           <span className="image">
-            <iframe width="440" height="250"
+            <iframe width="550" height="350"
               src="https://www.youtube.com/embed/37JaC2aGRWA"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -316,12 +407,12 @@ export default function Home({
           </span>
 
           <div className="content">
-            <h2>Unlike other science study:</h2>
+            <h2>Advantages OF VMS:</h2>
 
             <ul>
-              <li>Real Reople in Tech Industry</li>
+              <li>Meet With Most Influential People In Tech Industry</li>
               <li>Active Learning</li>
-              <li>Work Ready</li>
+              <li>Best IT Learning System in Thailand</li>
               <li>Entrepreneurships</li>
             </ul>
 
@@ -329,7 +420,7 @@ export default function Home({
 
             <ul className="actions">
               <li>
-                <a href="more" className="button big special">More</a>
+                <a href="more" className="button alt">More</a>
               </li>
             </ul>
           </div>

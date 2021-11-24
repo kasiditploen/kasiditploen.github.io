@@ -63,15 +63,15 @@ export default function News({ API_URL }) {
   return (
     <>
       <Head>
-        <title>VMS:Members</title>
+        <title>VMS Members</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Navbar title={'News'} transparent={false} />
+      <Navbar title={'News'} transparent={true} />
 
       {posts?.map((v, i) => {
         return (
-          <section key={i} className="wrapper style1">
+          <section key={i} className="wrapper style2">
             <header className="major special">
               <h2>News</h2>
             </header>

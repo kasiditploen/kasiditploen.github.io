@@ -8,12 +8,12 @@ export default function News({ API_URL }) {
   return (
     <>
       <Head>
-        <title>VMS:Members</title>
+        <title>VMS Members</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Navbar title={'Members'} transparent={false} />
+      <Navbar title={'Members'} transparent={true} />
 
-      <section id="main" className="wrapper style1">
+      <section id="main" className="wrapper style2">
         <header className="major special">
           <h2>Members</h2>
         </header>
