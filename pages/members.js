@@ -2,6 +2,7 @@ import { useState, useEffect } from "react"
 import Navbar from "../components/Navbar"
 import Head from 'next/head'
 
+
 const members = require('./members.json')
 export default function News({ API_URL }) {
 
@@ -15,7 +16,7 @@ export default function News({ API_URL }) {
 
       <section id="main" className="wrapper style2">
         <header className="major special">
-          <h2>Members</h2>
+          <h2>Faculty Members</h2>
         </header>
 
         <div className="card-container">

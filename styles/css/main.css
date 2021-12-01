@@ -1843,23 +1843,28 @@ h2 {
   line-height: 1.5em;
 }
 
+
+
+
+
 h3 {
   font-size: 1.3em;
   line-height: 1.5em;
 }
 
 h4 {
-  font-size: 1.1em;
+  font-size: 1.5em;
   line-height: 1.5em;
 }
 
 h5 {
-  font-size: 0.9em;
-  line-height: 1.5em;
+  font-size: 4.5em;
+  line-height: 1.7em;
+  text-align: center;
 }
 
 h6 {
-  font-size: 0.7em;
+  font-size: 1.7em;
   line-height: 1.5em;
 }
 
@@ -1951,7 +1956,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #25383b;
+  color: #f1bf18;
 }
 
 blockquote {
@@ -1981,6 +1986,19 @@ header p {
   text-transform: uppercase;
 }
 
+header h1 {
+  font-size: 1.25em;
+  margin-top: 0em;
+  line-height: 1.85em;
+}
+
+header h6 {
+  font-size: 0.75em;
+  margin-top: 0em;
+  line-height: 1.85em;
+  text-align: left;
+}
+
 header h2 + p {
   font-size: 1.25em;
   margin-top: -1em;
@@ -1999,6 +2017,7 @@ header h6 + p {
   font-size: 0.9em;
   margin-top: -0.6em;
   line-height: 1.5em;
+  text-align: left;
 }
 
 header.major {
@@ -2046,7 +2065,7 @@ header.narrow {
 }
 
 header p {
-  color: #25383b;
+  color: #2f156d;
 }
 
 /* Form */
@@ -2751,7 +2770,9 @@ button.big,
   height: 3.25em;
   line-height: 3.25em;
   padding: 0 2.5em;
+  background-color: #ffc400;
 }
+
 
 input[type="submit"].disabled,
 input[type="submit"]:disabled,
@@ -2810,7 +2831,7 @@ input[type="reset"]:hover,
 input[type="button"]:hover,
 button:hover,
 .button:hover {
-  background-color: #2f474b;
+  background-color: #ffbb00;
 }
 
 input[type="submit"]:active,
@@ -2818,7 +2839,7 @@ input[type="reset"]:active,
 input[type="button"]:active,
 button:active,
 .button:active {
-  background-color: #1b292b;
+  background-color: #ff8800;
 }
 
 input[type="submit"].special,
@@ -2826,7 +2847,7 @@ input[type="reset"].special,
 input[type="button"].special,
 button.special,
 .button.special {
-  background-color: #51baa4;
+  background-color: #f7bd00;
   box-shadow: none;
   color: #fff !important;
 }
@@ -2836,7 +2857,7 @@ input[type="reset"].special:hover,
 input[type="button"].special:hover,
 button.special:hover,
 .button.special:hover {
-  background-color: #63c1ae;
+  background-color: #ffa600;
 }
 
 input[type="submit"].special:active,
@@ -2844,7 +2865,7 @@ input[type="reset"].special:active,
 input[type="button"].special:active,
 button.special:active,
 .button.special:active {
-  background-color: #45ad97;
+  background-color: #ffd000;
 }
 
 input[type="submit"].alt,
@@ -2853,8 +2874,8 @@ input[type="button"].alt,
 button.alt,
 .button.alt {
   background-color: transparent;
-  box-shadow: inset 0 0 0 2px #51baa4;
-  color: #51baa4 !important;
+  box-shadow: inset 0 0 0 2px #ffae00;
+  color: #ffd000 !important;
 }
 
 input[type="submit"].alt:hover,
@@ -3216,7 +3237,7 @@ button.alt:active,
 .wrapper.style1 input[type="button"].special,
 .wrapper.style1 button.special,
 .wrapper.style1 .button.special {
-  background-color: #51baa4;
+  background-color: #ffd900;
   box-shadow: none;
   color: #fff !important;
 }
@@ -3226,7 +3247,7 @@ button.alt:active,
 .wrapper.style1 input[type="button"].special:hover,
 .wrapper.style1 button.special:hover,
 .wrapper.style1 .button.special:hover {
-  background-color: #63c1ae;
+  background-color: #ffc400;
 }
 
 .wrapper.style1 input[type="submit"].special:active,
@@ -3234,7 +3255,7 @@ button.alt:active,
 .wrapper.style1 input[type="button"].special:active,
 .wrapper.style1 button.special:active,
 .wrapper.style1 .button.special:active {
-  background-color: #45ad97;
+  background-color: #ffd900;
 }
 
 .wrapper.style1 input[type="submit"].alt,
@@ -3243,8 +3264,8 @@ button.alt:active,
 .wrapper.style1 button.alt,
 .wrapper.style1 .button.alt {
   background-color: transparent;
-  box-shadow: inset 0 0 0 2px #51baa4;
-  color: #51baa4 !important;
+  box-shadow: inset 0 0 0 2px #ffc400;
+  color: #ffbb00 !important;
 }
 
 .wrapper.style1 input[type="submit"].alt:hover,
@@ -3459,7 +3480,7 @@ button.alt:active,
 .wrapper.style2 input[type="button"].special,
 .wrapper.style2 button.special,
 .wrapper.style2 .button.special {
-  background-color: #51baa4;
+  background-color: #ffe600;
   box-shadow: none;
   color: #fff !important;
 }
@@ -3469,7 +3490,7 @@ button.alt:active,
 .wrapper.style2 input[type="button"].special:hover,
 .wrapper.style2 button.special:hover,
 .wrapper.style2 .button.special:hover {
-  background-color: #63c1ae;
+  background-color: #ffd900;
 }
 
 .wrapper.style2 input[type="submit"].special:active,
@@ -3477,7 +3498,7 @@ button.alt:active,
 .wrapper.style2 input[type="button"].special:active,
 .wrapper.style2 button.special:active,
 .wrapper.style2 .button.special:active {
-  background-color: #45ad97;
+  background-color: #ffc400;
 }
 
 .wrapper.style2 input[type="submit"].alt,
@@ -3507,7 +3528,7 @@ button.alt:active,
 }
 
 .wrapper.style3 {
-  background-color: #1e2832;
+  background-color: #b39200;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
   background-image: url("images/overlay.png"), url("../images/pic11.jpg");
@@ -3705,7 +3726,7 @@ button.alt:active,
 .wrapper.style3 input[type="button"].special,
 .wrapper.style3 button.special,
 .wrapper.style3 .button.special {
-  background-color: #51baa4;
+  background-color: #ffe600;
   box-shadow: none;
   color: #fff !important;
 }
@@ -3715,7 +3736,7 @@ button.alt:active,
 .wrapper.style3 input[type="button"].special:hover,
 .wrapper.style3 button.special:hover,
 .wrapper.style3 .button.special:hover {
-  background-color: #63c1ae;
+  background-color: #ffc400;
 }
 
 .wrapper.style3 input[type="submit"].special:active,
@@ -3723,7 +3744,7 @@ button.alt:active,
 .wrapper.style3 input[type="button"].special:active,
 .wrapper.style3 button.special:active,
 .wrapper.style3 .button.special:active {
-  background-color: #45ad97;
+  background-color: #ffd000;
 }
 
 .wrapper.style3 input[type="submit"].alt,
@@ -4051,12 +4072,12 @@ body {
 
 #banner {
   padding: 8em 0 6em 0;
-  background-color: #1e2832;
+  background-color: #280ba7;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
   background-image: url("images/overlay.png"), url("../images/banner.jpg");
   background-size: cover;
-  text-align: center;
+  text-align: left;
 }
 
 #banner input,
@@ -4066,7 +4087,7 @@ body {
 }
 
 #banner a {
-  color: #51baa4;
+  color: #280ba7;
 }
 
 #banner strong,
@@ -4285,7 +4306,7 @@ body {
 /* Footer */
 
 #footer {
-  background-color: #1e2832;
+  background-color: #3a1763;
   color: rgba(255, 255, 255, 0.75);
   text-align: center;
 }

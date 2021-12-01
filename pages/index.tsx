@@ -128,9 +128,9 @@ export default function Home({
         <p>
         <h4>Computer Science and Information Technology.</h4>
         </p>
-        <p>
-        <h2>Join Us.</h2>
-          </p>
+        
+        <p><h5>Join Us.</h5></p>
+          
           </div>
           
         {/*<h3>The Vincent Mary School of Science and Technology is one of the pioneers to develop information technology.</h3>
@@ -167,7 +167,7 @@ export default function Home({
           margin: 50px;
         }
         p {
-          color: blue;
+          color: white;
         }
       `}</style>
       <style jsx global>{`
@@ -182,7 +182,7 @@ export default function Home({
           margin: 50px;
         }
         p {
-          color: blue;
+          color: white;
         }
       `}</style>
       <style jsx global>{`
@@ -192,14 +192,16 @@ export default function Home({
       `}</style>
               
               <p>
-              <h4><button onClick={() => setIsOpen(true)} className="button big alt">Why VMS?</button></h4>
+              <h3><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h3> 
               </p> 
+
+              
     
           <p>
             <h2><a href="#news">Admissions</a></h2>
             </p>
           <p>
-            <h2><a href="#news">Programs</a></h2>
+            <h2><a href="#news">Programs</a></h2>    
             </p>
             <p>
             <h2><a href="#news">News</a></h2>
@@ -217,6 +219,10 @@ export default function Home({
             <h2><a href="#news">About us</a></h2>
             </p>
             </div>
+
+            
+          
+
           <article className="feature right">
           
           
@@ -276,6 +282,8 @@ export default function Home({
           </article>
         </div>
       </section>
+
+      
 
       {/* Highlights */}
       <section id="two" className="wrapper style3">
