@@ -84,10 +84,10 @@ export default function Home({
   return (
     <>
       <Head>
-      <link href="custombox.min.css" rel="stylesheet"/>
+        {/* <link href="custombox.min.css" rel="stylesheet"/>
       <script src="custombox.min.js"></script>
-      <script src="custombox.legacy.min.js"></script>
-      
+      <script src="custombox.legacy.min.js"></script> */}
+
         <title>VMS</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
@@ -108,11 +108,11 @@ export default function Home({
 
       <section id="banner">
         <div className="inner">
-        {/* <i className="icon fa-diamond"></i> */}
-        {/*<img src="/images/vms-logo-test.png" alt="VMS" width="140" height="140" className="icon" />*/}
-        {/*<h2>Vincent Mary</h2>
+          {/* <i className="icon fa-diamond"></i> */}
+          {/*<img src="/images/vms-logo-test.png" alt="VMS" width="140" height="140" className="icon" />*/}
+          {/*<h2>Vincent Mary</h2>
         <h2>School of Science and Technology</h2>*/}
-        <style jsx>{`
+          <style jsx>{`
         .inner {
           margin: 50px;
         }
@@ -120,7 +120,7 @@ export default function Home({
           color: white;
         }
       `}</style>
-      <style jsx global>{`
+          <style jsx global>{`
         p {
           font-size: 30px;
         }
@@ -128,33 +128,39 @@ export default function Home({
           font-weight: 7000;
         }
       `}</style>
-        <p>
-        <h4>We offer a total six study programs </h4>
-        </p>
-        <p>
-        <h4>which cover Bachelor, Master , and Doctoral degrees in both</h4>
-        </p>
-        <p>
-        <h4>Computer Science and Information Technology.</h4>
-        </p>
-        
-        <p><h5 class="animate__animated animate__fadeInLeft">Join Us.</h5></p>
+          <h4>We offer a total six study programs </h4>
+          <p>
+            .....
+          </p>
+          <h4>which cover Bachelor, Master , and Doctoral degrees in both</h4>
+          <p>
+            ....
+          </p>
+          <h4>Computer Science and Information Technology.</h4>
+          <p>
+            ....
+          </p>
 
-        
-          
-          </div>
+          <h5 className="animate__animated animate__fadeInLeft">Join Us.</h5>
+          <p>
+            ...
+          </p>
 
-          
+
+
+        </div>
+
+
         {/*<h3>The Vincent Mary School of Science and Technology is one of the pioneers to develop information technology.</h3>
         <h3>This tradition helps in creating graduates who are experts in the science and technology field, as well as fluent English speakers.</h3>*/}
         <ul className="actions">
           <p>
-          {/*<li><h4><button onClick={() => setIsOpen(true)} className="button big alt">Why VMS?</button></h4></li>*/}
+            {/*<li><h4><button onClick={() => setIsOpen(true)} className="button big alt">Why VMS?</button></h4></li>*/}
           </p>
-          
+
         </ul>
       </section>
-{/* 
+      {/* 
       <Carousel showArrows={true}
       // onChange={onChange} onClickItem={onClickItem} onClickThumb={onClickThumb}
       >
@@ -170,17 +176,14 @@ export default function Home({
 
       {/* One */}
 
-      <body>
-        
-      </body>
-      
+
       <section id="one" className="wrapper style3">
-        
+
         <div className="inner">
-          
-            <div className="content">
-              
-              <style jsx>{`
+
+          <div className="content">
+
+            <style jsx>{`
         .inner {
           margin: 50px;
         }
@@ -188,13 +191,13 @@ export default function Home({
           color: white;
         }
       `}</style>
-      <style jsx global>{`
+            <style jsx global>{`
         p {
           font-size: 30px;
         }
       `}</style>
-            </div>
-            <div className="content">
+          </div>
+          <div className="content">
             <style jsx>{`
         .content {
           margin: 50px;
@@ -203,50 +206,57 @@ export default function Home({
           color: white;
         }
       `}</style>
-      <style jsx global>{`
+            <style jsx global>{`
         p {
           font-size: 30px;
         }
       `}</style>
-      
-      
-              
-              <p>
-              <h3><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h3> 
-              </p> 
 
-              
-    
-          <p>
+
+
+            <h3><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h3>
+            <p>
+            </p>
+
+
+
             <h2><a href="#news">Admissions</a></h2>
-            </p>
-          <p>
-            <h2><a href="#news">Programs</a></h2>    
-            </p>
             <p>
+              ...
+            </p>
+            <h2><a href="#news">Programs</a></h2>
+            <p>
+              ...
+            </p>
             <h2><a href="#news">News</a></h2>
+            <p>
+              ...
             </p>
-          <p>
             <h2><a href="#news">Project</a></h2>
-            </p>
             <p>
+              ...
+            </p>
             <h2><a href="#news">Spotlight</a></h2>
-            </p>
-          <p>
-            <h2><a href="#news">Laboratories</a></h2>
-            </p>
             <p>
-            <h2><a href="#news">About us</a></h2>
+              ...
             </p>
-            </div>
+            <h2><a href="#news">Laboratories</a></h2>
+            <p>
+              ...
+            </p>
+            <h2><a href="#news">About us</a></h2>
+            <p>
+              ...
+            </p>
+          </div>
 
-            
-          
+
+
 
           <article className="feature right">
-          
-          
-          <style jsx>{`
+
+
+            <style jsx>{`
         .inner {
           margin: 50px;
         }
@@ -254,7 +264,7 @@ export default function Home({
           color: white;
         }
       `}</style>
-      <style jsx global>{`
+            <style jsx global>{`
         p {
           font-size: 20px;
         }
@@ -262,13 +272,14 @@ export default function Home({
             <span className="image">
               <img src="images/3students-cover.png" alt="CS" /></span>
             <div className="content">
-              
-            <h2><a href="/cs">Computer Science</a></h2>
-              <p>
-                
+
+              <h2><a href="/cs">Computer Science</a></h2>
+
                 <h3>Join us in Suvarnabhumi Campus</h3>
                 This program focuses on computer system concerned with information representation, storage and data processing. Our curriculum, courses and facilities are designed to foster creativity and innovativeness as students gain the core knowledge in theories and practices.
-                </p>
+              <p>
+                ...
+              </p>
               <ul className="actions">
               </ul>
             </div>
@@ -279,7 +290,7 @@ export default function Home({
             <div className="content">
               <h2><a href="/it">Information Technology</a></h2>
               <p>
-              <style jsx>{`
+                <style jsx>{`
         .inner {
           margin: 50px;
         }
@@ -287,7 +298,7 @@ export default function Home({
           color: white;
         }
       `}</style>
-      <style jsx global>{`
+                <style jsx global>{`
         p {
           font-size: 20px;
         }
@@ -296,14 +307,14 @@ export default function Home({
                 Encompasses all forms of technology used to create, store, exchange, and use information in its various forms (business data, voice, conversations, still images, motion pictures, multimedia presentations and other forms including those not yet conceived of). It emphasizes applying technology in analysis, design, development, operation, linkage, control and management of information systems.
               </p>
               <ul className="actions">
-                
+
               </ul>
             </div>
           </article>
         </div>
       </section>
 
-      
+
 
       {/* Highlights */}
       <section id="two" className="wrapper style3">
@@ -339,7 +350,7 @@ export default function Home({
           <div className="image-grid">
             {facebookPosts?.filter(p => p.message && p.full_picture).map(({ id, message, permalink_url, full_picture }) => (
               <Link href={permalink_url} key={id}>
-                <img src={full_picture} alt={message} className="image"/>
+                <img src={full_picture} alt={message} className="image" />
               </Link>
             ))}
           </div>
@@ -460,7 +471,7 @@ export default function Home({
 }
 
 // export const getServerSideProps: GetStaticProps = async () => {
-  export const getServerSideProps: GetServerSideProps = async () => {  
+export const getServerSideProps: GetServerSideProps = async () => {
   const newsData = await getNewsData()
   const alumniData = await getAlumniData()
   const facebookPosts = await getFacebookPosts()
