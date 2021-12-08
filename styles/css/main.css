@@ -1,6 +1,9 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,500,700");
+@import 'animate.css';
+@import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
+
 
 /*
 	Retrospect by TEMPLATED
@@ -2018,6 +2021,118 @@ header h6 + p {
   margin-top: -0.6em;
   line-height: 1.5em;
   text-align: left;
+}
+
+.open {
+  animation: fade-in 0.5s forwards;
+
+  .dialog {
+      animation: slide-in 0.5s forwards;
+  }
+}
+
+.close {
+  animation: fade-out 0.5s forwards;
+
+  .dialog {
+      animation: slide-out 0.5s forwards;
+  }
+}
+
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes fade-out {
+  100% { opacity: 0; }
+}
+
+@keyframes slide-in {
+  100% { transform: translateY(100px); }
+}
+
+@keyframes slide-out {
+  0% { transform: translateY(100px); }
+  100% { transform: translateY(200%); }
+}
+
+.dialog,
+.dialog__overlay {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+.dialog {
+	position: fixed;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	pointer-events: none;
+}
+
+.dialog__overlay {
+	position: absolute;
+	z-index: 1;
+	background: rgba(55, 58, 71, 0.9);
+	opacity: 0;
+	transition: opacity 0.3s;
+}
+
+.dialog--open .dialog__overlay {
+	opacity: 1;
+	pointer-events: auto;
+}
+
+.dialog__content {
+	width: 50%;
+	max-width: 560px;
+	min-width: 290px;
+	background: #fff;
+	padding: 4em;
+	text-align: center;
+	position: relative;
+	z-index: 5;
+	opacity: 0;
+}
+
+.dialog--open .dialog__content {
+	pointer-events: auto;
+}
+
+/* Content */
+.dialog h2 {
+	margin: 0;
+	font-weight: 400;
+	font-size: 2em;
+	padding: 0 0 2em;
+	margin: 0;
+}
+
+.dialog.dialog--open .dialog__content,
+.dialog.dialog--close .dialog__content {
+	animation-duration: 0.3s;
+	animation-fill-mode: forwards;
+}
+
+.dialog.dialog--open .dialog__content {
+	animation-name: anim-open;
+}
+
+.dialog.dialog--close .dialog__content {
+	animation-name: anim-close;
+}
+
+@keyframes anim-open {
+	0% { opacity: 0; transform: scale3d(1.1, 1.1, 1); }
+	100% { opacity: 1; transform: scale3d(1, 1, 1); }
+}
+
+@keyframes anim-close {
+	0% { opacity: 1; }
+	100% { opacity: 0; transform: scale3d(0.9, 0.9, 1); }
 }
 
 header.major {

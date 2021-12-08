@@ -15,7 +15,7 @@ export default function Curriculum() {
 
           <header className="major special">
             <h2>Computer Science</h2>
-            <p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+            <p>Bachelor in Computer Science</p>
           </header>
 
           <a href="#" className="image fit"><img src="/news/sample/pic11.jpg" alt="" /></a>

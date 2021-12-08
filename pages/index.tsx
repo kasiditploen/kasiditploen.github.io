@@ -13,11 +13,16 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { GetStaticProps, GetServerSideProps } from 'next'
 import { getAlumniData, getNewsData, getFacebookPosts } from '../lib/posts-scitech'
+import 'animate.css';
+import BootstrapTable from 'react-bootstrap-table-next';
+import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
+
 
 const Carousel = require('react-responsive-carousel').Carousel;
 import 'react-responsive-carousel/lib/styles/carousel.css'
 
 const siteConfig = require('./config')
+
 
 // import vmsLogo from '../styles/images/vms-logo.png'
 // import styles from '../styles/Home.module.css'
@@ -79,6 +84,10 @@ export default function Home({
   return (
     <>
       <Head>
+      <link href="custombox.min.css" rel="stylesheet"/>
+      <script src="custombox.min.js"></script>
+      <script src="custombox.legacy.min.js"></script>
+      
         <title>VMS</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
@@ -129,9 +138,12 @@ export default function Home({
         <h4>Computer Science and Information Technology.</h4>
         </p>
         
-        <p><h5>Join Us.</h5></p>
+        <p><h5 class="animate__animated animate__fadeInLeft">Join Us.</h5></p>
+
+        
           
           </div>
+
           
         {/*<h3>The Vincent Mary School of Science and Technology is one of the pioneers to develop information technology.</h3>
         <h3>This tradition helps in creating graduates who are experts in the science and technology field, as well as fluent English speakers.</h3>*/}
@@ -157,7 +169,13 @@ export default function Home({
 
 
       {/* One */}
+
+      <body>
+        
+      </body>
+      
       <section id="one" className="wrapper style3">
+        
         <div className="inner">
           
             <div className="content">
@@ -190,6 +208,8 @@ export default function Home({
           font-size: 30px;
         }
       `}</style>
+      
+      
               
               <p>
               <h3><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h3> 

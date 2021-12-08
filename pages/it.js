@@ -1,5 +1,12 @@
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
+import BootstrapTable from 'react-bootstrap-table-next';
+import React from "react";
+import ReactDOM from "react-dom";
+import BootstrapTable from "react-bootstrap-table-next";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "react-bootstrap-table-next/dist/react-bootstrap-table2.min.css";
+import "./styles.css";
 
 export default function Curriculum() {
   return (
@@ -15,10 +22,10 @@ export default function Curriculum() {
 
           <header className="major special">
             <h2>Information Technology</h2>
-            <p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+            <p>Bachelor of Science in Information Technology</p>
           </header>
 
-          <a href="#" className="image fit"><img src="/news/sample/pic11.jpg" alt="" /></a>
+          <a href="#" className="image fit"><img src="/news/sample/pic12.jpg" alt="" /></a>
           <p>
           Future technology must be better and obsolete technology must be improved to provide the technological innovation which is easy to use and fast. Similar to the medical diagnosis which requires doctor to identify the illness of people, identifying the problems in IT system requires the analyst who has knowledge and skills.
 
@@ -28,6 +35,9 @@ We emphasize on the development of students’ knowledge and skills to discover 
           </p>
         </div>
       </section>
+
+
+
 
       <section id="concentration" className="wrapper style1">
         <header className="major special">

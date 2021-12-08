@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Navbar from '../components/Navbar'
 import CourseTable from '../components/CourseTable'
 import { GetStaticProps } from 'next'
+import BootstrapTable from 'react-bootstrap-table-next';
 
 const csv = require('neat-csv');
 import fs from 'fs';
@@ -10,11 +11,13 @@ export default function Home({ courseData }) {
   return (
     <div>
       <Head>
-        <title>Computer Science</title>
+        <title> Computer Science</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <Navbar title={'Computer Science'} transparent={true} />
+
+      
 
       <section id="one" className="wrapper style1">
         <div className="inner">

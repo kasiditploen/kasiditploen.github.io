@@ -1,11 +1,15 @@
 export default function Navbar({ title = "", transparent }) {
   let className = transparent ? "alt" : "";
+  const logoStyle = {
+    verticalAlign: 'middle',
+		width: '56px'
+  }
   return (
     <>
       <header id="header" className={className}>
-        <h1><a href="/"><img src="/images/vms-logo-test.png" alt="VMS" width="30" height="30" className="icon" />VMS{title}</a></h1>
+        <h1><a href="/"><img src="/images/vms-logo-test.png" alt="VMS" className="icon" style={logoStyle}/>VMS:{title}</a></h1>
         <a href="#nav"></a>
-        <p><h6><a href="/">Vincent Mary School Of Science And Technology{title}</a></h6></p>
+        {/* <p><h6><a href="/">Vincent Mary School Of Science And Technology</a></h6></p> */}
       </header>
       
       <nav id="nav">
