@@ -41,6 +41,8 @@ const modalStyles = {
 };
 
 
+
+
 export default function Home({
   newsData,
   alumniData,
@@ -128,22 +130,22 @@ export default function Home({
           font-weight: 7000;
         }
       `}</style>
-          <h4>We offer a total six study programs </h4>
+          <h4 className="animate__animated animate__backInLeft">We offer a total six study programs </h4>
           <p>
-            .....
+            
           </p>
-          <h4>which cover Bachelor, Master , and Doctoral degrees in both</h4>
+          <h4 className="animate__animated animate__backInLeft">which cover Bachelor, Master , and Doctoral degrees in both</h4>
           <p>
-            ....
+            
           </p>
-          <h4>Computer Science and Information Technology.</h4>
+          <h4 className="animate__animated animate__backInLeft">Computer Science and Information Technology.</h4>
           <p>
-            ....
+            
           </p>
 
           <h5 className="animate__animated animate__fadeInLeft">Join Us.</h5>
           <p>
-            ...
+            
           </p>
 
 
@@ -222,31 +224,31 @@ export default function Home({
 
             <h2><a href="#news">Admissions</a></h2>
             <p>
-              ...
+              
             </p>
             <h2><a href="#news">Programs</a></h2>
             <p>
-              ...
+              
             </p>
             <h2><a href="#news">News</a></h2>
             <p>
-              ...
+              
             </p>
             <h2><a href="#news">Project</a></h2>
             <p>
-              ...
+              
             </p>
             <h2><a href="#news">Spotlight</a></h2>
             <p>
-              ...
+              
             </p>
             <h2><a href="#news">Laboratories</a></h2>
             <p>
-              ...
+              
             </p>
             <h2><a href="#news">About us</a></h2>
             <p>
-              ...
+              
             </p>
           </div>
 

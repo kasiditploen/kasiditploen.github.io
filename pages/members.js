@@ -19,6 +19,7 @@ export default function News({ API_URL }) {
           <h2>Faculty Members</h2>
         </header>
 
+
         <div className="card-container">
           {members.map((v, i) => {
             return (
@@ -29,8 +30,17 @@ export default function News({ API_URL }) {
                   <div className="card-title">{v.name}</div>
                   <p className="copy">{v.blurp}</p>
                   <a href={v.portalUrl}><button className="card-btn">View Portal</button></a>
+                  
+                  //<div class="button-wrap"><button data-dialog="somedialog" class="trigger">Detail</button></div>
+                  <div id="somedialog" class="dialog">
+					<div class="dialog__overlay"></div>
+					<div class="dialog__content">
+						<h2><strong>Howdy</strong>, I'm a dialog box</h2><div><button class="action" data-dialog-close="">Close</button></div>
+					</div>
+				</div>
                 </div>
               </div>
+              
             )
           })}
 
@@ -40,6 +50,8 @@ export default function News({ API_URL }) {
     </>
   )
 }
+
+
 
 export async function getStaticProps() {
   console.log("process.env.WP_API_URL", process.env.WP_API_URL)
