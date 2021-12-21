@@ -14,7 +14,8 @@ import Footer from '../components/Footer'
 import { GetStaticProps, GetServerSideProps } from 'next'
 import { getAlumniData, getNewsData, getFacebookPosts } from '../lib/posts-scitech'
 import 'animate.css';
-
+//import BootstrapTable from 'react-bootstrap-table-next';
+import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
 
 
 
@@ -94,7 +95,7 @@ export default function Home({
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="This is the new and fresh VMS website from Space-Dust team using Nextjs, a JavaScript framework bringing the best performance and security in both world. Next.js is widely used by the biggest and most popular companies all over the world like Netflix, Uber, Starbucks, or Twitch. It’s also considered as one of the fastest-growing React frameworks, perfect to work with static sites – which was the hottest topic in the web development world lately. It doesn’t matter if you are planning to build a huge and demanding app to serve millions of users, nor if you are a growing web shop on Shopify. In both cases, you can use the advantages of modern web technology to make your business more efficient online."
+          content="Learn how to build a personal website using Next.js"
         />
         <meta
           property="og:image"

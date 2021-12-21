@@ -65,7 +65,7 @@ export default function News({ API_URL }) {
       <Head>
         <title>VMS:News</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="description" content="21 DEC 2021: This is the News section of VMS Website."></meta>
+        <meta name="description" content="This is the News section of VMS Website."></meta>
       </Head>
 
       <Navbar title={'News'} transparent={true} />
