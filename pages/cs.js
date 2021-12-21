@@ -7,6 +7,7 @@ export default function Curriculum() {
       <Head>
         <title>Computer Science</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="This is the Computer Science page of VMS Website."></meta>
       </Head>
 
       <Navbar title={'Computer Science'}/>
@@ -14,7 +15,7 @@ export default function Curriculum() {
         <div className="container">
 
           <header className="major special">
-            <h2>Computer Science</h2>
+            <h2>VMS:Computer Science</h2>
             <p>Bachelor in Computer Science</p>
           </header>
 

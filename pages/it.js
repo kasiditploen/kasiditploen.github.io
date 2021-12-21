@@ -12,11 +12,12 @@ export default function Curriculum() {
   return (
     <div>
       <Head>
-        <title>Computer Science</title>
+        <title>VMS: Information Technology</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="This is the Information Technology page of VMS Website."></meta>
       </Head>
 
-      <Navbar title={'Computer Science'}/>
+      <Navbar title={'Information Technology'}/>
       <section id="main" className="wrapper">
         <div className="container">
 

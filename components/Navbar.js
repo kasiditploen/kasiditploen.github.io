@@ -20,6 +20,10 @@ export default function Navbar({ title = "", transparent }) {
           <li><a href="/news">News</a></li>
           <li><a href="/members">Members</a></li>
           <li><a href="/curriculum">Curriculum</a></li>
+          <li><a href="/news">Programs</a></li>
+          <li><a href="/news">Project</a></li>
+          <li><a href="/news">Laboratories</a></li>
+          <li><a href="/news">About us</a></li>
         </ul>
       </nav>
     </>

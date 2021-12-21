@@ -14,8 +14,9 @@ import Footer from '../components/Footer'
 import { GetStaticProps, GetServerSideProps } from 'next'
 import { getAlumniData, getNewsData, getFacebookPosts } from '../lib/posts-scitech'
 import 'animate.css';
-import BootstrapTable from 'react-bootstrap-table-next';
+//import BootstrapTable from 'react-bootstrap-table-next';
 import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
+
 
 
 const Carousel = require('react-responsive-carousel').Carousel;
@@ -90,7 +91,7 @@ export default function Home({
       <script src="custombox.min.js"></script>
       <script src="custombox.legacy.min.js"></script> */}
 
-        <title>VMS</title>
+        <title>Home Page: VMS</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
@@ -130,20 +131,20 @@ export default function Home({
           font-weight: 7000;
         }
       `}</style>
-          <h4 className="animate__animated animate__backInLeft">We offer a total six study programs </h4>
+          <h4 className="animate__animated animate__fadeInLeft">We offer a total six study programs </h4>
           <p>
             
           </p>
-          <h4 className="animate__animated animate__backInLeft">which cover Bachelor, Master , and Doctoral degrees in both</h4>
+          <h4 className="animate__animated animate__fadeInLeft">which cover Bachelor, Master , and Doctoral degrees in both</h4>
           <p>
             
           </p>
-          <h4 className="animate__animated animate__backInLeft">Computer Science and Information Technology.</h4>
+          <h4 className="animate__animated animate__fadeInLeft">Computer Science and Information Technology.</h4>
           <p>
             
           </p>
 
-          <h5 className="animate__animated animate__fadeInLeft">Join Us.</h5>
+          <h5 className="animate__animated animate__fadeInLeft">Join Us</h5>
           <p>
             
           </p>
@@ -214,44 +215,10 @@ export default function Home({
         }
       `}</style>
 
-
-
-            <h3><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h3>
-            <p>
-            </p>
-
-
-
-            <h2><a href="#news">Admissions</a></h2>
-            <p>
-              
-            </p>
-            <h2><a href="#news">Programs</a></h2>
-            <p>
-              
-            </p>
-            <h2><a href="#news">News</a></h2>
-            <p>
-              
-            </p>
-            <h2><a href="#news">Project</a></h2>
-            <p>
-              
-            </p>
-            <h2><a href="#news">Spotlight</a></h2>
-            <p>
-              
-            </p>
-            <h2><a href="#news">Laboratories</a></h2>
-            <p>
-              
-            </p>
-            <h2><a href="#news">About us</a></h2>
-            <p>
-              
-            </p>
+<p>
+{/*<h1><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h1>*/}
+</p>        
           </div>
-
 
 
 
@@ -270,6 +237,7 @@ export default function Home({
         p {
           font-size: 20px;
         }
+        
       `}</style>
             <span className="image">
               <img src="images/3students-cover.png" alt="CS" /></span>
@@ -277,7 +245,7 @@ export default function Home({
 
               <h2><a href="/cs">Computer Science</a></h2>
 
-                <h3>Join us in Suvarnabhumi Campus</h3>
+                {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 This program focuses on computer system concerned with information representation, storage and data processing. Our curriculum, courses and facilities are designed to foster creativity and innovativeness as students gain the core knowledge in theories and practices.
               <p>
                 ...
@@ -305,7 +273,7 @@ export default function Home({
           font-size: 20px;
         }
       `}</style>
-                <h3>JOIN US IN SUVARNABHUMI CAMPUS</h3>
+                {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 Encompasses all forms of technology used to create, store, exchange, and use information in its various forms (business data, voice, conversations, still images, motion pictures, multimedia presentations and other forms including those not yet conceived of). It emphasizes applying technology in analysis, design, development, operation, linkage, control and management of information systems.
               </p>
               <ul className="actions">

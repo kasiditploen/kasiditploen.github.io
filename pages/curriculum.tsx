@@ -2,20 +2,23 @@ import Head from 'next/head'
 import Navbar from '../components/Navbar'
 import CourseTable from '../components/CourseTable'
 import { GetStaticProps } from 'next'
-import BootstrapTable from 'react-bootstrap-table-next';
+
 
 const csv = require('neat-csv');
 import fs from 'fs';
+
+
 
 export default function Home({ courseData }) {
   return (
     <div>
       <Head>
-        <title> Computer Science</title>
+        <title> VMS:Curriculum</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="This is the curriculum page of VMS Website."></meta>
       </Head>
 
-      <Navbar title={'Computer Science'} transparent={true} />
+      <Navbar title={'Curriculum'} transparent={true} />
 
       
 
@@ -48,6 +51,8 @@ export default function Home({ courseData }) {
     </div>
   )
 }
+
+
 
 export const getStaticProps: GetStaticProps = async () => {
   // const newsData = await getNewsData()

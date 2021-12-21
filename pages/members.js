@@ -11,6 +11,7 @@ export default function News({ API_URL }) {
       <Head>
         <title>VMS Members</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="This is the member page of VMS Website."></meta>
       </Head>
       <Navbar title={'Members'} transparent={true} />
 
@@ -18,6 +19,7 @@ export default function News({ API_URL }) {
         <header className="major special">
           <h2>Faculty Members</h2>
         </header>
+
 
 
         <div className="card-container">
@@ -31,7 +33,7 @@ export default function News({ API_URL }) {
                   <p className="copy">{v.blurp}</p>
                   <a href={v.portalUrl}><button className="card-btn">View Portal</button></a>
                   
-                  //<div class="button-wrap"><button data-dialog="somedialog" class="trigger">Detail</button></div>
+                  <div className="button-wrap"><button data-dialog="somedialog" class="trigger">Detail</button></div>
                   <div id="somedialog" class="dialog">
 					<div class="dialog__overlay"></div>
 					<div class="dialog__content">
@@ -61,3 +63,6 @@ export async function getStaticProps() {
     }
   }
 }
+
+<div id="example-table"></div>
+
