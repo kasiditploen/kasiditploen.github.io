@@ -63,7 +63,7 @@ export default function News({ API_URL }) {
   return (
     <>
       <Head>
-        <title>VMS:NewsSpotlight</title>
+        <title>VMS:News</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="This is the News section of VMS Website. The new and fresh VMS website from Space-Dust team using Nextjs, a JavaScript framework bringing the best performance and security in both world. Next.js is widely used by the biggest and most popular companies all over the world like Netflix, Uber, Starbucks, or Twitch."></meta>
       </Head>
