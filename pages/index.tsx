@@ -94,7 +94,7 @@ export default function Home({
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="jrtfjrt6ujt6rjytu6tyuty6uty6ujtyikjyuikyugiokytg7kgytoklfykfty"
         />
         <meta
           property="og:image"
