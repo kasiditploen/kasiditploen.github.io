@@ -19,8 +19,8 @@ import 'animate.css';
 
 
 
-//const Carousel = require('react-responsive-carousel').Carousel;
-//import 'react-responsive-carousel/lib/styles/carousel.css'
+const Carousel = require('react-responsive-carousel').Carousel;
+import 'react-responsive-carousel/lib/styles/carousel.css'
 
 const siteConfig = require('./config')
 
