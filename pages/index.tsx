@@ -14,7 +14,7 @@ import Footer from '../components/Footer'
 import { GetStaticProps, GetServerSideProps } from 'next'
 import { getAlumniData, getNewsData, getFacebookPosts } from '../lib/posts-scitech'
 import 'animate.css';
-import 'react-bootstrap-table-next/dist/react-bootstrap-table2.min.css';
+
 
 
 
