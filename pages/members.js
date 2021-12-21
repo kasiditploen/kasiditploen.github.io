@@ -11,7 +11,7 @@ export default function News({ API_URL }) {
       <Head>
         <title>VMS Members</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="description" content="This is the member page of VMS Website. The new and fresh VMS website from Space-Dust team using Nextjs, a JavaScript framework bringing the best performance and security in both world. Next.js is widely used by the biggest and most popular companies all over the world like Netflix, Uber, Starbucks, or Twitch. It’s also considered as one of the fastest-growing React frameworks, perfect to work with static sites – which was the hottest topic in the web development world lately. It doesn’t matter if you are planning to build a huge and demanding app to serve millions of users, nor if you are a growing web shop on Shopify. In both cases, you can use the advantages of modern web technology to make your business more efficient online."></meta>
+        <meta name="description" content="This is the member page of VMS Website."></meta>
       </Head>
       <Navbar title={'Members'} transparent={true} />
 
