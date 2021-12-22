@@ -33,8 +33,8 @@ export default function News({ API_URL }) {
                   <p className="copy">{v.blurp}</p>
                   <a href={v.portalUrl}><button className="card-btn">View Portal</button></a>
                   
-                  <div className="button-wrap"><button data-dialog="somedialog" class="trigger">Detail</button></div>
-                  <div id="somedialog" class="dialog">
+                  <div className="button-wrap"><button data-dialog="somedialog1" class="trigger">Detail</button></div>
+                  <div id="somedialog1" class="dialog">
 					<div class="dialog__overlay"></div>
 					<div class="dialog__content">
 						<h2><strong>Howdy</strong>, I'm a dialog box</h2><div><button class="action" data-dialog-close="">Close</button></div>
