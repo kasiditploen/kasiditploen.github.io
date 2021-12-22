@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Navbar from '../components/Navbar'
-import BootstrapTable from 'react-bootstrap-table-next';
 import React from "react";
 import ReactDOM from "react-dom";
 //import BootstrapTable from "react-bootstrap-table-next";
