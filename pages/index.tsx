@@ -112,8 +112,8 @@ export default function Home({
         <div className="inner">
           {/* <i className="icon fa-diamond"></i> */}
           {/*<img src="/images/vms-logo-test.png" alt="VMS" width="140" height="140" className="icon" />*/}
-          {/*<h2>Vincent Mary</h2>
-        <h2>School of Science and Technology</h2>*/}
+          <h2>Welcome to My Portfolio</h2>
+        <h2>"School of Science and Technology."</h2>
           <style jsx>{`
         .inner {
           margin: 50px;
@@ -130,7 +130,7 @@ export default function Home({
           font-weight: 7000;
         }
       `}</style>
-          <h5 style={{textAlign: "center"}}>My Portfolio </h5>
+          {/*<h5 style={{textAlign: "center"}}>My Portfolio </h5>*/}
           <p>
             
             
@@ -479,13 +479,13 @@ export default function Home({
         
       `}</style>
             <span className="image">
-              <img src="images/amina_narak.jpg" alt="CS" /></span>
+              <img src="images/amina_narak.jpg" alt="XX" /></span>
             <div className="content">
 
               <h2><a href="/cs">Amina</a></h2>
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
-                Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
+                Cute Girl.
               <p>
                 ...
               </p>
