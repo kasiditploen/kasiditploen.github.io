@@ -2611,6 +2611,7 @@
 			button,
 			.button {
 				padding: 0;
+				
 			}
 
 		}
@@ -3331,7 +3332,7 @@
 			background-color: #1E2832;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../../images/pic11.jpg");
+			background-image: url("images/overlay.png"), url("../../images/picx.jpg");
 			background-size: cover;
 		}
 
@@ -4001,7 +4002,7 @@
 
 		#banner h2 {
 			font-size: 2.5em;
-			margin: 0 0 0.5em 0;
+			margin: 0 0 0 0;
 			padding: 0;
 		}
 

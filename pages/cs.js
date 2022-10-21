@@ -19,7 +19,7 @@ export default function Curriculum() {
             <p>Bachelor in Computer Science</p>
           </header>
 
-          <a href="#" className="image fit"><img src="/news/sample/pic11.jpg" alt="" /></a>
+          <a href="#" className="image fit"><img src="/news/sample/picx.jpg" alt="" /></a>
           <p>
             At the Department of Computer Science, Vincent Mary School of Science and Technology, we believe in the science that creates positive impacts to the world. We believe in nourishing creative minds while ensuring the solid foundation of the knowledge is never compromised. We believe in the Computer Science that maintains its core values as it modernizes itself through time. Our study programs are designed based on such beliefs. With qualified experts in the field, both academic and industrial, our curriculum, courses and facilities are designed to foster creativity and innovativeness as students gain the core knowledge in theories and practices. And all these within a truly international environment. So if you are one of those who genuinely believe in building your expertise into something that matters, learn more about our community and how we can drive towards it together.
           </p>

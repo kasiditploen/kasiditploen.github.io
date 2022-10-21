@@ -3766,7 +3766,7 @@ button.alt:active,
   background-color: #b39200;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: url("images/overlay.png"), url("../images/pic11.jpg");
+  background-image: url("images/overlay.png"), url("../images/picx.jpg");
   background-size: cover;
 }
 
@@ -3777,7 +3777,7 @@ button.alt:active,
 }
 
 .wrapper.style3 a {
-  color: #51baa4;
+  color: #51ba9a;
 }
 
 .wrapper.style3 strong,

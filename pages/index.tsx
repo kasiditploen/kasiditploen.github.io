@@ -76,7 +76,7 @@ export default function Home({
 
   function afterOpenModal() {
     // references are now sync'd and can be accessed.
-    subtitle.style.color = '#f00';
+    subtitle.style.color = '#000';
   }
 
   function closeModal() {
@@ -90,7 +90,7 @@ export default function Home({
       <script src="custombox.min.js"></script>
       <script src="custombox.legacy.min.js"></script> */}
 
-        <title>Home Page: VMS</title>
+        <title>Home Page: Portfolio</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
@@ -130,23 +130,13 @@ export default function Home({
           font-weight: 7000;
         }
       `}</style>
-          <h4 className="animate__animated animate__fadeInLeft">We offer a total six study programs </h4>
+          <h5 style={{textAlign: "center"}}>My Portfolio </h5>
           <p>
             
-          </p>
-          <h4 className="animate__animated animate__fadeInLeft">which cover Bachelor, Master , and Doctoral degrees in both</h4>
-          <p>
-            
-          </p>
-          <h4 className="animate__animated animate__fadeInLeft">Computer Science and Information Technology.</h4>
-          <p>
             
           </p>
 
-          <h5 className="animate__animated animate__fadeInLeft">Join Us</h5>
-          <p>
-            
-          </p>
+          
 
 
 
@@ -155,13 +145,9 @@ export default function Home({
 
         {/*<h3>The Vincent Mary School of Science and Technology is one of the pioneers to develop information technology.</h3>
         <h3>This tradition helps in creating graduates who are experts in the science and technology field, as well as fluent English speakers.</h3>*/}
-        <ul className="actions">
-          <p>
-            {/*<li><h4><button onClick={() => setIsOpen(true)} className="button big alt">Why VMS?</button></h4></li>*/}
-          </p>
-
-        </ul>
+        
       </section>
+      
       {/* 
       <Carousel showArrows={true}
       // onChange={onChange} onClickItem={onClickItem} onClickThumb={onClickThumb}
@@ -180,7 +166,11 @@ export default function Home({
 
 
       <section id="one" className="wrapper style3">
+      
 
+      
+        
+      
         <div className="inner">
 
           <div className="content">
@@ -218,9 +208,218 @@ export default function Home({
 {/*<h1><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h1>*/}
 </p>        
           </div>
+          <h5 className="text-lg" style={{textAlign: "left"}}>Senior Projects</h5>
+          <article className="feature left">
+
+
+            <style jsx>{`
+        .inner {
+          margin: 50px;
+        }
+        p {
+          color: white;
+        }
+      `}</style>
+            <style jsx global>{`
+        p {
+          font-size: 20px;
+        }
+        
+      `}</style>
+            <span className="image">
+              <img src="images/website.png" />
+              
+              </span>
+            <div className="content">
+
+              <h2><a href="/cs">Senior Project I</a></h2>
+              <h1><a href="/cs">VMS Website 2022</a></h1>
+                {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+                Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
+              <p>
+                ...
+              </p>
+              <ul className="actions">
+              
+          
+            
+          <li><a href="#"><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Go</button></h2></a></li>
+          
+        
+
+      </ul>
+              
+            </div>
+            
+          </article>
+          
+          
+          <article className="feature left">
+
+
+            <style jsx>{`
+        .inner {
+          margin: 50px;
+        }
+        p {
+          color: white;
+        }
+      `}</style>
+            <style jsx global>{`
+        p {
+          font-size: 20px;
+        }
+        
+      `}</style>
+            <span className="image">
+              <img src="images/sii.png" alt="CS" />
+              
+              </span>
+            <div className="content">
+
+              <h2><a href="/cs">Senior Project II</a></h2>
+              <h1><a href="/cs">Fitness Management System</a></h1>
+
+
+                {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+                My final project in my bachelor degree is the management system for fitness firms. I was assigned to research on the real fitness firms and evaulate
+                the data attributes or system to implement in my proposed system.
+              <p>
+                ...
+              </p>
+              <ul className="actions">
+              
+          
+            
+          <li><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Go</button></h2></li>
+          
+        
+
+      </ul>
+              
+            </div>
+            
+          </article>
+          
+          
+              
+          <h5><a href="/cs">Skills</a></h5>
+          <div className="row">
+          <span className="image" >
+              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h2>
+<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
 
 
 
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>        
+<span className="image" >
+              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">HTML/CSS</a></h2>
+<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>       
+<span className="image" >
+              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">React/Next.js</a></h2>
+<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>       
+<span className="image" >
+              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">PHP</a></h2>
+<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>       
+<span className="image" >
+              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h2>
+<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>       
+              
+              
+              
+              </div>
+              
           <article className="feature right">
 
 
@@ -239,18 +438,67 @@ export default function Home({
         
       `}</style>
             <span className="image">
-              <img src="images/3students-cover.png" alt="CS" /></span>
+              <img src="images/kasidit_ploen.jpg" alt="CS" /></span>
             <div className="content">
 
-              <h2><a href="/cs">Computer Science</a></h2>
+              <h2><a href="/cs">Kasidit Ploenthamakhun</a></h2>
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
-                This program focuses on computer system concerned with information representation, storage and data processing. Our curriculum, courses and facilities are designed to foster creativity and innovativeness as students gain the core knowledge in theories and practices.
+                Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
               <p>
                 ...
               </p>
               <ul className="actions">
-              </ul>
+              
+          
+            
+          <li><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Bio</button></h2></li>
+          
+        
+
+      </ul>
+              
+            </div>
+          </article>
+
+          <article className="feature left">
+
+
+            <style jsx>{`
+        .inner {
+          margin: 50px;
+        }
+        p {
+          color: white;
+        }
+      `}</style>
+            <style jsx global>{`
+        p {
+          font-size: 20px;
+        }
+        
+      `}</style>
+            <span className="image">
+              <img src="images/amina_narak.jpg" alt="CS" /></span>
+            <div className="content">
+
+              <h2><a href="/cs">Amina</a></h2>
+
+                {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+                Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
+              <p>
+                ...
+              </p>
+              <ul className="actions">
+              
+          
+            
+          <li><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Bio</button></h2></li>
+          
+        
+
+      </ul>
+              
             </div>
           </article>
 
@@ -399,11 +647,11 @@ export default function Home({
         onAfterOpen={afterOpenModal}
         onRequestClose={closeModal}
         style={modalStyles}
-        contentLabel="Why VMS"
+        contentLabel="Bio"
       >
 
         <h2 ref={_subtitle => (subtitle = _subtitle)}>
-          WHY VMS IS THE BEST OPTION?:
+          Background:
         </h2>
         <article className="feature right">
           <span className="image">
