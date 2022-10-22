@@ -1,11 +1,12 @@
 {
-  "name": "vms-main",
+  "name": "kasidit_port",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "prod": "next build && next start"
   },
   "dependencies": {
     "animate.css": "^4.1.1",
@@ -32,5 +33,6 @@
     "postcss": "^8.3.11",
     "tailwindcss": "^2.2.19",
     "typescript": "^4.2.3"
+    
   }
 }

@@ -227,7 +227,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-              <img src="images/website.png" />
+            <Image src={'/images/website.png'} alt='Home Page' width={700} height={400} />
               
               </span>
             <div className="content">
@@ -272,7 +272,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-              <img src="images/sii.png" alt="CS" />
+            <Image src={'/images/sii.png'} alt='Home Page' width={700} height={400} />
               
               </span>
             <div className="content">
@@ -438,7 +438,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-              <img src="images/kasidit_ploen.jpg" alt="CS" /></span>
+            <Image src={'/images/kasidit_ploen.jpg'} alt='Home Page' width={600} height={600} /></span>
             <div className="content">
 
               <h2><a href="/cs">Kasidit Ploenthamakhun</a></h2>
@@ -479,7 +479,8 @@ export default function Home({
         
       `}</style>
             <span className="image">
-              <img src="images/amina_narak.jpg" alt="XX" /></span>
+            <Image src={'/images/amina_narak.jpg'} alt='Home Page' width={500} height={700} />
+              </span>
             <div className="content">
 
               <h2><a href="/cs">Amina</a></h2>
