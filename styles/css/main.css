@@ -3766,7 +3766,7 @@ button.alt:active,
   background-color: #b39200;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: url("images/overlay.png"), url("../images/picx.jpg");
+  background-image: url("images/overlay.png"), url("../images/picx.webp");
   background-size: cover;
 }
 
@@ -4310,7 +4310,7 @@ body {
   background-color: #280ba7;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
-  background-image: url("images/overlay.png"), url("../images/banner.jpg");
+  background-image: url("images/overlay.png"), url("../images/banner.webp");
   background-size: cover;
   text-align: left;
 }

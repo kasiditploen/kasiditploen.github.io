@@ -227,7 +227,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-            <Image src={'/images/website.jpg'} alt='Home Page' width={700} height={400} />
+            <Image src={'/images/website.jpg'} alt='Home Page' width={700} height={400} layout="fill" />
               
               </span>
             <div className="content">
@@ -272,7 +272,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-            <Image src={'/images/sii.jpg'} alt='Home Page' width={700} height={400} />
+            <Image src={'/images/sii.jpg'} alt='Home Page' width={700} height={400} layout="fill" />
               
               </span>
             <div className="content">
@@ -306,7 +306,7 @@ export default function Home({
           <h5><a href="/cs">Skills</a></h5>
           <div className="row">
           <span className="image" >
-          <Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
+          <Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} layout="fill" />
               
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h2>
@@ -329,7 +329,7 @@ export default function Home({
 </div>
 </span>        
 <span className="image" >
-<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} layout="fill" />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">HTML/CSS</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -351,7 +351,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} layout="fill"/>
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">React/Next.js</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -373,7 +373,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} layout="fill" />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">PHP</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -395,7 +395,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} layout="fill" />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -442,7 +442,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-            <Image src={'/images/kasidit_ploen.jpg'} alt='Home Page' width={600} height={600} /></span>
+            <Image src={'/images/kasidit_ploen.jpg'} alt='Home Page' width={600} height={600} layout="fill" /></span>
             <div className="content">
 
               <h2><a href="/cs">Kasidit Ploenthamakhun</a></h2>

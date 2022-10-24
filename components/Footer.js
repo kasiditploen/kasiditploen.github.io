@@ -4,10 +4,10 @@ export default function Footer() {
       <footer id="footer" >
         <div className="inner">
           <ul className="icons">
-            <li><a href="https://www.facebook.com/auvms" className="icon fa-facebook">
+            {/*<li><a href="https://www.facebook.com/auvms" className="icon fa-facebook">
               <span className="label">Facebook</span>
-            </a></li>
-            <li><a href="https://www.youtube.com/channel/UCpvuETFR69r0at9tHMSfbsw" className="icon fa-youtube">
+            </a></li>*/}
+            <li><a href="https://www.youtube.com/channel/UC2A3IcCrZwFHwi2L3wxDCfg" className="icon fa-youtube">
               <span className="label">Youtube</span>
             </a></li>
 
@@ -22,7 +22,7 @@ export default function Footer() {
             </a></li> */}
           </ul>
           <ul className="copyright">
-            <li>&copy; Vincent Mary School of Science and Technology.</li>
+            <li>&copy; Kasidit Ploenthamakhun</li>
             {/* <li>Images: <a href="http://unsplash.com">Unsplash</a>.</li>
             <li>Design: <a href="http://templated.co">TEMPLATED</a>.</li> */}
           </ul>
