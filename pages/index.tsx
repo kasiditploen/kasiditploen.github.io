@@ -89,12 +89,14 @@ export default function Home({
         {/* <link href="custombox.min.css" rel="stylesheet"/>
       <script src="custombox.min.js"></script>
       <script src="custombox.legacy.min.js"></script> */}
-
-        <title>Home Page: Portfolio</title>
+      <html lang="en-us"></html>
+<link rel="alternate" hrefLang="en" href="https://kasiditploenportfolio.vercel.app" />
+<link rel="canonical" hrefLang="en" href="https://kasiditploenportfolio.vercel.app" />
+        <title>KP: Portfolio</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="jrtfjrt6ujt6rjytu6tyuty6uty6ujtyikjyuikyugiokytg7kfgytoklfykfty"
+          content="This page represents a portfolio of Kasidit Ploenthamakhun, a bachelor degree of Science and Technology in Assumption University."
         />
         <meta
           property="og:image"
@@ -233,7 +235,7 @@ export default function Home({
             <div className="content">
 
               <h2><a href="/cs">Senior Project I</a></h2>
-              <h1><a href="/cs">VMS Website 2022</a></h1>
+              <h2><a href="/cs">VMS Website 2022</a></h2>
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
               <p>
@@ -243,7 +245,7 @@ export default function Home({
               
           
             
-          <li><a href="#"><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Go</button></h2></a></li>
+          <li><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Go</button></h2></li>
           
         
 
@@ -278,7 +280,7 @@ export default function Home({
             <div className="content">
 
               <h2><a href="/cs">Senior Project II</a></h2>
-              <h1><a href="/cs">Fitness Management System</a></h1>
+              <h2><a href="/cs">Fitness Management System</a></h2>
 
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
@@ -306,11 +308,11 @@ export default function Home({
           <h5><a href="/cs">Skills</a></h5>
           <div className="row">
           <span className="image" >
-          <Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/javascript.webp'} alt='Home Page' width={200} height={200}  />
               
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h2>
-<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
 
 
 
@@ -329,10 +331,10 @@ export default function Home({
 </div>
 </span>        
 <span className="image" >
-<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200}  />
+<Image src={'/images/htmlx.webp'} alt='Home Page' width={200} height={200}  />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">HTML/CSS</a></h2>
-<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+<h2 style={{textAlign: "center"}}><a href="/cs">HTML</a></h2>
+<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
 
 
 
@@ -350,11 +352,34 @@ export default function Home({
 
 </div>
 </span>       
+
 <span className="image" >
-<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/css.webp'} alt='Home Page' width={200} height={200}  />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">React/Next.js</a></h2>
-<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+<h2 style={{textAlign: "center"}}><a href="/cs">CSS</a></h2>
+<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>  
+<span className="image" >
+<Image src={'/images/React.webp'} alt='Home Page' width={200} height={200} />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">React</a></h2>
+<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
 
 
 
@@ -372,11 +397,34 @@ export default function Home({
 
 </div>
 </span>       
+
 <span className="image" >
-<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/nextjsx.webp'} alt='Home Page' width={200} height={200} />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">NextJS</a></h2>
+<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>  
+<span className="image" >
+<Image src={'/images/phpx.webp'} alt='Home Page' width={320} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">PHP</a></h2>
-<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
 
 
 
@@ -395,10 +443,10 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200}  />
+<Image src={'/images/mysql.webp'} alt='Home Page' width={200} height={200}  />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h2>
-<h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
+<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
 
 
 
@@ -416,6 +464,52 @@ export default function Home({
 
 </div>
 </span>       
+
+<span className="image" >
+<Image src={'/images/seo.webp'} alt='Home Page' width={200} height={200}  />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">SEO</a></h2>
+<h3 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h3>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>  
+
+<span className="image" >
+<Image src={'/images/englishx.webp'} alt='Home Page' width={200} height={200}  />
+              <div className="content">
+<h2 style={{textAlign: "center"}}><a href="/cs">English</a></h2>
+<h3 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h3>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span> 
               
               
               

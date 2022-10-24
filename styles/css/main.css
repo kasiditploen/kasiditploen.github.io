@@ -2124,7 +2124,31 @@ header p {
 }
 
 header h1 {
+  font-size: 4.25em;
+  margin-top: 0em;
+  line-height: 1.85em;
+}
+
+header h2 {
+  font-size: 3.25em;
+  margin-top: 0em;
+  line-height: 1.85em;
+}
+
+header h3 {
+  font-size: 2.25em;
+  margin-top: 0em;
+  line-height: 1.85em;
+}
+
+header h4 {
   font-size: 1.25em;
+  margin-top: 0em;
+  line-height: 1.85em;
+}
+
+header h5 {
+  font-size: 1.00em;
   margin-top: 0em;
   line-height: 1.85em;
 }
@@ -4107,13 +4131,13 @@ body {
 }
 
 #header a[href="#nav"]:before {
-  content: "";
+  /*content: "";
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-family: FontAwesome;
   font-style: normal;
   font-weight: normal;
-  text-transform: none !important;
+  text-transform: none !important;*/
 }
 
 #header a[href="#nav"]:before {

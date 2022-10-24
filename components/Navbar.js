@@ -9,8 +9,10 @@ export default function Navbar({ title = "", transparent }) {
     <>
       <header id="header" className={className}>
         {/*<h1><a href="/"><img src="/images/vms-logo-white.png" alt="VMS" className="icon" style={logoStyle}/>Kasidit P.{title}</a></h1>*/}
-        <h1 style={{textAlign: "left"}}><a>Kasidit{title}</a></h1>
-        <a href="#nav"></a>
+        
+        <h3 style={{textAlign: "right"}}><a href="#nav">Kasidit{title}</a></h3> 
+        
+        
         {/* <p><h6><a href="/">Vincent Mary School Of Science And Technology</a></h6></p> */}
       </header>
       
