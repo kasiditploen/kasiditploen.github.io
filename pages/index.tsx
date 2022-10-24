@@ -89,7 +89,7 @@ export default function Home({
         {/* <link href="custombox.min.css" rel="stylesheet"/>
       <script src="custombox.min.js"></script>
       <script src="custombox.legacy.min.js"></script> */}
-      <html lang="en-us"></html>
+      
 <link rel="alternate" hrefLang="en" href="https://kasiditploenportfolio.vercel.app" />
 <link rel="canonical" hrefLang="en" href="https://kasiditploenportfolio.vercel.app" />
         <title>KP: Portfolio</title>
