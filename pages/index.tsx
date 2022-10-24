@@ -306,7 +306,7 @@ export default function Home({
           <h5><a href="/cs">Skills</a></h5>
           <div className="row">
           <span className="image" >
-          <Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
+          <Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
               
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h2>
@@ -329,7 +329,7 @@ export default function Home({
 </div>
 </span>        
 <span className="image" >
-<Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">HTML/CSS</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -351,7 +351,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-<Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">React/Next.js</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -373,7 +373,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-<Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">PHP</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -395,7 +395,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-<Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/robot1.webp'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -467,32 +467,7 @@ export default function Home({
 
          
 
-          <article className="feature right">
-            <span className="image"><img src="images/pic02.jpg" alt="IT" /></span>
-            <div className="content">
-              <h2><a href="/it">Information Technology</a></h2>
-              <p>
-                <style jsx>{`
-        .inner {
-          margin: 50px;
-        }
-        p {
-          color: white;
-        }
-      `}</style>
-                <style jsx global>{`
-        p {
-          font-size: 20px;
-        }
-      `}</style>
-                {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
-                Encompasses all forms of technology used to create, store, exchange, and use information in its various forms (business data, voice, conversations, still images, motion pictures, multimedia presentations and other forms including those not yet conceived of). It emphasizes applying technology in analysis, design, development, operation, linkage, control and management of information systems.
-              </p>
-              <ul className="actions">
-
-              </ul>
-            </div>
-          </article>
+          
         </div>
       </section>
 
