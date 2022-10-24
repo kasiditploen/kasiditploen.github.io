@@ -1883,8 +1883,14 @@ h6 a {
   text-decoration: none;
 }
 
+h1 {
+  font-size: 4.5em;
+  line-height: 1.5em;
+}
+
+
 h2 {
-  font-size: 1.5em;
+  font-size: 3.5em;
   line-height: 1.5em;
 }
 
@@ -1893,23 +1899,23 @@ h2 {
 
 
 h3 {
-  font-size: 1.3em;
+  font-size: 3.0em;
   line-height: 1.5em;
 }
 
 h4 {
-  font-size: 1.5em;
+  font-size: 2.5em;
   line-height: 1.5em;
 }
 
 h5 {
-  font-size: 4.5em;
+  font-size: 2.0em;
   line-height: 1.7em;
-  text-align: center;
+  
 }
 
 h6 {
-  font-size: 1.7em;
+  font-size: 1.1em;
   line-height: 1.5em;
 }
 
@@ -2126,6 +2132,11 @@ header p {
 header h1 {
   font-size: 4.25em;
   margin-top: 0em;
+  line-height: 1.85em;
+}
+header h1 + p {
+  font-size: 4.25em;
+  margin-top: -1em;
   line-height: 1.85em;
 }
 

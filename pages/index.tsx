@@ -114,8 +114,8 @@ export default function Home({
         <div className="inner">
           {/* <i className="icon fa-diamond"></i> */}
           {/*<img src="/images/vms-logo-test.png" alt="VMS" width="140" height="140" className="icon" />*/}
-          <h2>Welcome to My Portfolio</h2>
-        <h2>"School of Science and Technology."</h2>
+          <h1>Welcome to My Portfolio</h1>
+        <h3>"Kasidit Ploenthamakhun"</h3>
           <style jsx>{`
         .inner {
           margin: 50px;
@@ -210,7 +210,7 @@ export default function Home({
 {/*<h1><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h1>*/}
 </p>        
           </div>
-          <h5 className="text-lg" style={{textAlign: "left"}}>Senior Projects</h5>
+          <h3 className="text-lg" style={{textAlign: "left"}}>Senior Projects</h3>
           <article className="feature left">
 
 
@@ -234,8 +234,8 @@ export default function Home({
               </span>
             <div className="content">
 
-              <h2><a href="/cs">Senior Project I</a></h2>
-              <h2><a href="/cs">VMS Website 2022</a></h2>
+              <h4><a href="/cs">Senior Project I</a></h4>
+              <h5><a href="/cs">VMS Website 2022</a></h5>
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
               <p>
@@ -245,7 +245,7 @@ export default function Home({
               
           
             
-          <li><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Go</button></h2></li>
+          <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button" >Go</button></h5></li>
           
         
 
@@ -279,8 +279,8 @@ export default function Home({
               </span>
             <div className="content">
 
-              <h2><a href="/cs">Senior Project II</a></h2>
-              <h2><a href="/cs">Fitness Management System</a></h2>
+              <h4><a href="/cs">Senior Project II</a></h4>
+              <h5><a href="/cs">Fitness Management System</a></h5>
 
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
@@ -293,7 +293,7 @@ export default function Home({
               
           
             
-          <li><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Go</button></h2></li>
+              <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button" >Go</button></h5></li>
           
         
 
@@ -305,14 +305,14 @@ export default function Home({
           
           
               
-          <h5><a href="/cs">Skills</a></h5>
+          <h2 style={{textAlign: "center"}}><a href="/cs">Skills</a></h2>
           <div className="row">
           <span className="image" >
           <Image src={'/images/javascript.webp'} alt='Home Page' width={200} height={200}  />
               
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
 
 
 
@@ -333,8 +333,8 @@ export default function Home({
 <span className="image" >
 <Image src={'/images/htmlx.webp'} alt='Home Page' width={200} height={200}  />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">HTML</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">HTML</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
 
 
 
@@ -356,8 +356,8 @@ export default function Home({
 <span className="image" >
 <Image src={'/images/css.webp'} alt='Home Page' width={200} height={200}  />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">CSS</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">CSS</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
 
 
 
@@ -378,8 +378,8 @@ export default function Home({
 <span className="image" >
 <Image src={'/images/React.webp'} alt='Home Page' width={200} height={200} />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">React</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">React</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
 
 
 
@@ -401,8 +401,8 @@ export default function Home({
 <span className="image" >
 <Image src={'/images/nextjsx.webp'} alt='Home Page' width={200} height={200} />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">NextJS</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">NextJS</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
 
 
 
@@ -423,8 +423,8 @@ export default function Home({
 <span className="image" >
 <Image src={'/images/phpx.webp'} alt='Home Page' width={320} height={200} />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">PHP</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">PHP</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
 
 
 
@@ -445,8 +445,8 @@ export default function Home({
 <span className="image" >
 <Image src={'/images/mysql.webp'} alt='Home Page' width={200} height={200}  />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
 
 
 
@@ -468,8 +468,8 @@ export default function Home({
 <span className="image" >
 <Image src={'/images/seo.webp'} alt='Home Page' width={200} height={200}  />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">SEO</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">SEO</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h6>
 
 
 
@@ -491,8 +491,8 @@ export default function Home({
 <span className="image" >
 <Image src={'/images/englishx.webp'} alt='Home Page' width={200} height={200}  />
               <div className="content">
-<h2 style={{textAlign: "center"}}><a href="/cs">English</a></h2>
-<h3 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h3>
+<h5 style={{textAlign: "center"}}><a href="/cs">English</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h6>
 
 
 
@@ -517,7 +517,7 @@ export default function Home({
               <br></br>
               <br></br>
 
-              <h5><a href="/cs">Bio</a></h5>
+              <h2 style={{textAlign: "center"}}><a href="/cs">Bio</a></h2>
           <article className="feature right">
 
 
@@ -539,7 +539,7 @@ export default function Home({
             <Image src={'/images/kasidit_ploen.jpg'} alt='Home Page' width={600} height={600} /></span>
             <div className="content">
 
-              <h2><a href="/cs">Kasidit Ploenthamakhun</a></h2>
+              <h4><a href="/cs">Kasidit Ploenthamakhun</a></h4>
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
@@ -550,7 +550,7 @@ export default function Home({
               
           
             
-          <li><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Bio</button></h2></li>
+          <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Go</button></h5></li>
           
         
 
