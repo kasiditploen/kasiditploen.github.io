@@ -227,7 +227,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-            <Image src={'/images/website.png'} alt='Home Page' width={700} height={400} />
+            <Image src={'/images/website.jpg'} alt='Home Page' width={700} height={400} />
               
               </span>
             <div className="content">
@@ -272,7 +272,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-            <Image src={'/images/sii.png'} alt='Home Page' width={700} height={400} />
+            <Image src={'/images/sii.jpg'} alt='Home Page' width={700} height={400} />
               
               </span>
             <div className="content">
@@ -283,7 +283,7 @@ export default function Home({
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 My final project in my bachelor degree is the management system for fitness firms. I was assigned to research on the real fitness firms and evaulate
-                the data attributes or system to implement in my proposed system.
+                the data attributes and system to implement in my proposed system.
               <p>
                 ...
               </p>
@@ -419,7 +419,10 @@ export default function Home({
               
               
               </div>
-              
+              <br></br>
+              <br></br>
+
+              <h5><a href="/cs">Bio</a></h5>
           <article className="feature right">
 
 
@@ -461,47 +464,7 @@ export default function Home({
             </div>
           </article>
 
-          <article className="feature left">
-
-
-            <style jsx>{`
-        .inner {
-          margin: 50px;
-        }
-        p {
-          color: white;
-        }
-      `}</style>
-            <style jsx global>{`
-        p {
-          font-size: 20px;
-        }
-        
-      `}</style>
-            <span className="image">
-            <Image src={'/images/amina_narak.jpg'} alt='Home Page' width={500} height={700} />
-              </span>
-            <div className="content">
-
-              <h2><a href="/cs">Amina</a></h2>
-
-                {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
-                Cute Girl.
-              <p>
-                ...
-              </p>
-              <ul className="actions">
-              
-          
-            
-          <li><h2 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Bio</button></h2></li>
-          
-        
-
-      </ul>
-              
-            </div>
-          </article>
+         
 
           <article className="feature right">
             <span className="image"><img src="images/pic02.jpg" alt="IT" /></span>
