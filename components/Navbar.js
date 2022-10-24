@@ -1,5 +1,6 @@
 export default function Navbar({ title = "", transparent }) {
   let className = transparent ? "alt" : "";
+  <script type="text/javascript" src="https://unpkg.com/default-passive-events"></script>
   const logoStyle = {
     verticalAlign: 'middle',
 		width: '56px'
@@ -16,15 +17,12 @@ export default function Navbar({ title = "", transparent }) {
       <nav id="nav">
         <ul className="links">
           <li><a href="/">Home</a></li>
-          <li><a href="/cs">Computer Science</a></li>
-          <li><a href="/it">Information Technology</a></li>
-          <li><a href="/news">News</a></li>
-          <li><a href="/members">Members</a></li>
-          <li><a href="/curriculum">Curriculum</a></li>
-          <li><a href="/news">Programs</a></li>
-          <li><a href="/news">Project</a></li>
-          <li><a href="/news">Laboratories</a></li>
-          <li><a href="/news">About us</a></li>
+          <li><a href="/news">My Bio</a></li>
+          <li><a href="/cs">Senior Project I</a></li>
+          <li><a href="/it">Senior Project II</a></li>
+          <li><a href="/members">Projects</a></li>
+          <li><a href="/curriculum">Competition</a></li>
+          
         </ul>
       </nav>
     </>

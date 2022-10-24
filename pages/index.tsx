@@ -306,7 +306,8 @@ export default function Home({
           <h5><a href="/cs">Skills</a></h5>
           <div className="row">
           <span className="image" >
-              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+          <Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
+              
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -328,7 +329,7 @@ export default function Home({
 </div>
 </span>        
 <span className="image" >
-              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+<Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">HTML/CSS</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -350,7 +351,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+<Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">React/Next.js</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -372,7 +373,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+<Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">PHP</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -394,7 +395,7 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-              <img src="images/robot1.png" alt="CS"  style={{width: 200, height: 200, position: 'static', right: 0,flex: 1, flexDirection: 'row' }} />
+<Image src={'/images/robot1.png'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h2 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h2>
 <h1 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h1>
@@ -497,104 +498,8 @@ export default function Home({
 
 
 
-      {/* Highlights */}
-      <section id="two" className="wrapper style3">
-        <a id="news" />
-        <div className="inner">
-          <header className="major narrow">
-            <h2>Highlights</h2>
-            <p></p>
-          </header>
-          <div className="image-grid">
-            {newsData?.map(({ id, link, title, featuredImage }) => (
-              <Link href={link} key={id}>
-                {/* <img src={featuredImage.node.sourceUrl} alt={title} className="image" /> */}
-                <img src={featuredImage['node']['sourceUrl']} alt={title} className="image" />
-              </Link>
-            ))}
-          </div>
-
-
-          <ul className="actions">
-            <li><a href="/news" className="button big alt">View All</a></li>
-          </ul>
-        </div>
-      </section>
-
-      <section id="socialnews" className="wrapper special">
-        <a id="socialnews" />
-        <div className="inner">
-          <header className="major narrow">
-            <h2>Social News</h2>
-            <p>Facebook: AUVMS</p>
-          </header>
-          <div className="image-grid">
-            {facebookPosts?.filter(p => p.message && p.full_picture).map(({ id, message, permalink_url, full_picture }) => (
-              <Link href={permalink_url} key={id}>
-                <img src={full_picture} alt={message} className="image" />
-              </Link>
-            ))}
-          </div>
-
-
-          <ul className="actions">
-            <li><a href="/news" className="button big alt">View All</a></li>
-          </ul>
-        </div>
-      </section>
-
-      {/* Three */}
-      <section id="three" className="wrapper style3 special">
-        <div className="inner">
-          <header className="major narrow	">
-            <h2>Alumni</h2>
-            <p>Some notable alumni </p>
-          </header>
-          <div className="image-grid">
-
-            {alumniData?.map(({ id, link, title, featuredImage }) => (
-              <Link href={link} key={id}>
-                <img src={featuredImage['node']['sourceUrl']} alt={title} className="image" />
-              </Link>
-            ))}
-          </div>
-
-          <ul className="actions">
-            <li><a href="#" className="button big alt">View All</a></li>
-          </ul>
-        </div>
-      </section>
-
-      {/* Four : Contact Form */}
-      {enableContactForm &&
-        <section id="four" className="wrapper style2 special">
-          <div className="inner">
-            <header className="major narrow">
-              <h2>Get in touch</h2>
-              {/* <p>---</p> */}
-            </header>
-            <form action="#" method="POST">
-              <div className="container 75%">
-                <div className="row uniform 50%">
-                  <div className="6u 12u$(xsmall)">
-                    <input name="name" placeholder="Name" type="text" />
-                  </div>
-                  <div className="6u$ 12u$(xsmall)">
-                    <input name="email" placeholder="Email" type="email" />
-                  </div>
-                  <div className="12u$">
-                    <textarea id="message" placeholder="Message" rows={4}></textarea>
-                  </div>
-                </div>
-              </div>
-              <ul className="actions">
-                <li><input type="submit" className="special" value="Submit" /></li>
-                <li><input type="reset" className="alt" value="Reset" /></li>
-              </ul>
-            </form>
-          </div>
-        </section>
-      }
+      
+      
 
 
       {/* Load Facebook SDK for JavaScript */}
