@@ -44,28 +44,7 @@ const modalStyles = {
 
 
 export default function Home({
-  newsData,
-  alumniData,
-  facebookPosts
-}: {
-  newsData: {
-    id: string
-    title: string
-    link: string
-    featuredImage: Object
-  }[],
-  alumniData: {
-    id: string
-    title: string
-    link: string
-    featuredImage: Object
-  }[],
-  facebookPosts: {
-    id: string
-    message: string
-    full_picture: string
-    permalink_url: string
-  }[]
+  
 }) {
   const [enableContactForm, setEnableContactForm] = useState(siteConfig.enableContactForm)
   var subtitle;
@@ -90,10 +69,9 @@ export default function Home({
       <script src="custombox.min.js"></script>
       <script src="custombox.legacy.min.js"></script> */}
       
-<link rel="alternate" hrefLang="en" href="https://kasiditploenportfolio.vercel.app" />
-<link rel="canonical" hrefLang="en" href="https://kasiditploenportfolio.vercel.app" />
+<link rel="alternate preload canonical" hrefLang="en" href="https://kasiditploenportfolio.vercel.app" />
         <title>KP: Portfolio</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon preload" href="/favicon.ico" />
         <meta
           name="description"
           content="This page represents a portfolio of Kasidit Ploenthamakhun, a bachelor degree of Science and Technology in Assumption University."
@@ -249,7 +227,7 @@ export default function Home({
               
           
           <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button" >More Info.</button></h5></li>
-          <li><h5 style={{textAlign: "center"}}><a href="https://vmsnextjs-github-io.vercel.app/"><button  className="button" >GITHUB</button></a></h5></li>
+          <li><h5 style={{textAlign: "center"}}><a href="https://vmsnextjs-github-io.vercel.app/"><button  className="button" >WEBSITE</button></a></h5></li>
           
         
 
@@ -592,7 +570,7 @@ export default function Home({
         
       `}</style>
             <span className="image gradient-border">
-            <Image src={'/images/kasidit_ploen.jpg'} alt='Home Page' width={600} height={600} /></span>
+            <Image src={'/images/kasidit_ploen.webp'} alt='Home Page' width={600} height={600} /></span>
             <div className="content ">
 
               <h4><a href="/cs">Kasidit Ploenthamakhun</a></h4>
@@ -644,12 +622,12 @@ export default function Home({
         contentLabel="Bio"
       >
 
-        <h2 ref={_subtitle => (subtitle = _subtitle)}>
+        <h4 ref={_subtitle => (subtitle = _subtitle)}>
           Background:
-        </h2>
+        </h4>
         <article className="feature right">
           <span className="image">
-            <iframe width="550" height="350"
+            <iframe width="650" height="350"
               src="https://www.youtube.com/embed/37JaC2aGRWA"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -657,7 +635,7 @@ export default function Home({
           </span>
 
           <div className="content">
-            <h2>Advantages OF VMS:</h2>
+            <h5>Advantages OF VMS:</h5>
 
             <ul>
               <li>Meet With Most Influential People In Tech Industry</li>

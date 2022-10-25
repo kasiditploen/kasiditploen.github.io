@@ -15,6 +15,10 @@ export default function Footer() {
               <span className="label">Youtube</span>
             </a></li>
 
+            <li><a href="https://www.linkedin.com/in/kasidit-ploenthamakhun-2a699b254" className="icon fa-linkedin">
+              <span className="label">Youtube</span>
+            </a></li>
+
             {/* <li><a href="#" className="icon fa-twitter">
               <span className="label">Twitter</span>
             </a></li> */}
