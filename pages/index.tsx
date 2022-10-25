@@ -238,7 +238,7 @@ export default function Home({
           </article>
           
           
-          <article className="feature left boxpurple">
+          <article className="feature right boxpurple">
 
 
             <style jsx>{`
@@ -569,7 +569,7 @@ export default function Home({
         }
         
       `}</style>
-            <span className="image gradient-border">
+            <span className="image">
             <Image src={'/images/kasidit_ploen.webp'} alt='Home Page' width={600} height={600} /></span>
             <div className="content ">
 
