@@ -7,15 +7,19 @@ export default function Footer() {
             {/*<li><a href="https://www.facebook.com/auvms" className="icon fa-facebook">
               <span className="label">Facebook</span>
             </a></li>*/}
-            <li><a href="https://www.youtube.com/channel/UC2A3IcCrZwFHwi2L3wxDCfg" className="icon fa-youtube">
+            <li><a href="https://www.youtube.com/channel/UC2A3IcCrZwFHwi2L3wxDCfg" aria-label="Youtube" className="icon fa-youtube">
               <span className="label">Youtube</span>
             </a></li>
 
-            <li><a href="https://github.com/kasiditploen" className="icon fa-github">
+            <li><a href="https://github.com/kasiditploen" aria-label="Github" className="icon fa-github">
               <span className="label">Youtube</span>
             </a></li>
 
-            <li><a href="https://www.linkedin.com/in/kasidit-ploenthamakhun-2a699b254" className="icon fa-linkedin">
+            <li><a href="https://www.linkedin.com/in/kasidit-ploenthamakhun-2a699b254" aria-label="LinkedIn" className="icon fa-linkedin">
+              <span className="label">Youtube</span>
+            </a></li>
+
+            <li><a href="https://medium.com/@kasiditploen" aria-label="Medium" className="icon fa-medium">
               <span className="label">Youtube</span>
             </a></li>
 

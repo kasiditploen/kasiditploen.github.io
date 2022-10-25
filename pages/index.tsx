@@ -97,7 +97,7 @@ export default function Home({
         <div className="inner">
           {/* <i className="icon fa-diamond"></i> */}
           {/*<img src="/images/vms-logo-test.png" alt="VMS" width="140" height="140" className="icon" />*/}
-          <h5  style={{textAlign: "center"}}><a href="https://github.com/kasiditploen"><button  className="button smallx border special " >DOWNLOAD RESUME</button></a></h5>
+          <h2  style={{textAlign: "center"}}><a href="https://github.com/kasiditploen"><button  className="button smallx border special " >DOWNLOAD RESUME</button></a></h2>
           
           
           <style jsx>{`
@@ -215,13 +215,14 @@ export default function Home({
         
       `}</style>
             <span className="image">
-            <Image src={'/images/website.jpg'} alt='Home Page' width={700} height={400}  />
+            
+            <Image src="/images/website.jpg"  objectFit="contain" alt='Home Page' width="100%" height="100%" layout="responsive"  />
               
               </span>
             <div className="content">
 
-              <h4><a href="/cs">Senior Project I</a></h4>
-              <h5><a href="/cs">VMS Website 2022</a></h5>
+              <h3><a href="/cs">Senior Project I</a></h3>
+              <h4><a href="/cs">VMS Website 2022</a></h4>
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 A traditional VMS website used to be bulky, slow, and hard to maintain. My team and I were assigned to create a new VMS website for 2022 by using Next.js and deploy it on Vercel.
               <p>
@@ -265,8 +266,8 @@ export default function Home({
               </span>
             <div className="content">
 
-              <h4><a href="/cs">Senior Project II</a></h4>
-              <h5><a href="/cs">Fitness Management System</a></h5>
+              <h3><a href="/cs">Senior Project II</a></h3>
+              <h4><a href="/cs">Fitness Management System</a></h4>
 
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
@@ -725,7 +726,7 @@ export default function Home({
             <Image src={'/images/kasidit_ploen.webp'} alt='Home Page' width={600} height={600} /></span>
             <div className="content ">
 
-              <h4><a href="/cs">Kasidit Ploenthamakhun</a></h4>
+              <h5><a href="/cs">Kasidit Ploenthamakhun</a></h5>
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
