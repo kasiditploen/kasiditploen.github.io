@@ -737,7 +737,7 @@ export default function Home({
               
           
             
-          <li><h5 style={{textAlign: "center"}}><a href="https://github.com/kasiditploen"><button className="button small" >GITHUB</button></a></h5></li>
+          <li><h6 style={{textAlign: "center"}}><a href="https://github.com/kasiditploen"><button className="button small" >GITHUB</button></a></h6></li>
           
         
 
