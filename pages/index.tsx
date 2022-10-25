@@ -11,8 +11,8 @@ import { useEffect, useState } from 'react'
 import Modal from 'react-modal';
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
-import { GetStaticProps, GetServerSideProps } from 'next'
-import { getAlumniData, getNewsData, getFacebookPosts } from '../lib/posts-scitech'
+
+
 import 'animate.css';
 
 
@@ -111,11 +111,13 @@ export default function Home({
       <Navbar transparent={true} />
 
       <section id="banner">
+        <h1 style={{textAlign: "center"}} className="">My Portfolio</h1>
+        
         <div className="inner">
           {/* <i className="icon fa-diamond"></i> */}
           {/*<img src="/images/vms-logo-test.png" alt="VMS" width="140" height="140" className="icon" />*/}
-          <h1>Welcome to My Portfolio</h1>
-        <h3>"Kasidit Ploenthamakhun"</h3>
+         
+
           <style jsx>{`
         .inner {
           margin: 50px;
@@ -167,7 +169,7 @@ export default function Home({
       {/* One */}
 
 
-      <section id="one" className="wrapper style3">
+      <section id="one" className="wrapper style3 ">
       
 
       
@@ -210,8 +212,10 @@ export default function Home({
 {/*<h1><button onClick={() => setIsOpen(true)} className="button big special">Why VMS?</button></h1>*/}
 </p>        
           </div>
-          <h3 className="text-lg" style={{textAlign: "left"}}>Senior Projects</h3>
-          <article className="feature left">
+          
+          <h2 className="text-lg" style={{textAlign: "center"}}>Senior Projects</h2>
+          <article className="feature left boxred">
+
 
 
             <style jsx>{`
@@ -237,15 +241,15 @@ export default function Home({
               <h4><a href="/cs">Senior Project I</a></h4>
               <h5><a href="/cs">VMS Website 2022</a></h5>
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
-                Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
+                A traditional VMS website used to be bulky, slow, and hard to maintain. My team and I were assigned to create a new VMS website for 2022 by using Next.js and deploy it on Vercel.
               <p>
                 ...
               </p>
               <ul className="actions">
               
           
-            
-          <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button" >Go</button></h5></li>
+          <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button" >More Info.</button></h5></li>
+          <li><h5 style={{textAlign: "center"}}><a href="https://vmsnextjs-github-io.vercel.app/"><button  className="button" >GITHUB</button></a></h5></li>
           
         
 
@@ -256,7 +260,7 @@ export default function Home({
           </article>
           
           
-          <article className="feature left">
+          <article className="feature left boxpurple">
 
 
             <style jsx>{`
@@ -284,7 +288,7 @@ export default function Home({
 
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
-                My final project in my bachelor degree is the management system for fitness firms. I was assigned to research on the real fitness firms and evaulate
+                My final project in my bachelor degree is making a management system for fitness firms. I was assigned to research on the real fitness firms and evaulate
                 the data attributes and system to implement in my proposed system.
               <p>
                 ...
@@ -305,9 +309,11 @@ export default function Home({
           
           
               
-          <h2 style={{textAlign: "center"}}><a href="/cs">Skills</a></h2>
-          <div className="row">
-          <span className="image" >
+          <h2 className="text-lg" style={{textAlign: "center"}}>Skills</h2>
+          
+          <section id="two" className="wrapperx style1 boxwhite ">
+          <div className="row ">
+          <span className="image " >
           <Image src={'/images/javascript.webp'} alt='Home Page' width={200} height={200}  />
               
               <div className="content">
@@ -318,7 +324,7 @@ export default function Home({
 
   {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
   
-<ul className="actions">
+<ul className="actions ">
 
 
 
@@ -421,7 +427,7 @@ export default function Home({
 </div>
 </span>  
 <span className="image" >
-<Image src={'/images/phpx.webp'} alt='Home Page' width={320} height={200} />
+<Image src={'/images/phpx.webp'} alt='Home Page' width={200} height={200} />
               <div className="content">
 <h5 style={{textAlign: "center"}}><a href="/cs">PHP</a></h5>
 <h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
@@ -510,15 +516,65 @@ export default function Home({
 
 </div>
 </span> 
+
+<span className="image" >
+          <Image src={'/images/unity.webp'} alt='Home Page' width={200} height={200}  />
+              
+              <div className="content">
+<h5 style={{textAlign: "center"}}><a href="/cs">Unity</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h6>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>        
+
+<span className="image" >
+          <Image src={'/images/csharp.webp'} alt='Home Page' width={200} height={200}  />
+              
+              <div className="content">
+<h5 style={{textAlign: "center"}}><a href="/cs">C#</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>        
               
               
               
               </div>
+              </section>
+              <br></br>
               <br></br>
               <br></br>
 
-              <h2 style={{textAlign: "center"}}><a href="/cs">Bio</a></h2>
-          <article className="feature right">
+              <h2 style={{textAlign: "left"}}>Created By:</h2>
+          <article className="feature right boxorange">
 
 
             <style jsx>{`
@@ -535,9 +591,9 @@ export default function Home({
         }
         
       `}</style>
-            <span className="image">
+            <span className="image gradient-border">
             <Image src={'/images/kasidit_ploen.jpg'} alt='Home Page' width={600} height={600} /></span>
-            <div className="content">
+            <div className="content ">
 
               <h4><a href="/cs">Kasidit Ploenthamakhun</a></h4>
 
@@ -550,7 +606,7 @@ export default function Home({
               
           
             
-          <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button  small" >Go</button></h5></li>
+          <li><h5 style={{textAlign: "center"}}><a href="https://github.com/kasiditploen"><button className="button small" >GITHUB</button></a></h5></li>
           
         
 
@@ -625,20 +681,4 @@ export default function Home({
   )
 }
 
-// export const getServerSideProps: GetStaticProps = async () => {
-export const getServerSideProps: GetServerSideProps = async () => {
-  const newsData = await getNewsData()
-  const alumniData = await getAlumniData()
-  const facebookPosts = await getFacebookPosts()
-  // console.log(newsData)
-  // console.log(alumniData)
-  console.log(facebookPosts)
 
-  return {
-    props: {
-      newsData,
-      alumniData,
-      facebookPosts
-    }
-  }
-}

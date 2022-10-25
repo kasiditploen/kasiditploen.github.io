@@ -1874,6 +1874,119 @@ h6 {
   text-transform: uppercase;
 }
 
+
+
+.border {
+  
+  overflow: hidden;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.05) 20%, rgba(255, 255, 255, 0.05) 40%, #c21220 50%, #be1212 55%, rgb(223, 13, 13) 70%, rgba(255, 255, 255, 0.05) 100%);
+  background-size: 200% auto;
+  
+  animation: shine 7s linear infinite;
+}
+
+/*Begin shimmer code*/
+
+@keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+  }
+
+  .boxpurple{
+    
+    
+    
+    background: #111845a6;
+    
+    overflow: hidden;
+    box-shadow: 0 20px 50px rgb(132, 0, 255);
+    /*border: 2px solid #8400ac;*/
+    color: white;
+    padding: 20px;
+  }
+
+  .boxred{
+    
+    
+    
+    background: #111845a6;
+    
+    overflow: hidden;
+    box-shadow: 0 20px 50px rgb(255, 0, 0);
+    /*border: 2px solid #fd0000;*/
+    color: white;
+    padding: 20px;
+    
+  }
+
+  .boxorange{
+    
+    
+    
+    background: #111845a6;
+    
+    overflow: hidden;
+    box-shadow: 0 20px 50px rgb(255, 115, 0);
+    /*border: 2px solid #fd0000;*/
+    color: white;
+    padding: 20px;
+    
+  }
+
+  .boxwhite{
+    
+    
+    
+    background: #111845a6;
+    
+    overflow: hidden;
+    box-shadow: 0 20px 50px rgb(255, 255, 255);
+    /*border: 2px solid #fd0000;*/
+    color: white;
+    padding: 20px;
+    
+  }
+
+  .gradient-border {
+    
+    --border-width: 3px;
+    
+    
+    background: linear-gradient(
+      60deg,
+      hsl(224, 85%, 66%),
+      hsl(269, 85%, 66%),
+      hsl(314, 85%, 66%),
+      hsl(359, 85%, 66%),
+      hsl(44, 85%, 66%),
+      hsl(89, 85%, 66%),
+      hsl(134, 85%, 66%),
+      hsl(179, 85%, 66%)
+    );
+    background-size: 500% 500%;
+    background-position: 0 50%;
+    border-radius: calc(2 * var(--border-width));
+    animation: moveGradient 15s alternate infinite;
+    
+  }
+ 
+  
+  @keyframes moveGradient {
+    50% {
+      background-position: 100% 50%;
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
 h1 a,
 h2 a,
 h3 a,
@@ -2095,6 +2208,7 @@ button:hover {
   background-color: #E3E3E3;
 }
 
+
 .background_change {
   display: none;
   height: 100%;
@@ -2121,7 +2235,27 @@ section.special,
 article.special,
 header.special {
   text-align: center;
+  
 }
+.loveresortperfect{
+  text-align: center;
+  height:90vh;
+  line-height: 90vh;
+  color: #fcedd8;
+   font-family: 'Niconne', cursive;
+  font-weight: 700;
+  text-shadow: 5px 5px 0px #eb452b, 
+              10px 10px 0px #efa032, 
+              15px 15px 0px #46b59b, 
+              20px 20px 0px #017e7f, 
+              25px 25px 0px #052939, 
+              30px 30px 0px #c11a2b, 
+              35px 35px 0px #c11a2b, 
+              40px 40px 0px #c11a2b, 
+              45px 45px 0px #c11a2b;
+}
+
+
 
 header p {
   margin: 0 0 1.5em 0;
@@ -3304,6 +3438,15 @@ button.alt:active,
 .wrapper {
   padding: 8em 0 6em 0;
   position: relative;
+}
+
+.wrapperx {
+  padding: 4em 0 1em 40px;
+  position: relative;
+}
+.wrapperx.style1 {
+  background-color: #1e2832;
+  color: rgba(255, 255, 255, 0.75);
 }
 
 .wrapper > .inner {
@@ -4573,10 +4716,12 @@ body {
   }
 }
 
+
+
 /* Footer */
 
 #footer {
-  background-color: #3a1763;
+  background-color: #0e1122;
   color: rgba(255, 255, 255, 0.75);
   text-align: center;
 }
