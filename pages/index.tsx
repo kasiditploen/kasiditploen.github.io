@@ -88,14 +88,18 @@ export default function Home({
 
       <Navbar transparent={true} />
 
-      <section id="banner">
+      <section id="banner" style={{marginTop: -50}}>
+      <div>
         <h1 style={{textAlign: "center"}} className="">My Portfolio</h1>
         
+
+        </div>
         <div className="inner">
           {/* <i className="icon fa-diamond"></i> */}
           {/*<img src="/images/vms-logo-test.png" alt="VMS" width="140" height="140" className="icon" />*/}
-         
-
+          <h5  style={{textAlign: "center"}}><a href="https://github.com/kasiditploen"><button  className="button smallx border special " >DOWNLOAD RESUME</button></a></h5>
+          
+          
           <style jsx>{`
         .inner {
           margin: 50px;
@@ -359,6 +363,32 @@ export default function Home({
 
 </div>
 </span>  
+
+<span className="image" >
+          <Image src={'/images/boot.webp'} alt='Home Page' width={200} height={200}  />
+              
+              <div className="content">
+<h5 style={{textAlign: "center"}}><a href="/cs">Bootstrap</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">Intermediate</a></h6>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span> 
+
+
 <span className="image" >
 <Image src={'/images/React.webp'} alt='Home Page' width={200} height={200} />
               <div className="content">
@@ -541,7 +571,129 @@ export default function Home({
 </ul>
 
 </div>
-</span>        
+</span> 
+
+<span className="image" >
+          <Image src={'/images/Git.webp'} alt='Home Page' width={200} height={200}  />
+              
+              <div className="content">
+<h5 style={{textAlign: "center"}}><a href="/cs">GIT</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>  
+
+<span className="image" >
+          <Image src={'/images/ps.webp'} alt='Home Page' width={200} height={200}  />
+              
+              <div className="content">
+<h5 style={{textAlign: "center"}}><a href="/cs">Photoshop</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>       
+
+<span className="image" >
+          <Image src={'/images/xd.webp'} alt='Home Page' width={200} height={200}  />
+              
+              <div className="content">
+<h5 style={{textAlign: "center"}}><a href="/cs">Adobe XD</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">Beginner</a></h6>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span>       
+
+<span className="image" >
+          <Image src={'/images/su.webp'} alt='Home Page' width={200} height={200}  />
+              
+              <div className="content">
+<h5 style={{textAlign: "center"}}><a href="/cs">SketchUp</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">Beginner</a></h6>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span> 
+
+<span className="image" >
+          <Image src={'/images/arduino.webp'} alt='Home Page' width={200} height={200}  />
+              
+              <div className="content">
+<h5 style={{textAlign: "center"}}><a href="/cs">Arduino</a></h5>
+<h6 style={{textAlign: "center"}}><a href="/cs">Beginner</a></h6>
+
+
+
+  {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
+  
+<ul className="actions">
+
+
+
+
+
+
+
+</ul>
+
+</div>
+</span> 
+
+
               
               
               
