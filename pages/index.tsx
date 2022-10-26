@@ -216,7 +216,7 @@ export default function Home({
       `}</style>
             <span className="image">
             
-            <Image src="/images/website.jpg"  objectFit="contain" alt='Home Page' width="100%" height="100%" layout="responsive"  />
+            <Image src="/images/website.avif"  objectFit="contain" alt='Home Page' width="100%" height="100%" layout="responsive"  />
               
               </span>
             <div className="content">
@@ -261,7 +261,7 @@ export default function Home({
         
       `}</style>
             <span className="image">
-            <Image src={'/images/sii.jpg'} alt='Home Page' width={700} height={400}  />
+            <Image src={'/images/sii.avif'} alt='Home Page' width={700} height={400}  />
               
               </span>
             <div className="content">
@@ -704,7 +704,7 @@ export default function Home({
               <br></br>
               <br></br>
 
-              <h2 style={{textAlign: "left"}}>Created By:</h2>
+              <h2 style={{textAlign: "center"}}>Kasidit Ploenthamakhun</h2>
           <article className="feature right boxorange">
 
 
@@ -726,7 +726,7 @@ export default function Home({
             <Image src={'/images/kasidit_ploen.webp'} alt='Home Page' width={600} height={600} /></span>
             <div className="content ">
 
-              <h6><a href="/cs"><b>Kasidit Ploenthamakhun</b></a></h6>
+              
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
