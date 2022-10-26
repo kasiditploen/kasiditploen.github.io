@@ -297,11 +297,11 @@ export default function Home({
           <section id="two" className="wrapperx style1 boxwhite ">
           <div className="row ">
           <span className="image " >
-          <Image src={'/images/javascript.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/javascript.webp'} alt='Home Page' width={90} height={90}   />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">Javascript</a></h6>
+
 
 
 
@@ -320,10 +320,10 @@ export default function Home({
 </div>
 </span>        
 <span className="image" >
-<Image src={'/images/htmlx.webp'} alt='Home Page' width={200} height={200}  />
+<Image src={'/images/htmlx.webp'} alt='Home Page' width={90} height={90}   />
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">HTML</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">HTML</a></h6>
+
 
 
 
@@ -343,10 +343,10 @@ export default function Home({
 </span>       
 
 <span className="image" >
-<Image src={'/images/css.webp'} alt='Home Page' width={200} height={200}  />
+<Image src={'/images/css.webp'} alt='Home Page' width={90} height={90}   />
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">CSS</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">CSS</a></h6>
+
 
 
 
@@ -366,11 +366,11 @@ export default function Home({
 </span>  
 
 <span className="image" >
-          <Image src={'/images/boot.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/boot.webp'} alt='Home Page' width={90} height={90}   />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">Bootstrap</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">Intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">Bootstrap</a></h6>
+
 
 
 
@@ -391,10 +391,10 @@ export default function Home({
 
 
 <span className="image" >
-<Image src={'/images/React.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/React.webp'} alt='Home Page' width={90} height={90}  />
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">React</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">React</a></h6>
+
 
 
 
@@ -414,10 +414,10 @@ export default function Home({
 </span>       
 
 <span className="image" >
-<Image src={'/images/nextjsx.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/nextjsx.webp'} alt='Home Page' width={90} height={90}  />
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">NextJS</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">NextJS</a></h6>
+
 
 
 
@@ -436,10 +436,10 @@ export default function Home({
 </div>
 </span>  
 <span className="image" >
-<Image src={'/images/phpx.webp'} alt='Home Page' width={200} height={200} />
+<Image src={'/images/phpx.webp'} alt='Home Page' width={90} height={90} />
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">PHP</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">PHP</a></h6>
+
 
 
 
@@ -458,10 +458,10 @@ export default function Home({
 </div>
 </span>       
 <span className="image" >
-<Image src={'/images/mysql.webp'} alt='Home Page' width={200} height={200}  />
+<Image src={'/images/mysql.webp'} alt='Home Page' width={90} height={90}   />
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">MySQL</a></h6>
+
 
 
 
@@ -481,10 +481,10 @@ export default function Home({
 </span>       
 
 <span className="image" >
-<Image src={'/images/seo.webp'} alt='Home Page' width={200} height={200}  />
+<Image src={'/images/seo.webp'} alt='Home Page' width={90} height={90}   />
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">SEO</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">SEO</a></h6>
+
 
 
 
@@ -504,10 +504,10 @@ export default function Home({
 </span>  
 
 <span className="image" >
-<Image src={'/images/englishx.webp'} alt='Home Page' width={200} height={200}  />
+<Image src={'/images/englishx.webp'} alt='Home Page' width={90} height={90}   />
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">English</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">English</a></h6>
+
 
 
 
@@ -527,11 +527,11 @@ export default function Home({
 </span> 
 
 <span className="image" >
-          <Image src={'/images/unity.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/unity.webp'} alt='Home Page' width={90} height={90}  />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">Unity</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">Advanced</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">Unity</a></h6>
+
 
 
 
@@ -551,11 +551,11 @@ export default function Home({
 </span>        
 
 <span className="image" >
-          <Image src={'/images/csharp.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/csharp.webp'} alt='Home Page' width={90} height={90}   />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">C#</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">C#</a></h6>
+
 
 
 
@@ -575,11 +575,11 @@ export default function Home({
 </span> 
 
 <span className="image" >
-          <Image src={'/images/Git.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/Git.webp'} alt='Home Page' width={90} height={90}   />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">GIT</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">GIT</a></h6>
+
 
 
 
@@ -599,11 +599,11 @@ export default function Home({
 </span>  
 
 <span className="image" >
-          <Image src={'/images/ps.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/ps.webp'} alt='Home Page' width={90} height={90}  />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">Photoshop</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">intermediate</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">Photoshop</a></h6>
+
 
 
 
@@ -623,11 +623,11 @@ export default function Home({
 </span>       
 
 <span className="image" >
-          <Image src={'/images/xd.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/xd.webp'} alt='Home Page' width={90} height={90}  />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">Adobe XD</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">Beginner</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">Adobe XD</a></h6>
+
 
 
 
@@ -647,11 +647,11 @@ export default function Home({
 </span>       
 
 <span className="image" >
-          <Image src={'/images/su.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/su.webp'} alt='Home Page' width={90} height={90}  />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">SketchUp</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">Beginner</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">SketchUp</a></h6>
+
 
 
 
@@ -671,11 +671,11 @@ export default function Home({
 </span> 
 
 <span className="image" >
-          <Image src={'/images/arduino.webp'} alt='Home Page' width={200} height={200}  />
+          <Image src={'/images/arduino.webp'} alt='Home Page' width={90} height={90}  />
               
               <div className="content">
-<h5 style={{textAlign: "center"}}><a href="/cs">Arduino</a></h5>
-<h6 style={{textAlign: "center"}}><a href="/cs">Beginner</a></h6>
+<h6 style={{textAlign: "center"}}><a href="/cs">Arduino</a></h6>
+
 
 
 
