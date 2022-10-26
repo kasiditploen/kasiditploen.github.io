@@ -726,7 +726,7 @@ export default function Home({
             <Image src={'/images/kasidit_ploen.webp'} alt='Home Page' width={600} height={600} /></span>
             <div className="content ">
 
-              <h5><a href="/cs">Kasidit Ploenthamakhun</a></h5>
+              <h6><a href="/cs"><b>Kasidit Ploenthamakhun</b></a></h6>
 
                 {/*<h3>Join us in Suvarnabhumi Campus</h3>*/}
                 Hi everyone, my name is Kasidit Ploenthamakhun. I'm interested in web development, therefore, I seek opportunity to create different websites to show my potential.
@@ -737,7 +737,7 @@ export default function Home({
               
           
             
-          <li><h6 style={{textAlign: "center"}}><a href="https://github.com/kasiditploen"><button className="button small" >GITHUB</button></a></h6></li>
+          <li><h5 style={{textAlign: "center"}}><a href="https://github.com/kasiditploen"><button className="button small" >GITHUB</button></a></h5></li>
           
         
 
