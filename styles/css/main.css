@@ -5,6 +5,7 @@
 .dialog__content,.icon,.image,.select-wrapper,.wrapper,.wrapperx,header p,sub,sup{
     position:relative
 }
+
 *,.row,:after,:before{
     -moz-box-sizing:border-box;
     -webkit-box-sizing:border-box;
@@ -1492,6 +1493,11 @@ table.alt tfoot{
         max-width:100em;
         min-width:80em
     }
+
+    html, body {
+        overflow-x: hidden;
+        }
+    
     .container.\37 5\25{
         width:60em
     }
@@ -1564,6 +1570,7 @@ table.alt tfoot{
     .row.uniform.\32 5\25{
         margin:-.5em 0 -1px -.5em
     }
+    
     .\31 2u\24\28xlarge\29,.\31 2u\28xlarge\29{
         width:100%;
         clear:none;
@@ -2360,6 +2367,7 @@ table.alt tfoot{
         max-width:112.5%;
         min-width:90%
     }
+    
     .container.\37 5\25{
         width:67.5%
     }
