@@ -15,7 +15,21 @@ import Footer from '../components/Footer'
 
 import 'animate.css';
 
+const members = require('./members.json')
 
+
+
+
+export async function getStaticProps() {
+  console.log("process.env.WP_API_URL", process.env.WP_API_URL)
+  return {
+    props: {
+      API_URL: process.env.WP_API_URL
+    }
+  }
+}
+
+<div id="example-table"></div>
 
 
 const Carousel = require('react-responsive-carousel').Carousel;
@@ -36,9 +50,19 @@ const modalStyles = {
     bottom: 'auto',
     marginRight: '-50%',
     transform: 'translate(-50%, -50%)',
+    background: "white"
+    
+    
+
     // transition: 'opacity 1s linear'
+  },
+  overlay: {
+      
+    background: "rgb(0, 0, 0, 0.25)"
   }
 };
+
+
 
 
 
@@ -61,6 +85,8 @@ export default function Home({
   function closeModal() {
     setIsOpen(false);
   }
+
+  
 
   return (
     <>
@@ -280,7 +306,7 @@ export default function Home({
               
           
             
-              <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true)} className="button" >Go</button></h5></li>
+              <li><h5 style={{textAlign: "center"}}><button onClick={() => setIsOpen(true) } className="button" >Go</button></h5></li>
           
         
 
@@ -291,10 +317,50 @@ export default function Home({
           </article>
           
           
+          
+        <section id="main" className="wrapper style3">
+        <header className="major special">
+          <h2>Project Showcase</h2>
+          <p>
+            This is all my projects that I have been contributed to.
+
+            </p>
+        </header>
+
+
+
+        <div className="card-container">
+          {members.map((v, i) => {
+            return (
+              <div key={i} 
+              className="card" 
+              style={{ backgroundImage: `url("${v.photoUrl}")`,backgroundPosition: 'center',
+              backgroundSize: 'cover',
+              backgroundRepeat: 'no-repeat',
+              width: '400px',
+              height: '400px' }}>
+                <div className="card-content ">
+                  <div className="card-title boxme ">{v.name}</div>
+                  <p className="boxlol">{v.blurp}</p>
+                  
+                  
+                  <a href={v.portalUrl}><div className="button-wrap"><button data-dialog="somedialog1" className="trigger">Detail</button></div></a>
+                  
+                </div>
+              </div>
+              
+            )
+          })}
+
+        </div>
+      
+        
+
+          </section>
               
           <h2 className="text-lg" style={{textAlign: "center"}}>Skills</h2>
           
-          <section id="two" className="wrapperx style1 boxwhite ">
+          <section id="three" className="wrapperx style1 boxwhite ">
           <div className="row ">
           <span className="image " >
           <Image src={'/images/javascript.webp'} alt='Home Page' width={90} height={90}   />
@@ -767,16 +833,18 @@ export default function Home({
         page_id="98549204694">
       </div> */}
 
+
       <Modal
         isOpen={modalIsOpen}
         onAfterOpen={afterOpenModal}
         onRequestClose={closeModal}
         style={modalStyles}
         contentLabel="Bio"
+        
       >
 
         <h4 ref={_subtitle => (subtitle = _subtitle)}>
-          Background:
+          Get In Touch:
         </h4>
         <article className="feature right">
           <span className="image">

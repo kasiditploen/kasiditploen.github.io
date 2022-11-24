@@ -27,7 +27,11 @@ export default function News({ API_URL }) {
             return (
               <div key={i} 
               className="card" 
-              style={{ backgroundImage: `url("${v.photoUrl}")` }} >
+              style={{ backgroundImage: `url("${v.photoUrl}")`,backgroundPosition: 'center',
+              backgroundSize: 'cover',
+              backgroundRepeat: 'no-repeat',
+              width: '100vw',
+              height: '100vh' }} >
                 <div className="card-content">
                   <div className="card-title">{v.name}</div>
                   <p className="copy">{v.blurp}</p>

@@ -20,7 +20,7 @@
   grid-gap: 1rem;
   padding: 1rem;
   max-width: 1024px;
-  margin: 0 auto;
+  margin: 0 -13em;
   font-family: var(--font-sans);
 }
 @media (min-width: 600px) {
@@ -49,6 +49,7 @@
 @media (min-width: 600px) {
   .card {
     height: 350px;
+    width: 400px;
   }
 }
 .card:before {
@@ -98,6 +99,7 @@
   padding: 1rem;
   transition: transform var(--d) var(--e);
   z-index: 1;
+  
 }
 .card-content > * + * {
   margin-top: 1rem;

@@ -1,187 +1,26 @@
 [
   {
-    "name": "DR. SONGSAK CHANNARUKUL",
-    "email": "songsak@scitech.au.edu",
-    "title": "Full-time lecturer",
-    "office": "VMS 608",
-    "blurp": "Dean",
-    "portalUrl": "https://portal.scitech.au.edu/songsak/",
-    "photoUrl": "https://lh3.googleusercontent.com/PXE-MpShzzuSOrIshV7WyOG1yp1V3nziQWeeLwe9o5P76q_l89wt0NxTXLI6IJS_IBHYTbJE5vIsWWYHhFgymtetZb_l5FmCi3J3iyLLXjtOs30jnQMaEDjoEQD0k_6Tz3gxk_H_BHS9iYhQKI_hps8otsrTh0vN3iVRbY7mNbJKAVvBkyMoDbEaByX-JYvDbh02F0nIZ10IhEQ7EzJ9IGlTml94ZLYl6sOADID2rDk485RkWJUWEwFwGJGgk0ZzvuvRSIO3aAdYc63ysKtv5ch9aijo2jwrsEzQurUXBIC95srU7rWAPYMjHaf3q7rILp107ecte8e53SP3cdOnJ6eD31PdgvZbgMz4mUzAe_Z5i4jwrjW3wyC_kZ9SKDuB0Jo4bXrzJOGb9Yf22vzHX9UcoHKlZvmYUF5Cfy4bkLaSV3xaykD2cUbVqPVHxTN4SomTWB2xnkLS6Hf9onWo6VZw2wE9GMDwK6Nc_UqIGN_Dnt47T-VkivxVCnl-XGVWZ9qY7ArY7iaeO_yZo0qW13wTUOcxJsjLY7-CfmtgoaDSrQhP-vLZeNTGb0CKI-CrRO1lubn1R4yFTmdXhoaG6_yIou1hsMIANB4UlFMXA35PnINENRTbgsaV3y9E0WzkAGOqTOc_BLvIdNK636DnX59xeGhBhn6Yd6rfgUVJxC8SY-eF0-Ppu2JSdTbDLw4DiBwKD3y1zzlcmae7NETVAhsG=w250-h350-no?authuser=0"
+    "name": "E-commerce",
+    "blurp": "Next.JS,React.JS",
+    "portalUrl": "https://github.com/kasiditploen",
+    "photoUrl": "../../images/sii.avif"
   },
   {
-    "name": "ASST. PROF. DR. THITIPONG TANPRASERT",
-    "email": "thitipong@scitech.au.edu",
-    "title": "Director, ISL",
-    "office": "E6 (Huamak), VMS601 (Suvarnnabhumi)",
-    "blurp": "Advisor and Director of Intelligent Data Analytics Research Laboratory",
-    "portalUrl": "https://portal.scitech.au.edu/thitipong/",
-    "photoUrl": "https://lh3.googleusercontent.com/bs0KJhyoCMHnVO-osAotKY1tU3FVdPjWSPiRmabU6vLTgP5VW2M0pIdwrjZMVQ81t2Agm0k7LxAVJQGtL4VGurF4LchSHEFwFGu4aG8QG2Jcv2daH4S_X07tl_z6pjtHHRSWyY8SiFEb6Zz1L9BAoWjs2yAUbQfGgNtk2A_kGieor_jqyzcQRUaLNHhlnE5rCuiObRTUP56NN3dG_A6Nf0DY9tidFY_gK3Fd_5NA5wzNc55bwQxbaa9MWckK0t3DlcLWW0MPJNraeIb8Vx8pmxDbKvO_QHSjM_dY3DxqMz_jJ4hk7tZ0b28Di2KCG3nU01a5vTSkFZ0ijCCmZzEysWluNju6kz-xXMMOnU7Cc1UR2jTrHSZ9RHLO8hcG3NyrSKHbO8doyGBeswJucfvWVGR1g4YEbChVBVyKostv0jh2_Xoy5Bir1lthbgaHwpwzJCYZBS2ksE8HMP5RMvRlgUYzV1esHlHHWWLQ9ABvEfSb5Z0OewIzBLQ5vtBUSa8GRbktR1RYAL6dMVs_-sHv3uuuYp3s0s7el4vsnojQeeM0mgFAEYoYYEOm3khxHAh5wvyFrdOR79vEJUpAkTvP9hfgSXNVtB0mXtMLHyQoQC-_g3RuWtdcWbz5UcavTJdDDztgSh2VXveuQATzahoAp-qUv0oPMuNOCIb9HWzYuvxPPtNyZkXj2JrTcRyz27nbpK2Sm4eWmWKjNBkgOCi6AKkD=w250-h350-no?authuser=0"
+    "name": "Movie Landing Page",
+    "blurp": "Next.js",
+    "portalUrl": "https://github.com/kasiditploen",
+    "photoUrl": "../../images/website.avif"
   },
   {
-    "name": "A. SUPARWAT CHAROENVIKROM",
-    "email": "too@scitech.au.edu",
-    "title": "Full-time lecturer",
-    "office": "VMS06",
-    "blurp": "Assistant Dean for Administration",
-    "portalUrl": "https://portal.scitech.au.edu/suparwat/",
-
-    "photoUrl": "https://lh3.googleusercontent.com/LGLPsYQgzLXNh1MtsawVFnDNkp_6wxaI39g11BkEi7cUTddDPSi-jKWpLogGOqTcvKm8iBYOwGBxQsixPOjACx8Ns6dRmz6mCqm7cSbI7B_PIZekqgItwQk5JD6DAbl1PiHHHmQrDQwrL2IoTTTVQgYCXXBMhNRoLec97gyw5dwxjKAJAZqGXEgcTmy1NpWkWvJfFibUNrAPYd2LhjmAQh-rLF8Cr9DJ-Vo-JfLSEXmIZ0dstoCHDR0SUz3zOcfnsRgKTgzFJhyTfvTj8BciUwmZ-diDdh9SQhrAem8DDp_5O1NVq1y9FdDUK_bKrJc2KwrFuWjYmsn_XSYJvfMQJuKZNPkC61DLr1Bkhywu0khz5xuGRi_3TZXbOFbF5HSURhcpcGtlzZ4Thh9XfyVXMmGnzCRwCewWNEQmHOudavN3tr1uzXUmwesUhc1Tts33Q8udWqW3o7XpSwy-300qrUyLB1Wrl-91KbrTpg5MMBjWa1AkYbAHil7x5rAD5gsesBCekUaFeQfyDHSbFHJsuJtTCXWflRHrLkv8aE4QU3nFX0ME4QDt2H9V_ersiQa13sa6sJXG4FLJqdLD7mzLIroYldx7sfaht2btw6h20GDqSozU7zn8B4SlWO1nLeiNCdadbmpdFCkYEbDUmpcC8G1k857pcCbBXHtCWoHW33Lui0J0tKS2_R_vVLSMRl1MOZSgvTjZqU9GwtpsyR2uYNXv=w250-h350-no?authuser=0"
+    "name": "Fitness Wesite",
+    "blurp": "Next.js",
+    "portalUrl": "https://github.com/kasiditploen",
+    "photoUrl": "../../images/sii.avif"
   },
   {
-    "name": "A. TAPANAN YEOPHANTONG",
-    "email": "tapanan@scitech.au.edu",
-    "title": "Director, ISL",
-    "office": "VMS 0508",
-    "blurp": "Software Engineering and Data Analytics",
-    "portalUrl": "",
-
-    "photoUrl": "https://lh3.googleusercontent.com/QRpfwR6eiWJrpGrpmlWTFmTOVfWq82LRSq11VzD2NEB79m8WwZU3rSuZ_FdIhfCXbiNwUR3cssXxgRtwQPO3-62T2ZHM2IV070g0_nP6KU3-6F6txnWPb6g5iFAV3s4qr_X-E6V1MV1dZaFj12bM097NWkNcd-_e70fDReH9XdQtzsyCCzFIUMBIOQR9GQQey_6HzDNC_sk5w6KlnKi2jv8enxAcL8S49_OPMG1yaG34ApZq7uPVzWbp1sGyEa9DKGGJ_6FRwDOkX1ZkEurTkQYkRrkiCP5iFrrq0jm7nJE4H3CKAvEP-ECKOrIm-mWGiBc0r8H12Qqd8j4UOLU8_Ya_xiJuwS4kPRVXRrEvCV1tzcw9vgSqrhYbesTQ01gYUahYEdsLOw14Pu6j1nXFsXXYLyVB8oBBEQIvzd16CfLMqOcftSLdVU_sQm67Etvgm7_PQkrNts1A-FImd2MDhBAzA8L_KLzaTvmWNO6QuaN6LbG7sWhCnTaXc5l33c9UNOdrkuVTZ6GaoM8g6lMYW116A6ioaG9_DPXvIYuSkFf0MNHpXR53ZTLlq-7t85gEyZ47eICiaJc5rbdYU8gD1OK6NTCq9UibGjoMVhw2IEwZmkwVyZ9e-E-2O-XopAIkoG3Ep1FTOT7r7QSjZ7ZrKl8xrpyxyN3LU5wwKig2FJa4AGctpIeId8KmfZfpR-MIpUwAC1s_OyKsQ5NkEopF4b8P=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "ASST. PROF. DR. RACHSUDA SETTHAWONG",
-    "email": "rachsuda@scitech.au.edu",
-    "title": "Full-time lecturer",
-    "office": "VMS 0508",
-    "blurp": "Graduate Director in Computer Science, and Director, Computer Science Graduate Laboratory",
-    "portalUrl": "https://portal.scitech.au.edu/rachsuda/",
-
-    "photoUrl": "https://lh3.googleusercontent.com/wufE2X29BGjpOetO8fKlgA3uXowl22Vyr4K9ckGArusZgblYg_zWjatJbp1_1cGc-un4mVNIpt-THIiXSHA00Jo6k7rey2-s5BmypJTbbJeURjHg97I6xsrSSPjmadqIcBk2Ll7VTFELDe3PjEyIt1uM4h3tatKRuLXPhoUArnyCbCP2ukVerVNYThqhZhEFGYds5DwarpEhyH_4LG13zzgiAfpJz-WXtvL6HivcMZMnP5I3nWhoajtJ-AxZKo8q7aBOgJZhBhsSfMYqbftKlsymgb6OC4bGJ70BE-vGJoULpTMIFacy0-zQq8rmgmmMTSc8emgU4B-Hpti_myONHO90G-nmVt_9_6SZ_st0ceKu5poU42s_hak3CT5OuC3xxVTiwhatkw22XSsaHAMMX8gELXurYGZLdkVae2AoJ277W0-QS4-JR4scwRmN7HRe-szOlk4at5rAMC-hPK9mEwBWhBdQBaG8fb2pY-raY0g0trotSATvwL2-gwzj2JmlyowHLBLkol5Ydw_u-n-wiFJd1337J66s5PpFXioEzCjrhAbU3tBwUwzdg3LfquEpI4fUj2JnBxpPFZC7QA1o-klE9qcfMJIusrrAA80sgUZcGPmCsAEr43xNO3xgSC9Ojy60UKF1GY-QmF-LUztZfSfdorWqV5TNkEiXyAVqJ2ID3kar2J2OPRemBHRulD8JkaDUlOwGqcp4grKfbhIXbvzA=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "ASST. PROF. DR. PAITOON PORNTRAKOON",
-    "email": "paitoon@scitech.au.edu",
-    "title": "Director, ISL",
-    "office": "VMS0609",
-    "blurp": "Graduate Director in Information Technology, and Director, Information Technology Graduate Laboratory",
-    "portalUrl": "https://portal.scitech.au.edu/paitoon/",
-
-    "photoUrl": "https://lh3.googleusercontent.com/mQNZ2xJMCJBa_HuSEaNHi8AvbRJ8r4rcaQ9sFzI90Z4wQK90NX91kwo1eH5lNL8SoqO-n3Z59d4NplOr0RLwcQEzzdH8Q7LzNGQbnFGEYTEc4-Zns5KXdJSZQTbFOiRd2o0RoglObXo5yffjI8G7GjsliiNMW7oROGOLzhNvwxJ1xhJ1guRnByrl7XPZfzS9i1RIs71K5YG4_icKKyO2Sh9PQRmrk-cwps_UFu41qYTnyLOio_OZ3MDbvp50Hox9IZbe1FGgDIOp-u0vdgLTkF2DX5AdfeGjpxEf2CQq0GjCFQUSuts6KQ0sa2nuNLn1cOUkSUJ9kkfjaG75Vjldusk6emTJ6JABpudlJA_hxPGIUMcWxCh9KKTjcsjo5zAHDHors-keTGS16qMUqK_r4LeKWQfgMwNw1VjQMSY5c3R7z3WDyGARlWtBS_IZfZKjB1BjHcUzRFZJznGjjuyE6Mp7VgMk29MFuo_CwYUvi-UNYAxG6rkMSxkFg255eQMs8CKLCW5a1_hCyw06DEavCiWB5GmkVUmQkj9B0smBftTWXYUuEa5G9f8XSRnp9ick8lFWuGcVYhKz6m8gIpMWtDHdE93ASCRJ1ElgY9dfc1rjmS1p4GIDDFxHrx3BA5Aydao0iC7XyMCIwkhQDu5Wf4OpA0vJtR2uNtBb-23SQnRIjySnmrx7Ea0s59jwidWLklkCuA8Qh23rXjJFRmYIqREk=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "A. PIYAKUL TILLAPART",
-    "email": "mam@scitech.au.edu",
-    "title": "Full-time lecturer",
-    "office": "VMS05",
-    "blurp": "Undergraduate Director in Computer Science",
-    "portalUrl": "",
-
-    "photoUrl": "https://lh3.googleusercontent.com/8NryfJQ4Hyl-LvlxKV7b7RjPAm6sIb_wrPMv2SA_6e-pPaJKjbBFkBD9v2kphAGVf3ROH4KDQqEgjTzFxcgSUZ3xNmA4_Vm9_BDG_aiNfLGLrfQtsZaO_uYHKCotC_1hn9315M9gOH3YwnTqiYNwDBCb479jgmV1INTOuIKdVMUDmHrg4vonP0dCJfxno9G8YKSYh8DvPD9gB5cmARNqS8hgshjlysP8HdFtNal0Yld8guTtGHKmL48qEn-XL35BLB1Bn__6ZSHI05bvUuBSrrOMKsd7JYYmkBQoao7LP1EDR30lzbRzlrs5TO64lBTgOX8BuNTzA9FMy7DgQfzd0IyXVr1jJxk6ZoAbQ1v1HbwLJGK3Z1Ub-cV5MJ9pv3rJJ4Af0sITukT844ZbL65LmfttzAsBh4rzrlpNHjwP9XyQKVQsH4vH4NPw7c9IjF5u51OGRxxuJHPRrXDZ3dUkalCnO2gz1p-9c-ZhUTs9rwWFBtI0c8hcKxktG4smJmGHMCmOSVOY2zl1mzrSsxhC4pjJqeBjdQq3JHcH4mfxN8i_t2dEQx3YTWRAgYkpzFUkwG6uEw_026Ur6FId55J2LU_coIvAJB25sxgnO_8E0Vdw1rrtBA-Xz7lTAIRk8sw9KODiywxnyBLH_fI_HJL4YgSNdEsDdQzve2SmVFC5em0pcoL7R-LBPdxhhBTlqk4h96hvz9G4bT0ShKKcxHu4nKzB=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "ASST. PROF. DR. BENJAWAN SRISURA",
-    "email": "benjawan@scitech.au.edu",
-    "title": "Director, ISL",
-    "office": "VMS0503",
-    "blurp": "Undergraduate Director in Information Technology",
-    "portalUrl": "https://portal.scitech.au.edu/benjawan/",
-    "photoUrl": "https://lh3.googleusercontent.com/sHYtB6WKDnze6q2UdqYAu2Z_cl0I8BWWOzcF7NQw88ZT4D6A1N0ZkcAN_7RShaassQEVfPmyAdQv1AD__B6a66ypU1ffYIubF8emzleQLo-T5dQJ_zeod2EcRHMIzfFRVgBCjAaEYmnuyOdeuUJYAj90Wx7HvX9N5MaZkVC0ZDtTupGaAIGPeYGp1BOXY4JYcxxNk1BKsVPXuwjZ9swZLCPqauiKvf1zWUIXhWl1Cez1-zsJHmdPeyVhRbUFd40lqOv1ChLb_2ZN0aSkr7UQ78dytFA1MKgc21AWJHvyQUHc3ycNQdKWpQKCFlSY0R9DEi3V0PfDwXmakNpXaxkMtuEGJ6i-u7WzRJCp2ZDEdYvPqWdmVOpOs4dtTtDdb7dusmXjhWhLo5Z2TrLgyqqYzySUkm2wXtf6rGebVMfw4dyCNpd6uS2HYrNSUSNg-0Cev3JSbuQCBQNU6RjXccmhw_RkpEJD5caCbR7vIVmh2GjQf-iBoNyoBvXpgGRi_AXVXqJrQdrBabJRyFpZXMg4HrdS59PUEJHxtSxUjXekoF_K3yjJZg0KPminVEJGr7uXxIa2CdSORP2VyaBgx3v29zF9I-rJYOeWAHKCn5flH8Ib3jUtDB43O7xvTmrfUP7dWH7mklwqDnfF2rycJwjfuUlbH3DiRAjllNyz3ru3ZETAX6S0MmM2aH78K_lH_jgzwQ15Xoc8EGMYXfYHNrd0v0SV=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "DR. KWANKAMOL NONGPONG",
-    "email": "kwan@scitech.au.edu",
-    "title": "Director, ISL",
-    "office": "VMS05",
-    "blurp": "Director, Intelligent Systems Research Laboratory",
-    "portalUrl": "https://portal.scitech.au.edu/kwankamol/",
-    "photoUrl": "https://lh3.googleusercontent.com/W9rCP63ffdQyOFtIg8jqdVSWK-bYOgeVP0sv8zALq27tl6Mp6H3yG2RqrlJmSCY10_h8qX3pPTd9K0x3xoJj7Iu86dBoicU5I7lGpDphxo9tLxW_J46-_POuCDc2tNTRKuY3LMLrgqdOvOMLLWFxtqxspU7o2GM2MDPLZBM6oZ9YliFPpE99SKoApF4SIRBJNgPaD8q-CpZt75KiCBU4Q4er_enmQ3qugQ4l-ACv7xkVTqp1z1nPqsGwkU4X12jK1LgK-TSRJohX2G1fGl7hvZeXh6GnqiLbBdnOatWDpMwfOcqOvhKcYVOse0EK6R78qpjUR987ERqzBVvylQ8s_Z9Iw4FXID5N4nUIOV4Z15e2NR5M9Ofc8H3_1_umdTXcG7__-TO5Lm4qYNGr82mFtooWHYQ0p4yddOqahQPB1ZTo5HDKTl4EtP1uCZr_CMIWDJvMP84SaKJ6buaP0efWyjgWn73gsznDF6zT_kSruw3EfbGuGPv6hTjBSvLdRrI9R0zqGlZfpsTBZQ_UH9Y7LHdj4M6a7eMaH8bAdJshF-JfN5m8aRCH_a-05li-lbFSL6Z4Uofh5SzeTQbIwBNYvqw_aePu3yR9hk6kP-x1Du3weg2ag1pqSkOz6ZCL0inSxVxB12M7sR_1ot1mNr0h2_bKuTM6nIevdaWZr6f8enD9EWz3VppiGrbDq599hwZoIG8PsJTm_w_wb4bU-Lq3Ddqa=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "A. KIRATIJUTA BHUMICHITR",
-    "email": "kiratijuta@scitech.au.edu",
-    "title": "Director, ISL",
-    "office": "VMS0509",
-    "blurp": "Director, D*Code Research Laboratory",
-    "portalUrl": "https://portal.scitech.au.edu/kiratijuta/",
-    "photoUrl": "https://lh3.googleusercontent.com/2u8NOdNBOfzh-KXnfKRKqdZZQuj8EakeLx60iFZ4hEfrtQzSnBdvdH8MI6bWIRA0w8LYk7vplI847WnHPOhvAKDH-Ku_HvhHRj3zRXsoBOMOQtwjvFL3igOU_XWQnsSco85Mk3DPv-x8utfVDBz_7rAXLqDHjGYflzBYj9HQpqFYgHQvP247su3ZBUQiBJ50mZExtjo_eYlhDR9O_CsoxeGdv7H_9qdiLQOG64h1XRpo131nfx1GGQAMVoWHYxGc-gtlRoHwCbKtEdP6JQktzMglh81osIJj_tB8BGoPHP_IPshAdu4PotAQ7ZGdFuhISCVyD5aATb7zFNiI6JKr8ltPWyoCUIfmlCmnpIgzopusmMwTIU5rvA_fWuvT066zWSS6cHq0dopSzwjXQFd4nP4sYMzzUHwRIaldpwKFkZw08nY6iWDkXDRLKVQLdof8zaXBbLUbdkpq4L0MbNjie6LlSuRUZq2KBzfBqjpGOLkSq9zWVdiY0QkAY1cGdiZwGLaX4jJZwufBSjfrJGcnngdTxl9SckR1wxqFaa0Ya37BpoK3WPeTgPzTo6lYueJZ-WBV1ZBWDhBfL47k3fkniwUpsFC0R-2qN_4IveaNTLKyBUDAQvVx-8Ups73XVUvpdIbfFejauIVZu-ylGRyvu8hMbuWA8pbkKAyWTh-4BnA8V-Qfu-Jy-ouJ1mDz9-b2t9jnNiwql_I-HpToUApe-R4h=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "ASSOC. PROF. DR. PRATIT SANTIPRABHOB",
-    "email": "pratit@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "C6, VMS06",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "...",
-    "photoUrl": "https://lh3.googleusercontent.com/Y_ur7_WIQeN-LNWtw4F1aGiwqe8bGwj6OWtIeSuJ_SP4y6IMzG_OH_VtPI3rOFoPqPGSGBdkLQTvcnt88dYKo7SPAadajz3FlFnhK5VNv1KH-iY8RoT_e0bW7q-tAGJNWbnvLHTFoYATtA3BTjcfD92bkP-4MnQ03uOpC7AG2oRYItqEENGAltf63N_1lgw56hPThB0k1KFa-rgOS58UZw4xi_tlmqM8tXTm2_2W3ZEedizIlzYTmNaN5yAQ0N3uXROkoTYUTCqQuJRxcVwFbIO1kgVEYEesaG75MDHGGIBHPEiH9APvMHYCWS0Z6pomXb9BVkJFhMICACnauCzXpqxsbuuPp0Ri5HN5kah7dagxTYV1d_hDpKfZ5sngRHLwizDZKxLx6MOonuMOeKll3V6LJsqFXsFwrUSQg9KRUSliLzTcPDl8cSNo9O45eJ88UHvJgLi2TegzxFJqp6bEkCDhSvmpvkV_hjoZXIOTR3V8HfQRc-0CpKIaoH3hkOr0qQ08HVHNZDFjTPkXI-Ocq44MqCzr7VGEP89wGsDxbqr7NI3YdDCJofZdJuxolybwQzToKvOzkmByOmH9mVFT8firjKT15lN-sRzL9xO3zlOO0GIzne2_rbKHyRH8NpzZQ_XN-gMqDmdYa0jdrndkiaAEy9jGuMbD_7rbFexYCl-sDG_FxmgZUl9k7F1gRcHovVg-PwiFtsJL0yeSIVyskZxO=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "PROF. DR. GRAHAM KENNETH WINLEY",
-    "email": "gkwinley@scitech.au.edu",
-    "title": "Full-Time LecturerL",
-    "office": "E6, VMS06",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "...",
-    "photoUrl": "https://lh3.googleusercontent.com/yriRmNhebOcOa3PkwLSt4dKfSSWc31bMocXaQx5j3KDyh4OMD8eFnDoWlhoLeC8WmmU2SmGJ3nNcgA72c8DsRGn7-lvzedORAA6s1IF-yDgfwxR8aijw8m4hxXBMbijWJENGIwKB5RY9X_fmKEKe-S7gJrPwUHm0ywvulRfG4VSu8_FRoarvgWQpWxstYqpSxqxFGCg_OZAM2OhI4dwhrLUtT49dlHkPcH1xyn-Ovl-xdlBohUrcRpXcf2JQSpFDGGZyd9WZPWIwJSCUufqGGc2srzRJCZDoIB7Lg1iherYS8LjrBP6USQl7ca94TmwLdlvCwGL2vJ-7i2oGRH6SpVbiQ941vvXDIrk2Xe-MSv-KcXHrQ7u2KLdCQp94N5yWr32BeCxpiq4oiPY9qo_nH8nFVlD41i89afNpbdqb9idjkq1w4jxcOVlj9pC26la-ZkQug_KpXDg42q3LmpXyX5BCxulpFIX5nqYHd7Yt46mJinTGop1jwEm-NsnGYvM31ru_MelbcYobsAbVsOCgPWreD7qT3A5LW5K-T_b2sLsB5MpQiUuSWBfoZeYi4PZtbQ-6fh_VI3VfKfJ6dcV6rpNlGrjoC4nVzFrqGjBjLBT__6LeyuCuAfS0U40p6PuCNZiNtt4bj2I0qS6XgIiF94UU3qvSJbnE1yV12PgCn7mLy-FPA2MimRbP5ng1jQN9oEjG3FAhLqvBrKeCGqFp0BiH=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "ASST. PROF. DR.THANACHAI THUMTHAWATWORN",
-    "email": "tanachai@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "C6, VMS05",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "https://portal.scitech.au.edu/thanachai/",
-    "photoUrl": "https://lh3.googleusercontent.com/JQPap2R-cQSV0M9d4Kxswe9e9s3xAdesNCR8kt-uqk49jW-tLVoQCe1psznwEG5GflZ1RuIxjqLLb_BDzfyv8SRDB1e06-dVd2BpijI71SWuyTggsOirrloIy_EyCvQk5HNbtg9RuZYoXMiNP1uTvaCJ3QY_zX9J6Puqn3yb45mjfmI3k3oJ2Mz2GBxlpBABMzkgEB9MBIYx182_VMI8QZuwlHnEthm6tusPmuxyINO5I81BHgN2JO1BNoqkHSKrRzY6ZhJMkBGnoG5kT3CsFe8gUrHkSoMfmL5df7tzmtGs2mqHgtsKw03HP6fPcpWNJi_4U9Mv4q2WIdXSZWaPVufqcNEZnWXbgToCB8sM4NVOH5_DdUx08exGKz7eT5jP63vIQvVp45NVURmSFGR5OoV9LYRuNxLUxLjxRGz_CHqbls7yoAMlbj7xBCVVj9hbSvD-kaqUlsVUJuRAmeFtb5iQ-pFH8WUDP93jYo3pYCQJyBIe8mJduW0vU84KqUhZh8p2k4IG-eFod07sPmHoK5kBx_3Zrdc-vT81JUeBdOxcmj7H_9dYS_pe69R2oy5A1tJv60FsHRo-rXcOj_niYLWFrHpRACc1Y7_MoTZaywuGbPdUlD8CSl5wq0B4frE5Wg3DeUneYPnCWDJhFZwJr3EhMnWQ2ZulThjcBNK3skwrlqBhcTPB0M9B5J1O7BnVvK1k3npq9LgHh6tuJMULVmxB=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "ASST. PROF. DR.DOBRI ATANASSOV BATOVSKI",
-    "email": "dobri@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "C6, VMS05",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "https://portal.scitech.au.edu/dobri/",
-    "photoUrl": "https://lh3.googleusercontent.com/hr3X1RH3jrPu1LVio5zEWkbQpdrU6GJmCT0xvl03N2xIsaXigFkH3Pvirjew7FxgwOrYHiEgnu_41Zgu10zTQwfNG_V4svXVcrP8nY1wsUwWfCtMYr8XJhHquRS3mF5RaIt9rTtZ7WNgmSZ9vwCWAhwBfvr68eFFHPYs26JsFWAllVDyzJWDnpDZeNiA-lZ6eZq6Wn9GELDv5C7Q7vui5N3MdWUbieM12jjgD1A6Ch5m0U7XQQbEgAgR_DoNtO_gmVIre3EPIjkJTJvvs6XmLLUEaj6_-lEjypXhEMeW0uhu1rnlRYGw8RqutyHJS_ubOmnfzsXZ2a_cycSXzcAgbF7Mgdsww58BxOplljLJE4vUSxkeFkREirjSqupgT3IPZrnvB0_hSipV2PyYsl6EbaF3MnT9y-XUY7gQQUFdNSDpvzJFvjEx3_p4koE319mLtZybwcL4iBpHoQLi6RbIHL5vuLQ3X8Rp9hE0lbf43WVgaYSgfVr5JktPedr6JCKOvsF4cW5XVszBB7sQLzBIta5Wo1IxABDlM6ZVo2yyhAqkzmrnZHBqrR_w3iEPmrLDdlXTB1LS3-xpPc0FHQAiyPBVX8_PK53t2YxlzHHpXdIbfLnGDqUa9K7WPUIGBbzCDCKeGEa9LoDdHY47xh9xQRsSKp4t0tWHARwL6u3L8ic0S6H4AhR0AEb95dJRUZGQZu6KwpLs3TB838AuUFdBVRER=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "ASST. PROF. DR. DARUN KESRARAT",
-    "email": "darun@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "VMS0503",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "https://portal.scitech.au.edu/darun/",
-    "photoUrl": "../../images/t15.jpg"
-  },
-  {
-    "name": "ASST. PROF. TITIDA NOCHAI",
-    "email": "titida@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "VMS 0506",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "",
-    "photoUrl": "https://lh3.googleusercontent.com/ACOOKs_P4ONx_549oocPVTrbT1sdzfAez12dP3XXlMni1w4H2u61TH8WYIbum238_FDGRGUfS2mgAqKP9lW0Wk8uBHQxLQ2vpLJEApZT-jNaHGVO6J82p98KqfgfLxOZ7hzQxKQWokmyOyrdi8_QIWIFuvQHXfVbPJ9RbBYb72f4U6W0bOXAv9_QdceApeODntHB-RFBVVeHWXOamzADf8BnYuPnfc8-4emzGZBJHgYU_2Uq2iJnOzOO30v04n7acMGyztNx7BBaiz6QwC9wfPjLKtObexPIvT_tQpUPDBAB0vZEb1HaJe2uzNfTgiyuHygsvODQqR3CoCqC4YkKrDwz1QGVP9GI86KjbNklWIg9inUazrd9jpDr2Tm-hNySm3fCOAaJRwCDdgZf98RiPkNC9MNIaHjhtNSxXFmMS109f8kDb2xvAFDYsEZu4RsZFLFirxrVDSWafQW6NB_PAM89IRXehD1NY8_VtO20QmSWUm2h9hnmEXCK3LP2KOgkwk6G7iNh6rCdlxtnBaFxuy3oeaEbDCt5FxC5_AVbHbF39usm4GfE0OylIi3Gqvvrzdpl1iflcxnOq-_C2Z-o4ynODroqGZ0glNeqRHINr74qIbDZfln03X1GhtpUE-talLjxAqKXg21D0r1KirYjPmhSyq9Ii3jyLJl3svrDdz3r2eiV2LWmNlnZ-08nQeV2q1mGR0BxiSEgjPoxreIoecR5=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "Asst.Prof. DR. ANILKUMAR KOTHALIL GOPALAKRISHNAN",
-    "email": "anil@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "VMS05",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "https://portal.scitech.au.edu/anilkumar/",
-    "photoUrl": "https://lh3.googleusercontent.com/gX6JRek3PSv-nQLuoE6CrDBM6LTgdYdwcdNjugEsxosClBLxaYkncn0bHbvS0jHtYLu2URB2zqzMJOvfAx8jhGGnSZ4LQToeP9TIPJrd4v85QShmT7FQNZJChBaxRHRrhWvXcuRuIFVFpAbnXaSi50uZrfiDQHnmyGkc2lCU-jrTuBYQbdYs4amPdzkDcjjMhMmpKmis_XQ_lIq9lulfd2_P8cHXbIuc_Ve1KpZNJBReDkaBLDhhZVSv-VVT9zqHTCizQbjgOMfIfNhDfci4Oaay9TSpMlMrkoX2LDoIYxRN-EvvEhuGdvZfh-Sjac0rMo4IuVamdBcbNYVwD4YbWvJbpHhYYPavkChOwH3vTwNbxdRIN9Mo54gEdS4914AtGMkEsgQoaCmtNsnIhI5-n5tV_MZsByD3lLxPbZH2SdduP0NEeD8M7GoM4icubeeVVgvv52qwT-6iRub5cn_PtmHRDOLiNNW_1IEtlhEEVqI0NYHGcVKNennBBKbC-5YIIc-iQMX9PJh4juMm7-T-_eMl6Ctpi9BWBmAds22MatQT40Jafcniej6UmlItMwIyXC85FmbwLZRUZjJhPImnBm2_O-g6Ak33HBGCJ4xYs9G-CuY835KxDzEfigexlSKvXpkGEzyj8-YRrDpa4fPNTNGZ3KqE-R4ymboon6-60xIcVQ4Q0sLu51EJaDyAbvqR1zuNUTCfXuswUdfuJKUrGD9e=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "A. CHAYAPOL MOEMENG",
-    "email": "tapanan@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "VMS 0508",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "http://portal.scitech.au.edu/chayapol",
-    "photoUrl": "https://lh3.googleusercontent.com/b9k7ZJPM3N2YwIYj9ief5DNmfpC4538W2gkUklzQQENzXWTWwt4tnYVL7R9jWvNqrKMgeN_TebUrWWnsQ1q9QLdIsmxtz8nqpNu9Ol6f7WO7BkogYbZU_R0V2IwYhzyIOLMQ8Eej9kcA-kK8IgiT5_6JQ0wrQ2V4sqpnxmUHJmzCxx_B5aop-sFbG-pXTQA7uHZ2gZO5gWsr6pERHEhg87j8AWCh0kN_KxI4PgDbRhEfqwz_PYpT4-zouQe9OVjyaltBqdSE4fQ38hZcd2ZrSXZsprYVcOTyZAqFgjtSE2KxbtNpsZYKLzQ3WbaRTwIGXZOpdJerpFw6OCW135-uBvPgz8f0mw2Gzs_-JfoaYASFCL7iCjxFq061dEsILxfTbs3oQkbJw9QdePdoav-Lz11eCOutPQkz3-c4pFZrf-dGK-wXuDc-FmZhkMypZN-BYRpz0zkfdCTJ6a0a4SdX00alIkKu5Hwr2C8-y3lB_BPUr3Jlu3LYHPWPbbRrn7pTeTEOmulrfmjmJetJKKqidnQEORL9ZAj7yJE_EQlxACoQV8Yd_Sn04kwZXvyZHPJFO1HjsfQYqfDl2rRvZ6hPlTjk8pmGFjTQV4cZwp-lQINNdAK2iSszXVxRNVklp7P3JrqDf_8yMpS8G7E5c7FHqzk690IgmU_Ue-hO_Iaj0UkupKuIh0vWl65u6kw8BTEZ-bf1YaabTMUNUUGI9mULatBm=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "A. PAWUT SATITSUKSANOH",
-    "email": "pawut@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "VMS0507",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "https://portal.scitech.au.edu/pawut/",
-    "photoUrl": "https://lh3.googleusercontent.com/U3QmekofWFR-GxNSq2nM8nIi0SrDJEChxyFfPSntTmd9WZpNcrLcYMWzuIeUhyr2hoc_fP4HeM26mexQG4p50IUH5sl_hKHPlvWongFf7W2onHDZAgeMCDCKnXzTcZbzflONFkFtfCFWkmkzCF8yZCGKYMYGlf-YkbfQ9vewaixhkPePX7gPigvGZUaTl33ahYDtFKXT8Hc5tycHRbGqHSqvbw6FTXJ-sdq_aA6S9RHlAMWXWfe3E8VeblV181zq_KzwIt-ycGmQT_LXdD5l4A-ZAHZqrGvDo0AYVKsAZ3rFVa5ok1ZcaS_ozMtydapAyuu_1eGKAoWRL1fxgnZW0aOxj5eGfEbHqiUSUtFH7QMG4KXGHHTYiWe7XZi2G1f5TzzE07svNbZW38FJdC2lG7k8_xd-71m7pQAGh6a4gW4je0wZVDdXSFOoBZWgJU7VJ8V5Qlf0Bd_wCg8gxznJ3-dEay1jdGmaer89dIA5IHDQH2AWFc7crLGfya9KmZN8IopzMw2SQwCduEyYakaYtkzcDAGQZ50cbiGJrE354A35vut5jakiVytupETQ8mXitIE1r0_Rwb8QM4u9E3xTdR5Mp_oe5tNTwwCsSuUNKKxXalG5OrpjUqcYZwLDaTMx5BsyA2o6k-N50uv9ZGy8tDNiXgNmnR8XjuUAcCmZpB0LZ7wQ6VkXZyOFjSJ8YU__A-p4qUXoCq04hcVNDyPsLWmp=w250-h350-no?authuser=0"
-  },
-  {
-    "name": "DR. KHAING SANDAR HTUN",
-    "email": "khainghtun@scitech.au.edu",
-    "title": "Full-Time Lecturer",
-    "office": "VMS 0508",
-    "blurp": "Full-Time Lecturer",
-    "portalUrl": "",
-    "photoUrl": "https://lh3.googleusercontent.com/nddzAkVHVqVgtOGIKaD-g6E89XgonQJfSbdTrxm8v27qbwaUZnRUIZ3cD1l8rR7APePooT6dqFsg7qCEQNmJQyb5Cb6aVXgAVf26KhRC_sd2ci1wQgmH0IF4yZD6uSkaqBzycs8HVjUNIXArvCznjU_sp-sMjGnCgULBdhuYZsKcHLBJvkb6rLmtOKyBoCW3fYuhEtwdWPSjhfvcHG-iOxxPjWp45pUBfdFAbTYo5u1PQXNJWx0L_JEVUYqhUaD7paQs0Skw9mAvQhCnj5KZ6jEtLqLjEN9IwV8PJBmufxzArhQ_QcsS9mGObj72VXI8zcnTAt3lC5WVaqF5_Ei4K7ENtn5-uo_Y5htJ7LXDiemGLvZ9jvT49cHBzErmQq6WCZ_q5xLBDk1BXQ4be89iV6KHVvdQW1OTA1v4PZbSs47FxUWcNOe03Q9CJ0PkeuNIwRfpG4xt-27OeRJs9q8xOUthuMkAnQL8hOnfkv7Hl61O1u_FZvJXtQsMKAWVdaGHXr1VJI9DaKC1aJ3TuNnfot5IzRFDJki8nzcF7uhMnw5VzioabCCyUBxjN4iauKEJIQH4x9TuDROGOPl7qyDX8DX4f_FfxhR_hWgDHnLBTmgQvm5dVOLRymsCT2p7fHrAIrskXZa5wQBwz_IXTXREdAHag-wX1PBYJd8sXMzH23oZaGydirKUzveYuAFGSWMkFcuFscN21nLPmpOvCjyMPjss=w250-h350-no?authuser=0"
+    "name": "Concept Website",
+    "blurp": "Next.js",
+    "portalUrl": "https://github.com/kasiditploen",
+    "photoUrl": "../../images/sii.avif"
   }
 ]
